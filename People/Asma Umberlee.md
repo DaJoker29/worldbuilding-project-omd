@@ -27,9 +27,9 @@ Despite her shyness, many find her quite charming. Though some find the fact tha
 **Secret**
 What no one knows about Asma is that the devil who killed her mother never left town. In fact, he remains here, trapped inside Asma's mind.
 
-Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. in a twisted symbiotic relationship—occasionally granting her power to ensure her (and his) survival while she constantly reads, searching for ways to destroy him.
+Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
 
-This is one reason she has taken residence in the ghostly [[Xenavere Manor]] as the overwhelming psychic energy from the spectral forms keeps the fiend at bay. Otherwise, he will inundate her with tormenting images and walking nightmares in the hopes of breaking her resolve and gaining his freedom.
+This is why she resides in [[Xenavere Manor]] as the overwhelming psychic energy from the spectral forms keeps the fiend's illusions at bay. She has also built a connection to the skeletons, ghouls, and ghasts who parade around the mansion inundate her with tormenting images and walking nightmares in the hopes of breaking her resolve and gaining his freedom.
 
 # The Incubus
 
