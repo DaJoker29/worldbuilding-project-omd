@@ -4,13 +4,13 @@
 
 ## Questions/Comments
 - **Formalized Roles**: Creative Lead & Business Lead
-	- **Creative Lead**
+	- **Creative Lead** — Consistency and Continuity
 		- Set Content Guidelines for consistency
 			- Formats
 			- Templates
 			- Length
 		- Oversees/ensures continuity
-	- **Business Lead**
+	- **Business Lead** — The ABCs
+		- Audience
 		- Branding
-		- Building an audience
 		- Publishing/Monetization
