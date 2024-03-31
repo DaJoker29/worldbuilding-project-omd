@@ -1,10 +1,7 @@
 # Cover Art
 ![[Pasted image 20240331000901.png]]
 # Overview
-
-
-- Randomly floor plan. Roll tables determine where you go next. 
-	- Essentially a labryinth with random boss encounters.
+- Randomly generated floor plan. Essentially a labyrinth.
 - Chance to roll one of the mini-boss encounters. Otherwise, every room is randomly generated (either a trap, mobs, loot, or respite).
 
 ![[Pasted image 20240330234241.png]]
