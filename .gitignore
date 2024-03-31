@@ -1,0 +1,7 @@
+# Hide third-party PDFs
+z_attachments/*.pdf
+
+# Hide Obsidian Folder
+.obsidian
+
+.tmp*
