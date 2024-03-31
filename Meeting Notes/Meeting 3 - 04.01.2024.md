@@ -9,7 +9,7 @@
 			- Formats
 			- Templates
 			- Length
-		- Oversees and ensures continuity
+		- Oversees/ensures continuity
 	- **Business Lead**
 		- Branding
 		- Building an audience
