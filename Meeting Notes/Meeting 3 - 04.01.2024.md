@@ -3,5 +3,12 @@
 - [[Xenavere Manor]] (Location)
 
 ## Questions/Comments
-- Content Guidelines for consistency (Templates? Formats? Length?)
+- **Formalized Roles**: Creative Lead & Business Lead
+	- **Creative Lead**
+		- Content Guidelines for consistency (Templates? Formats? Length?)
+		- Ensuring continuity
+	- **Business Lead**
+		- Branding
+		- Building an audience
+		- Publishing/Monetization
 - Who is ensuring continuity?
