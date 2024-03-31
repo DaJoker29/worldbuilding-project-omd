@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "13ebd844c979328d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0c7532c92c19277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad52f9bf7e82694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Asma Umberlee.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a1597eb2a3cf989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca633272c47b7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Xenavere Manor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93f30d83d0a16a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "4272d7672a6c2d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8701e1659263560a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5934a11874072020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41faae7c3cec4d40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06c493d7fd3e833b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a946daf305bdf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a35a48da38f43c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Asma Umberlee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe4a8152defbc853",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "People/Asma Umberlee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04a907dabd3c3909",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f926aced1d5710c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "People/Asma Umberlee.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dad52f9bf7e82694",
+  "lastOpenFiles": [
+    "Places/Xenavere Manor.md",
+    "People/Asma Umberlee.md",
+    "z_attachments/Pasted image 20240331002931.png",
+    "z_attachments/Pasted image 20240331002035.png",
+    "z_attachments/Pasted image 20240331001505.png",
+    "z_attachments/Pasted image 20240331001301.png",
+    "z_attachments/Pasted image 20240331000901.png",
+    "z_attachments/Image - Asma Umberlee.png",
+    "z_attachments/Pasted image 20240330234339.png",
+    "z_attachments/Pasted image 20240330234327.png",
+    "z_attachments/Pasted image 20240330234317.png",
+    "z_attachments/Pasted image 20240330234241.png",
+    "z_attachments",
+    "Welcome.md",
+    "Places",
+    "People"
+  ]
+}
