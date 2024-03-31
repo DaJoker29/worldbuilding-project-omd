@@ -14,3 +14,4 @@
 		- Audience
 		- Branding
 		- Publishing/Monetization
+	- Knowing that these areas covered would give me confidence as a contributor. 
