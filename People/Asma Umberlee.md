@@ -6,7 +6,7 @@
 **Appearance**: A eerie young girl with unusual scars covering her face. Her irises are an unusual bright pink—which glows even brighter when threatened. She often has at least three books sticking out of her threadbare satchel.
 
 **Hometown**: Unknown (mother died shortly after arriving in town with her)
-**Occupation**: Assistant to the town's seamstress. (Sells scarves, gloves, and wool caps outside the local tavern.)
+**Occupation**: Assists the town seamstress by Mending damage garments and selling scarves, gloves, and coats outside the local tavern.
 **Highest Stat**: Intelligence
 **Lowest Stat**: Strength
 **Proficiency 1**: Investigation
