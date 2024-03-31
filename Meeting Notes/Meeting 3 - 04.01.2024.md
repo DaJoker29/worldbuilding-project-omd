@@ -3,5 +3,5 @@
 - [[Xenavere Manor]] (Location)
 
 ## Questions/Comments
-- Formlized content guidelines?
-- Universal readership
+- Content Guidelines for consistency (Templates? Formats? Length?)
+- Who is ensuring continuity?
