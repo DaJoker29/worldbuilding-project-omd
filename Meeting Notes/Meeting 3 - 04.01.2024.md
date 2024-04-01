@@ -1,9 +1,8 @@
 ### Homework
 - [[Asma Umberlee]] (NPC)
 - [[Xenavere Manor]] (Location)
-
 ## Questions/Comments
-- **Formalized Goals/Milestones**: I am not incentivized by "homework" assignments. I need goals
+- **What is the plan?**: I am not incentivized by homework assignments. I need long-term goals, roadmaps, and milestones to measure progress against.
 - **Formalized Roles**: Creative Lead & Business Lead
 	- **Creative Lead** — Consistency and Continuity
 		- Set Content Guidelines for consistency
