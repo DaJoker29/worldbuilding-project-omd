@@ -32,7 +32,8 @@ The incubus has since then tormented Asma with waking nightmares—hoping a crac
 
 It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the incubus's illusions cannot penetrate.
 
-**The Incubus**
+**Koz (The Incubus)**
+
 
 ![[Image - Hall of Mirrored Sight.png]]
 ![[Pasted image 20240330234317.png]]![[Pasted image 20240330234327.png]]
