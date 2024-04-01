@@ -1,6 +1,10 @@
 # Cover Art
 ![[Pasted image 20240331000901.png]]
 # Overview
+**Background**
+In their time, the Xenavere family were a group of high society
+
+
 - Randomly generated floor plan. Essentially a labyrinth.
 - Chance to roll one of the mini-boss encounters. Otherwise, every room is randomly generated (either a trap, mobs, loot, or respite).
 
