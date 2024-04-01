@@ -2,7 +2,7 @@
 ![[Pasted image 20240331000901.png]]
 # Overview
 **Background**
-In their time, the Xenavere family were a group of high society
+In their time, the Xenaveres were a merchant dynasty who utilizing
 
 
 - Randomly generated floor plan. Essentially a labyrinth.
