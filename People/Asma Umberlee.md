@@ -3,10 +3,10 @@
 **Name**: Asma Umberlee
 **Age**: 13
 **Lineage**: Half-Elf
-**Appearance**: A eerie young girl with unusual scars covering her face. Her irises are an unusual bright pink—which glows even brighter when threatened. She often has at least three books sticking out of her threadbare satchel.
+**Appearance**: A eerie young girl with unusual scars across her face. Her irises glow a bright pink—which intensifies when threatened. Often seen with at least three books sticking out of her threadbare satchel.
 
-**Hometown**: Unknown (mother died shortly after arriving in town with her)
-**Occupation**: Assists the town seamstress by Mending damage garments and selling scarves, gloves, and coats outside the local tavern.
+**Hometown**: Unknown (mother died when she was a toddler)
+**Occupation**: Assists the town seamstress by magically Mending damage garments and selling scarves, gloves, and coats outside the local tavern.
 **Highest Stat**: Intelligence
 **Lowest Stat**: Strength
 **Proficiency 1**: Investigation
