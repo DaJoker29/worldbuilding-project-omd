@@ -2,7 +2,9 @@
 - [[Asma Umberlee]] (NPC)
 - [[Xenavere Manor]] (Location)
 ## Questions/Comments
-- **What is the plan?**: I am not incentivized by homework assignments. I need long-term goals, roadmaps, and milestones to measure progress against.
+- **Long-Term Planning**: I am not incentivized by homework assignments. I need long-term goals, roadmaps, and milestones to move toward and measure progress against.
+	- If we plan on releasing a book, maybe start with a Table of Contents/Outline of what will be inside.
+	- 
 - **Formalized Roles**: Creative Lead & Business Lead
 	- **Creative Lead** — Consistency and Continuity
 		- Set Content Guidelines for consistency
