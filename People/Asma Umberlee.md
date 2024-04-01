@@ -32,8 +32,10 @@ The incubus has since then tormented Asma with waking nightmares—hoping a crac
 
 It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the incubus's illusions cannot penetrate.
 
-**Koz (The Incubus)**
+# **The Incubus**
+He goes by Koz—short for Koziel. How old this being is or how they escaped from the Lower Planes is unknown.
 
+What is certain is that he has spent the past decade imprisoned and he is desperate for a way out. He has built a lair within the mind of 
 
 ![[Image - Hall of Mirrored Sight.png]]
 ![[Pasted image 20240330234317.png]]![[Pasted image 20240330234327.png]]
