@@ -33,7 +33,9 @@ The incubus has since then tormented Asma with waking nightmares—hoping a crac
 It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the incubus's illusions cannot penetrate.
 
 # **The Incubus**
-He goes by Koz—short for Koziel. How old this being is or how they escaped from the Lower Planes is unknown.
+He goes by Koz—short for Koziel. How old this being is or how they escaped from the Lower Planes is mystery to all but himself. A mystery he does not care to divulge.
+
+He has spent over a decade trapped inside the mind of a child for reasons he cannot explain. He holds but unbridled contempt for the child Asma but he relies on her survival so he ensures 
 
 What is certain is that he has spent the past decade imprisoned and he is desperate for a way out. He has built a lair within the mind of 
 
