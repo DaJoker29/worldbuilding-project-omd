@@ -20,11 +20,11 @@
 **Personal History**
 Almost 12 years ago, a stranger arrived in town with her infant daughter bundled in her arms. The woman claimed her days were numbered as a devil had marked her soul for collection. The community took in the two but, as predicted, the mother was found slain weeks later.
 
-The child, Asma, was raised by the townsfolk—eventually finding her place as an assistant to a local seamstress. As she grew older, Asma showed a knack for the arcane which she quickly embraced. Soon, she was reading every book related to magic she could lay her hands upon. and bolstered through a steady reading habit.She also began to develop a knack for the arcane which she bolstered through a steady habit of reading.
+The child, Asma, was raised by the townsfolk—eventually finding her place as an assistant to a local seamstress. As she grew older, Asma showed a knack for the arcane which she quickly embraced. Soon, she was reading every tome she could place her hands on, hoping to expand her knowledge of the arcane.
 
-Despite her shyness, many find her quite charming. Though some find the fact that she stays in the haunted [[Xenavere Manor]] quite disconcerting.
+Despite a shy peculiarity, many of the townsfolk find her quite charming. Though some find it disconcerting that she chooses to stay in the abandoned halls of the haunted [[Xenavere Manor]].
 
-**Secret**
+## Secret
 What no one knows about Asma is that the devil who killed her mother never left town. In fact, he remains here, trapped inside Asma's mind.
 
 Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
