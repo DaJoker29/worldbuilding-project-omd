@@ -18,9 +18,9 @@
 **Traits**: Quiet, Independent, Open-Minded, Intelligent
 
 **Personal History**
-Almost 12 years ago, a stranger arrived in town with her infant daughter bundled in her arms. The woman claimed her days were numbered as a devil had marked her soul for collection. The community took in the two , however, as predicted the mother was found dead a few weeks later.
+Almost 12 years ago, a stranger arrived in town with her infant daughter bundled in her arms. The woman claimed her days were numbered as a devil had marked her soul for collection. The community took in the two but, as predicted, the mother was found slain weeks later.
 
-The young girl (Asma) was raised by shopkeepers and farmers in the area—eventually finding her place as an assistant to a local seamstress. She also began to develop a knack for the arcane which she bolstered through a steady habit of reading.
+The child, Asma, was raised by the townsfolk—eventually finding her place as an assistant to a local seamstress. As she grew older, Asma showed a knack for the arcane which she quickly embraced. Soon, she was reading every book related to magic she could lay her hands upon. and bolstered through a steady reading habit.She also began to develop a knack for the arcane which she bolstered through a steady habit of reading.
 
 Despite her shyness, many find her quite charming. Though some find the fact that she stays in the haunted [[Xenavere Manor]] quite disconcerting.
 
