@@ -28,9 +28,9 @@ What few know about Asma is that the fiendish monster who killed her mother neve
 
 No one else was there to witness when the incubus arrived for Asma's mother, Francesca. No one but the 1-year-old Asma herself and she was too young to recall what happened exactly after the fiend claimed her mother. But through some unknown circumstance—perhaps an early showing of her innate powers—the incubus found his body destroyed and his soul imprisoned within the young infant's mind.
 
-The incubus has since then tormented Asma with waking nightmares—hoping a crack in her psyche will provide an opportunity for escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
+The incubus has since then tormented Asma with waking nightmares—hoping a crack in her psyche will provide an opportunity for escape. Meanwhile, she searches tirelessly for ways to undo this parasitic bond so she may destroy him, once and for all.
 
-This is why she resides in [[Xenavere Manor]] as the overwhelming psychic energy from their necrotic undeadness creates a buffer through which the fiend and his illusions cannot penetrate. She has also built a friendly bond with some of the skeletons, ghouls, and ghasts who parade around the mansion.
+It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the fiend and his illusions cannot penetrate. She has also built a friendly bond with some of the skeletons, ghouls, and ghasts who parade around the mansion.
 # The Incubus
 
 ![[Pasted image 20240330234339.png]]
