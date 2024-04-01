@@ -6,19 +6,19 @@
 **Appearance**: A eerie young girl with unusual scars across her face. Her irises glow a bright pink—which intensifies when threatened. Often seen with at least three books sticking out of her threadbare satchel.
 
 **Hometown**: Unknown (mother died when she was a toddler)
-**Occupation**: Assists the town seamstress by magically Mending damage garments and selling scarves, gloves, and coats outside the local tavern.
+**Occupation**: Assists the town seamstress by magically Mending worn garments and selling scarves, gloves, and coats outside the local tavern.
 **Highest Stat**: Intelligence
 **Lowest Stat**: Strength
 **Proficiency 1**: Investigation
 **Proficiency 2**: Arcana
 
-**Motivation**: Searching for a way to slay the devil trapped in her head.
+**Motivation**: Escape her small-town and join a wizarding academy.
 **Archetype**: The Innocent
 **Quirks**: Sleepwalks frequently—sometimes injuring herself
 **Traits**: Quiet, Independent, Open-Minded, Intelligent
 
 **Personal History**
-Almost 11 years ago, a stranger arrived in town with her baby girl bundled in her arms. The woman claimed her days were numbered as a devil was coming to collect her soul. The community took in the two of them, however, as predicted the mother was found dead a few weeks later.
+Almost 12 years ago, a stranger arrived in town with her infant daughter bundled in her arms. The woman claimed her days were numbered as a devil had marked her soul for collection. The community took in the two , however, as predicted the mother was found dead a few weeks later.
 
 The young girl (Asma) was raised by shopkeepers and farmers in the area—eventually finding her place as an assistant to a local seamstress. She also began to develop a knack for the arcane which she bolstered through a steady habit of reading.
 
