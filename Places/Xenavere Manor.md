@@ -2,7 +2,7 @@
 ![[Pasted image 20240331000901.png]]
 # Overview
 **Background**
-The Xenaveres were a family of merchants with origins traced back to the first fishermen to settle the regions waterways. In their hayday, they were known for the extravagent galas thrown at their lavish family estate. These parties were a true spectacle with the well-to-do aristocracy making long journeys to partake in the debauchery.
+The Xenaveres were a family of merchants with origins traced back to the first fishermen to settle the regions waterways. In their hayday, they were known for the extravagent galas thrown at their lavish family estate. These parties were a true spectacle with the well-to-do aristocracy making lengthy journeys to partake in the debauchery and festivities.
 
 
 - Randomly generated floor plan. Essentially a labyrinth.
