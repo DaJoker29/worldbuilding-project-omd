@@ -37,9 +37,7 @@ He goes by Koz—short for Koziel. How old this being is or how they escaped fro
 
 He has spent over a decade trapped inside the mind of a child for reasons he cannot explain. He holds but unbridled contempt for the child Asma but his life depends upon her survival. So in moments where Asma faces great threat, he will lend his powers to the young girl to ensure his own longevity.
 
-Aside from that, he spends his time inundating her with terrifying images—hoping to eventually overwhelm her psyche allowing him to seize permanent control over her. 
-
-What is certain is that he has spent the past decade imprisoned and he is desperate for a way out. He has built a lair within the mind of 
+Aside from that, he spends his time inundating her with terrifying images—hoping to eventually overwhelm her psyche allowing him to seize permanent control over her. He has built a lair within Asma's mind—a hall of mirrors from which he can observe the outside world and reflect on her memories, searching for further ways to psychically torment her.
 
 ![[Image - Hall of Mirrored Sight.png]]
-![[Pasted image 20240330234317.png]]![[Pasted image 20240330234327.png]]
+![[Image - Koz 1.png]]![[Image - Koz 2.png]]
