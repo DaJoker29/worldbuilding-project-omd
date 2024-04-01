@@ -35,7 +35,9 @@ It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelmin
 # **The Incubus**
 He goes by Koz—short for Koziel. How old this being is or how they escaped from the Lower Planes is mystery to all but himself. A mystery he does not care to divulge.
 
-He has spent over a decade trapped inside the mind of a child for reasons he cannot explain. He holds but unbridled contempt for the child Asma but he relies on her survival so he ensures 
+He has spent over a decade trapped inside the mind of a child for reasons he cannot explain. He holds but unbridled contempt for the child Asma but his life depends upon her survival. So in moments where Asma faces great threat, he will lend his powers to the young girl to ensure his own longevity.
+
+Aside from that, he spends his time inundating her with terrifying images—hoping to eventually overwhelm her psyche allowing him to seize permanent control over her. 
 
 What is certain is that he has spent the past decade imprisoned and he is desperate for a way out. He has built a lair within the mind of 
 
