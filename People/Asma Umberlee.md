@@ -26,9 +26,9 @@ Despite a shy peculiarity, many of the townsfolk find her quite charming. Though
 # Secret
 What few know about Asma is that the fiendish monster who killed her mother never left town. In fact, they remain here—trapped inside Asma's mind.
 
-No one else was there to witness when the incubus arrived for Asma's mother, Francesca. No one but the 1-year-old Asma herself. She was too young to recall what happened after the fiend claim Francesca's soul. But through some unknown circumstance—perhaps an early showing of her innate magical power—the incubus found his body unmade and his soul imprisoned within the young girls
+No one else was there to witness when the incubus arrived for Asma's mother, Francesca. No one but the 1-year-old Asma herself and she was too young to recall what happened exactly after the fiend claimed her mother. But through some unknown circumstance—perhaps an early showing of her innate powers—the incubus found his body destroyed and his soul imprisoned within the young infant's mind.
 
-Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
+The incubus has since then tormented Asma with waking nightmares—hoping a crack in her psyche will provide an opportunity for escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
 
 This is why she resides in [[Xenavere Manor]] as the overwhelming psychic energy from their necrotic undeadness creates a buffer through which the fiend and his illusions cannot penetrate. She has also built a friendly bond with some of the skeletons, ghouls, and ghasts who parade around the mansion.
 # The Incubus
