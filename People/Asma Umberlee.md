@@ -1,5 +1,5 @@
 ![[Image - Asma Umberlee.png]]
-# Details
+# Overview
 **Name**: Asma Umberlee
 **Age**: 13
 **Lineage**: Half-Elf
@@ -23,9 +23,10 @@ Almost 12 years ago, a stranger arrived in town with her infant daughter bundled
 The child, Asma, was raised by the townsfolk—eventually finding her place as an assistant to a local seamstress. As she grew older, Asma showed a knack for the arcane which she quickly embraced. Soon, she was reading every tome she could place her hands on, hoping to expand her knowledge of the arcane.
 
 Despite a shy peculiarity, many of the townsfolk find her quite charming. Though some find it disconcerting that she chooses to stay in the abandoned halls of the haunted [[Xenavere Manor]].
+# Secret
+What few know about Asma is that the fiendish monster who killed her mother never left town. In fact, they remain here—trapped inside Asma's mind.
 
-## Secret
-What no one knows about Asma is that the devil who killed her mother never left town. In fact, he remains here, trapped inside Asma's mind.
+No one was there to witness it when the incubus arrived for Asma's mother, Dorothy. 
 
 Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
 
