@@ -26,7 +26,7 @@ Despite a shy peculiarity, many of the townsfolk find her quite charming. Though
 # Secret
 What few know about Asma is that the fiendish monster who killed her mother never left town. In fact, they remain here—trapped inside Asma's mind.
 
-No one else was there to witness when the incubus arrived for Asma's mother, Francesca. No one but the 1-year-old Asma herself. Through some unknown circumstance, after claiming the soul of her mother, the 
+No one else was there to witness when the incubus arrived for Asma's mother, Francesca. No one but the 1-year-old Asma herself. She was too young to recall what happened after the fiend claim Francesca's soul. But through some unknown circumstance—perhaps an early showing of her innate magical power—the incubus found his body unmade and his soul imprisoned within the young girls
 
 Through some unknown circumstance, after claiming the soul of her mother the Incubus became ensnared within the mind of a two-year old—perhaps an early showing of her innate magical force. Since then, he has tormented her with waking nightmares in the hopes that cracking her psyche will provide him an opportunity to escape. Meanwhile, she scours any magical tomes she can find for ways to destroy him.
 
