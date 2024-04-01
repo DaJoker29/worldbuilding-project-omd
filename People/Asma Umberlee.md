@@ -30,8 +30,9 @@ No one else was there to witness when the incubus arrived for Asma's mother, Fra
 
 The incubus has since then tormented Asma with waking nightmares—hoping a crack in her psyche will provide an opportunity for escape. Meanwhile, she searches tirelessly for ways to undo this parasitic bond so she may destroy him, once and for all.
 
-It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the fiend and his illusions cannot penetrate. She has also built a friendly bond with some of the skeletons, ghouls, and ghasts who parade around the mansion.
-# The Incubus
+It turns out this bond is why she resides in [[Xenavere Manor]]. The overwhelming necrotic energy from the geists and ghouls within create a buffer through which the incubus's illusions cannot penetrate.
 
-![[Pasted image 20240330234339.png]]
+**The Incubus**
+
+![[Image - Hall of Mirrored Sight.png]]
 ![[Pasted image 20240330234317.png]]![[Pasted image 20240330234327.png]]
