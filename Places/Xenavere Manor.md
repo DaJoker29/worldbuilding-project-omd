@@ -2,7 +2,7 @@
 ![[Pasted image 20240331000901.png]]
 # Overview
 **Background**
-In their time, the Xenaveres were a family of merchants with origins traced back to the first fishermen to 
+IThe Xenaveres were a family of merchants with origins traced back to the first fishermen to settle the nearby waterways. In their hayday, they became known for their rowdy, 
 
 
 - Randomly generated floor plan. Essentially a labyrinth.
