@@ -2,7 +2,7 @@
 ![[Pasted image 20240331000901.png]]
 # Overview
 **Background**
-In their time, the Xenaveres were a merchant dynasty who utilizing
+In their time, the Xenaveres were a family of merchants with origins traced back to the first fishermen to 
 
 
 - Randomly generated floor plan. Essentially a labyrinth.
