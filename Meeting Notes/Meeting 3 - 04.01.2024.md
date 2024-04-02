@@ -28,4 +28,7 @@
 > [Feedback go Here]
 
 ***
-[General Notes and Minutes go Here]
+- Table of Contents
+- Bare Bones Map
+- THEN Story Threads
+- THEN Online Presence
