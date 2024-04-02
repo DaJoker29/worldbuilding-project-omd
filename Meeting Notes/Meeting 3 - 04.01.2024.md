@@ -24,7 +24,6 @@
 **NOTES**
 - Followers of other gods can be brought here and their powers are severely diminished.
 
-
 **TODOS**
 - Factions / Groups
 - Bare Bones Map
