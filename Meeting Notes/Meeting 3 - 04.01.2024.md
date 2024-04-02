@@ -21,9 +21,10 @@
 	- Publishing/Monetization
 
 ***
+**NOTES**
+- Followers of other gods can be brought here and their powers are severely diminished.
 
 **TODOS**
-- Table of Contents
 - Bare Bones Map
-- THEN Story Threads
-- THEN Online Presence
+- Table of Contents
+- Social Medias
