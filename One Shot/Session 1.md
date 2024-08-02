@@ -4,3 +4,11 @@
 
 Tornadoes, hurricanes, and lightning storms. It starts to settle around year 6 or 7. The landscape shifts constantly, deserts finding deserts. Chaos.
 
+**Shadric Oberon**
+Shadric is teleported here with one of his targets. He begins rebuilding his order once more.
+
+**Jack Firejumper (Fireslayer)**
+Leader of a crew with the same hand tattoo. Always has a plan.
+Jack
+Jen (super hot, cold, don't take shit from no one)
+Ven (short cropped, dirty brown, and Von.
