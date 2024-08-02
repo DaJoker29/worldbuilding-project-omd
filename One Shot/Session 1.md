@@ -15,4 +15,6 @@ Jen (super hot, cold towards people, don't take shit from no one)
 Ven (short cropped, dirty brown, hot-headed)
 Von (shy guy)
 
-**The Council**
+**The Council.**  We'll learn more.
+
+**Captain Keyvhan**. A Goku-level Homeless Guy. Wakes up in
