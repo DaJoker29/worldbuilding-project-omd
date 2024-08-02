@@ -38,8 +38,9 @@ Varyk Bronzeshade
 
 Comes to speak with the council.
 
-1. Establish to Arm Trade Routes vs. Food and Medicine to our People.
+1. Establish to Arm Trade Routes vs. **Food and Medicine to our People.**
 
 Rykor and Morg is concerned about the cutthroat. Shadric might pay him a visit in the middle of the night.
 
-2. Trade/Production: Luxury goods or Essential Needs
+2. Trade/Production: **Luxury goods** or Essential Needs
+3. 
