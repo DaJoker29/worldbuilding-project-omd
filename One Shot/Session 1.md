@@ -44,4 +44,6 @@ Rykor and Morg is concerned about the cutthroat. Shadric might pay him a visit i
 
 2. Trade/Production: **Luxury goods** or Essential Needs
 3. Workforce: **Free Choice** or Draft
-4. Settlement Focus: Temporary Housing / Mobile (less comfortable) vs Permanant Infrastructure (more comfortable)
+4. Settlement Focus: Temporary Housing / Mobile (less comfortable) vs Permanent Infrastructure (more comfortable)
+
+Stability quakes: Landscape is shifting and causes small damage as the world tries to correct itself.
