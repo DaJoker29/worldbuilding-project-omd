@@ -50,4 +50,4 @@ Stability quakes: Landscape is shifting and causes small damage as the world tri
 
 5. Dungeons: **Regulate Artifacts of Power** vs. Finders Keepers
 6. Weather: **Observatory** vs Community Shelter
-7. Magical Anomo
+7. Magical Anomolies: Contain Magic or Leave it Free
