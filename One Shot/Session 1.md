@@ -8,7 +8,9 @@ Tornadoes, hurricanes, and lightning storms. It starts to settle around year 6 o
 Shadric is teleported here with one of his targets. He begins rebuilding his order once more.
 
 **Jack Firejumper (Fireslayer)**
-Leader of a crew with the same hand tattoo. Always has a plan.
-Jack
-Jen (super hot, cold, don't take shit from no one)
-Ven (short cropped, dirty brown, and Von.
+Leader of a crew with the same hand tattoo. Always has a plan. Use to be petty thieves. Make sure people have enough. Merry Men-complex.
+
+Jack (nondescript, dirty brown blonde hair, not super tall, brings a presence, center of attention)
+Jen (super hot, cold towards people, don't take shit from no one)
+Ven (short cropped, dirty brown, hot-headed)
+Von (shy guy)
