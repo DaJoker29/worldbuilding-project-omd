@@ -38,4 +38,4 @@ Varyk Bronzeshade
 
 Comes to speak with the council.
 
-Protection for Trade Routes vs. Luxury Goods and Essential Needs
+1. Establish to Arm Trade Routes vs. Food and Medicine to our People.
