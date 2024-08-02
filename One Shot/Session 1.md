@@ -40,4 +40,6 @@ Comes to speak with the council.
 
 1. Establish to Arm Trade Routes vs. Food and Medicine to our People.
 
-Rykor and Morg is concerned about the cutthroat.
+Rykor and Morg is concerned about the cutthroat. Shadric
+
+Luxury goods or Essential Needs
