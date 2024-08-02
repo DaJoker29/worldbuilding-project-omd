@@ -25,7 +25,7 @@ Von (shy guy)
 
 **Blipped People.** . All gathered in one area. Each have a community of about 250 people.
 
-The **Order of Erebos** is based out of a *Threadamental Chaos*, a large textiles emporium. He and about 30 assassins are based out of there.
+The **Order of Erebos** is based out of a *Threadamental Chaos*, a large textiles emporium. He and about 30 assassins are based out of there. Thrain Aldar — Stout dwarf, long-braided beard.
 
 **Fighting Pit.**
-
+Marla - Trade Emporium
