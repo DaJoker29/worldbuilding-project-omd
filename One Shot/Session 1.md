@@ -32,4 +32,8 @@ Marla - Trade Emporium
 
 ~Break~
 
-    
+A new faction arrives. A bunch of ships.
+Varyk Bronzeshade
+> Hill dwarf
+
+Comes to speak with the council.
