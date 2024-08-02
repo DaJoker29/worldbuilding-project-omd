@@ -14,3 +14,5 @@ Jack (nondescript, dirty brown blonde hair, not super tall, brings a presence, c
 Jen (super hot, cold towards people, don't take shit from no one)
 Ven (short cropped, dirty brown, hot-headed)
 Von (shy guy)
+
+**The Council**
