@@ -55,3 +55,5 @@ Stability quakes: Landscape is shifting and causes small damage as the world tri
 9. Slavery: **Free the Slaves** or Keep them Enslaved
 
 Divine magic doesn't work here. One person renounced his patron and gained powers again.
+
+**Next Session:** Figure out how our characters meet.
