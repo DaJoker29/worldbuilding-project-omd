@@ -25,4 +25,6 @@ Von (shy guy)
 
 **Blipped People.** . All gathered in one area. Each have a community of about 250 people.
 
-The Order of Erebos 
+The Order of Erebos is based out of a large textiles emporium. He and about 30 assassins are based out of there.
+
+**Fighting Pit.** 
