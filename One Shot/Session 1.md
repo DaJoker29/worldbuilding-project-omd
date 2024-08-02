@@ -49,3 +49,4 @@ Rykor and Morg is concerned about the cutthroat. Shadric might pay him a visit i
 Stability quakes: Landscape is shifting and causes small damage as the world tries to correct itself.
 
 5. Dungeons: **Regulate Artifacts of Power** vs. Finders Keepers
+6. Weather: Observatory vs Community Shelter
