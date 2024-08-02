@@ -43,4 +43,4 @@ Comes to speak with the council.
 Rykor and Morg is concerned about the cutthroat. Shadric might pay him a visit in the middle of the night.
 
 2. Trade/Production: **Luxury goods** or Essential Needs
-3. 
+3. Workforce: Let people choose or Draft/Lottery
