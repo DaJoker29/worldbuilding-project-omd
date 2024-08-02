@@ -52,3 +52,7 @@ Stability quakes: Landscape is shifting and causes small damage as the world tri
 6. Weather: **Observatory** vs Community Shelter
 7. Magical Anomolies: **Containment Guild** or Leave it Free
 8. Exotic Species: Sanctuary Zones or **Let the Creatures Run Wild**
+9. Slavery: Free the Slave or Keep them Enslaved
+10. Divine Magic: 
+
+Divine magic doesn't 
