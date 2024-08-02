@@ -37,3 +37,5 @@ Varyk Bronzeshade
 > Hill dwarf
 
 Comes to speak with the council.
+
+Protection for Trade Routes vs. Luxury Goods and Essential Needs
