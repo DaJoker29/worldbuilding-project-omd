@@ -18,7 +18,7 @@ Von (shy guy)
 **The Council.**  We'll learn more soon.
 
 **Captain Keyvhan**. A Goku-level Homeless Guy. Wakes up on his rooftop. Sunny beach right next to an iceberg. Community leader.
-\
+
 **Morgue**. Greyish-green skin. Orc. Basically a slave. Doesn't understand anything except he might now not be a slave. Fighting pit
 
 - Rykor (tiefling, deep tan-red, circle of Duerger)
