@@ -20,3 +20,14 @@ a makeshift shack in the shadow of hte biggest building in town (the Paramount C
 > Covered in moss and elegant blue glowing script on surface.
 
 Mending on a broken harp.
+
+Commandments from the 
+Unite all 3 factions: 
+Glorious Plains
+Solar Gardens
+Desolate Badlands
+
+500 Years Ago
+- Three more cherished artifacts of this land.
+- Nobody knows where they are.
+- Bring them to Icarus Peak (Volcano in the middle of the lake)
