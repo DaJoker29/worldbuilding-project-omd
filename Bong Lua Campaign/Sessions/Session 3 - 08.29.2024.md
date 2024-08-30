@@ -57,4 +57,9 @@ More people want us to join their guild.
 Lance Stone - Captain of the Guard, Ascendant Dominion
 Bong Lua, Faction 1 (Glorious Plains), Hazelhelm
 
+We build a sign for Dag's shop and clean things up.
 Need a furnace and anvil.
+
+Peter turns into a Cranium Rat.
+
+Dag gets his first customer in weeks.
