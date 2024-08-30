@@ -55,3 +55,4 @@ Cassius.
 More people want us to join their guild.
 
 Lance Stone - Captain of the Guard, Ascendant Dominion
+Bong Lua, Faction 1 (Glorious Plains), Hazelhelm
