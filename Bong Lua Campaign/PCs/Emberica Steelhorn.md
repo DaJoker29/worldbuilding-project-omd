@@ -23,113 +23,62 @@ Because of that, Baldric’s been pestering me to rebuild the Cathedral. Its cha
 
 Maybe one day but I can’t do that now. If I did it would end the same way. And I can’t have that one my conscience. No, I must prove the goddess’s existence first. I must prove that my father preached the truth and that those who ostracized and murdered him were truly the evil ones. And there is only one way to do that. I must find that lost temple in the desert. 
 
-  
-
-Quirks and Habits:
-
+---
+**Quirks and Habits:**
 - Prays first and last thing in the morning. Make sure everyone says grace before a meal.
-    
 - Though living rough is no concern to her, poor food or drink will often rub her the wrong way.
-    
 - She is quite frugal, preferring to build things she can use rather than buy them.
-    
 
-  
-
-Personality Traits:
-
+**Personality Traits:**
 - I’ve spent so long in the church and workshop that I have little practical experience dealing with people in the outside world.
-    
 - I’ve enjoyed fine food and drink my whole life. Poor food and drink grates on me.
-    
 
 Ideals: We must help bring about the changes the gods are constantly working in the world.  
 Bond: I owe my life to the blacksmith who took me in after my father died.  
 Flaws: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 
 # Build Guide
-
 Race: Minotaur (MotM Version)
-
 Class: Cleric
-
 Background: Custom
-
 Background Skills: Athletics, Nature
-
-  
 
 Stat Priorities: WIS > CON > STR (15 minimum) > DEX > INT > CHA
 
 Cleric Skills: Medicine, Religion
-
 Domain: Forge
-
 Free Feat (DM): Fey-Touched (+1 WIS, Misty Step, Hex)
-
 Equipment:
-
 - Chain Mail
-    
 - Shield (Armis)
-    
 - Handaxe (Justitia)
-    
 - Explorer’s Pack
-    
-
-- Backpack
-    
-- Bedroll
-    
-- Mess kit
-    
-- Tinderbox
-    
-- Torches (10)
-    
-- Rations (10)
-    
-- Waterskin
-    
-- 25ft of Hempen Rope
-    
-
+	- Backpack
+	- Bedroll
+	- Mess kit
+    - Tinderbox
+    - Torches (10)
+    - Rations (10)
+    - Waterskin
+    - 25ft of Hempen Rope
 - Holy Symbol (emblazoned on front of shield)
-    
 - Coin Pouch (0gp)
-    
 - Baby Giant Scorpion
-    
 - Hyena Head (tongueless — was made into soup, I think)
-    
 - -> Buy Healer’s Kit (5gp)
-    
 - -> Buy Thieves’ tools (25gp)
-    
-
-  
 
 Tool Proficiencies: Smith’s Tools (Forge), Thieve’s Tools (Custom)
-
 Languages: Common, Druidic (Minotaur), Thieves’ Cant (Custom)
-
 Background Feature: 
-
-  
 
 As an acolyte, you command the respect of those who share your faith, and you can perform the religious ceremonies of your deity. You and your adventuring companions can expect to receive free healing and care at a temple, shrine, or other established presence of your faith, though you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle.
 
 You might also have ties to a specific temple dedicated to your chosen deity or pantheon, and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple.
-
 # Tips for Doing the Voice
 
 1. Clench butt cheeks. It really works.
-    
 2. Strength the esophagus and breath from the diaphragm.
-    
 3. Think Breathy Marilyn Monroe.
-    
 4. Find Head Voice. “AAAAAAA” in rising pitch.
-    
 5. NYAY NYAY NYAY for a more nasal sound.
