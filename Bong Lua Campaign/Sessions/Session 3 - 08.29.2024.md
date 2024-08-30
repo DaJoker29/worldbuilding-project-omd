@@ -30,4 +30,5 @@ Desolate Badlands
 500 Years Ago
 - Three more cherished artifacts of this land.
 - Nobody knows where they are.
-- Bring them to Icarus Peak (Volcano in the middle of the lake)
+- Bring them to Icarus Peak (Volcano in the middle of the lake). Place them on the old pedastals. The lands and people will flourish. He will grant us each a wish.
+- A kind god.
