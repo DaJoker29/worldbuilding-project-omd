@@ -21,7 +21,7 @@ a makeshift shack in the shadow of hte biggest building in town (the Paramount C
 
 Mending on a broken harp.
 
-Commandments from the 
+Commandments from the Benevalent God
 Unite all 3 factions: 
 Glorious Plains
 Solar Gardens
@@ -32,3 +32,6 @@ Desolate Badlands
 - Nobody knows where they are.
 - Bring them to Icarus Peak (Volcano in the middle of the lake). Place them on the old pedastals. The lands and people will flourish. He will grant us each a wish.
 - A kind god.
+
+**Benevalent God**
+> Looks ghostly. Huge, 20' tall. 
