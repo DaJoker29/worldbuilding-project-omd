@@ -43,6 +43,7 @@ We step outside the cathedral. Argus spots them and Ember's shield.
 
 Fanmar — Summer Guardian Guild
 Colreak — Cosmic Energy Guild
+Ezor — Eclipse Militia
 
 More people want us to join their guild.
 
