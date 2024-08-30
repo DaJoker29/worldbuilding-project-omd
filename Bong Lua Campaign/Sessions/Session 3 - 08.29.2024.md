@@ -48,3 +48,4 @@ Ezor — Eclipse Militia
 More people want us to join their guild.
 
 An orc walks out.
+Dracana Arrowsmith Keegak
