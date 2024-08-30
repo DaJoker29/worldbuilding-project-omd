@@ -19,3 +19,4 @@ a makeshift shack in the shadow of hte biggest building in town (the Paramount C
 > Equally tall, even larger. Unsettling.
 > Covered in moss and elegant blue glowing script on surface.
 
+Mending on a broken harp.
