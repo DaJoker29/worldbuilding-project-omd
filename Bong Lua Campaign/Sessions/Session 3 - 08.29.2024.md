@@ -12,6 +12,7 @@ a makeshift shack in the shadow of hte biggest building in town (the Paramount C
 >Doorknob says "Go the fuck away we're closed" when Dag is out.
 
 **Dag** — Goliath Artificer
+Dracana Arrowsmith Keegak
 > 7" tall. No head room.
 > Intimidating.
 
@@ -52,4 +53,4 @@ Three suns
 More people want us to join their guild.
 
 An orc walks out.
-Dracana Arrowsmith Keegak
+
