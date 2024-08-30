@@ -42,15 +42,13 @@ Desolate Badlands
 
 We step outside the cathedral. Argus spots them and Ember's shield.
 
-Fanmar — Summer Guardian Guild
+Fanmar (White Guy) — Summer Guardian Guild
 Colreak — Cosmic Energy Guild
-Ezor — Eclipse Militia
+Ezor (Orc) — Eclipse Militia
 
-Tyr
 
-Three suns
+
+Three suns in Collabris.
 
 More people want us to join their guild.
-
-An orc walks out.
 
