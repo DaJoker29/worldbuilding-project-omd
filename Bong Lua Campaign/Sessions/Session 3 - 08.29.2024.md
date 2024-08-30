@@ -35,3 +35,6 @@ Desolate Badlands
 
 **Benevalent God**
 > Looks ghostly. Huge, 20' tall. Light passing through him. Man and woman voice together at the same time.
+
+**Bobby the Goblin**
+> Hired to kill us before.
