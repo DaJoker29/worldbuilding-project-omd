@@ -33,8 +33,8 @@ Maybe one day but I can’t do that now. If I did it would end the same way. And
 - I’ve spent so long in the church and workshop that I have little practical experience dealing with people in the outside world.
 - I’ve enjoyed fine food and drink my whole life. Poor food and drink grates on me.
 
-Ideals: We must help bring about the changes the gods are constantly working in the world.  
-Bond: I owe my life to the blacksmith who took me in after my father died.  
+Ideals: We must help bring about the changes the gods are constantly working in the world.
+Bond: I owe my life to the blacksmith who took me in after my father died.
 Flaws: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 
 # Build Guide

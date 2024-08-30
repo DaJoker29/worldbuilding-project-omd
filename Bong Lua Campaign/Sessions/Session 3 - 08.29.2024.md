@@ -55,6 +55,8 @@ Cassius.
 More people want us to join their guild.
 
 Lance Stone - Captain of the Guard, Ascendant Dominion
+Dag doesn't have the right permits.
+
 Bong Lua, Faction 1 (Glorious Plains), Hazelhelm
 
 We build a sign for Dag's shop and clean things up.
