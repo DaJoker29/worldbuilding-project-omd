@@ -53,5 +53,6 @@ Artifact was stolen. Like the Harp.
 
 We will collect goals.
 
+Cassius.
 More people want us to join their guild.
 
