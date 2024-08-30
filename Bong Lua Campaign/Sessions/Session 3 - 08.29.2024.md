@@ -45,6 +45,10 @@ Fanmar — Summer Guardian Guild
 Colreak — Cosmic Energy Guild
 Ezor — Eclipse Militia
 
+Tyr
+
+Three suns
+
 More people want us to join their guild.
 
 An orc walks out.
