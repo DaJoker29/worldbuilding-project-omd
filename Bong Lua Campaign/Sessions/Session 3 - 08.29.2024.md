@@ -31,7 +31,7 @@ Desolate Badlands
 - Three more cherished artifacts of this land.
 - Nobody knows where they are.
 - Bring them to Icarus Peak (Volcano in the middle of the lake). Place them on the old pedastals. The lands and people will flourish. He will grant us each a wish.
-- A kind god.
+- A kind god. Hates that we're the chosen ones.
 
 **Benevalent God**
-> Looks ghostly. Huge, 20' tall. 
+> Looks ghostly. Huge, 20' tall. Light passing through him. Man and woman voice together at the same time.
