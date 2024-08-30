@@ -40,3 +40,10 @@ Desolate Badlands
 > Hired to kill us before. Accidentally brought with us to the Cathedral.
 
 We step outside the cathedral. Argus spots them and Ember's shield.
+
+Fanmar — Summer Guardian Guild
+Colreak — Cosmic Energy Guild
+
+More people want us to join their guild.
+
+An orc walks out.
