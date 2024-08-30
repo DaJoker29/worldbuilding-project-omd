@@ -49,6 +49,7 @@ Ezor (Orc) — Eclipse Militia
 
 
 Three suns in Collabris.
+Artifact was stolen. Like the Harp. 
 
 More people want us to join their guild.
 
