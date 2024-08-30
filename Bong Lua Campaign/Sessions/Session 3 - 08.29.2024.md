@@ -20,7 +20,7 @@ Dracana Arrowsmith Keegak
 > Equally tall, even larger. Unsettling.
 > Covered in moss and elegant blue glowing script on surface.
 
-Mending on a broken harp.
+Mending on a broken harp. Symbol of Ember's God.
 
 Commandments from the Benevalent God
 Unite all 3 factions: 
