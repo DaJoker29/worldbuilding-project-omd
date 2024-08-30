@@ -46,8 +46,6 @@ Fanmar (White Guy) — Summer Guardian Guild
 Colreak — Cosmic Energy Guild
 Ezor (Orc) — Eclipse Militia
 
-
-
 Three suns in Collabris.
 Artifact was stolen. Like the Harp. 
 
@@ -56,3 +54,4 @@ We will collect goals.
 Cassius.
 More people want us to join their guild.
 
+Lance Stone - Captain of the Guard, Ascendant Dominion
