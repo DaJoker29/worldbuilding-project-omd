@@ -24,4 +24,5 @@
 - Earth God fully recovers and bamfs away, the world crumbles. Armageddon.
 
 **Doomsday Clocks**
-- Bug people 
+- Bug people are aware the world will end when the sun has a certain amount of batteries.
+- The constructs/celestials are followers of the sun god.
