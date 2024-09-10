@@ -18,6 +18,7 @@
 **Artificial Suns**
 - What if the major sun is actually the second deity who is draining power from the dying god planet?
 - A corrupted deva gets pulled into the demiplane where the dying god. He is drawing positive energy from the Positive Energy Plane.
-- Possible endings:
-	- Sun God gets too much power and leaves. End of the world.
-	- Earth God fully recovers and bamfs away
+
+**Possible endings**
+- Sun God gets too much power and leaves. End of the world.
+- Earth God fully recovers and bamfs away, the world crumbles. Armaggedon.
