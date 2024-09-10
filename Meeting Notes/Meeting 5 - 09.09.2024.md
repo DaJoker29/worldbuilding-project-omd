@@ -15,5 +15,5 @@
 	- Created by smashing together elemental energy from sundered realms.
 - Clerics and Paladins should still be able to work even if they.
 
-**3 Suns**
+**Artificial Suns**
 - 
