@@ -6,7 +6,7 @@ no trash, guards on 15 minute patrols
 
 a makeshift shack in the shadow of hte biggest building in town (the Paramount Church)
 
-**"Dag's Tinks"** 
+**"Dag's Tinks"** — Rusty, dusty old shack.
 >Hodgepodge tinkerer's shack in the middle of bustling city.
 >
 >Doorknob says "Go the fuck away we're closed" when Dag is out.
