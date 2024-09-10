@@ -21,4 +21,7 @@
 
 **Possible endings**
 - Sun God gets too much power and leaves. End of the world.
-- Earth God fully recovers and bamfs away, the world crumbles. Armaggedon.
+- Earth God fully recovers and bamfs away, the world crumbles. Armageddon.
+
+**Doomsday Clocks**
+- Bug people 
