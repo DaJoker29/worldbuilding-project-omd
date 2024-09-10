@@ -16,4 +16,4 @@
 - Clerics and Paladins should still be able to work even if they.
 
 **Artificial Suns**
-- 
+- What if the major sun is actually 
