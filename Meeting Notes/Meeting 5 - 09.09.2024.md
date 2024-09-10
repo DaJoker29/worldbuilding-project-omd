@@ -27,5 +27,6 @@
 - Bug people are aware the world will end when the sun has a certain amount of batteries.
 - The constructs/celestials are followers of the sun god.
 
+
 *Next Session*
 - Maybe talk about the appearance on the bug people.
