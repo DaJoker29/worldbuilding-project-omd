@@ -3,7 +3,9 @@
 **John-Alan**
 - Multi-stage creatures
 	- Larval form
+		- Harvesting "God nectar". Once enough has been consumed, they evolved into ascended (humanoid form)
 	- Humanoid form
+		- Has more intelligence and power to organize the larval forms to gather more nectar.
 - Different forms based on environments/biomes.
 - What creature type?
 - Created by the two-god creatures.
