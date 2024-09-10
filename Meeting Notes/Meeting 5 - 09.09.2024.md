@@ -7,4 +7,5 @@
 	- Humanoid form
 - Different forms based on environments/biomes.
 - What creature type?
-- Archfe
+- Created by the two-god creatures.
+- 
