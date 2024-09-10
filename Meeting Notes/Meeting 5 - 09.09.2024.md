@@ -11,3 +11,5 @@
 - Freedom vs Order
 	- **Freedom**: Fey, Beast
 	- **Order**: Construct, Celestial
+- Elemental creatures
+	- Created by smashing together elemental energy from sundered realms.
