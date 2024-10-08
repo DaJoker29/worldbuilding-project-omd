@@ -24,7 +24,6 @@
 6. Next Steps & Action Items
 	- Assign tasks or topics for next meeting.
 	- Plan for refining ideas or addressing any unresolved points.
-
 # Notes
 
 **Divine Magic**
