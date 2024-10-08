@@ -26,3 +26,6 @@
 	- Plan for refining ideas or addressing any unresolved points.
 
 # Notes
+
+**Divine Magic**
+- 
