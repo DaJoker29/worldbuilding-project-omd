@@ -32,3 +32,6 @@
 - Power comes in but prayers can't go out.
 
 **Krithyx / Krythix**
+
+**Collabris**
+- World names always end in -is. Cliches are cliches because they work.
