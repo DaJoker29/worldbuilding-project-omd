@@ -34,3 +34,4 @@
 
 **Collabris**
 - World names always end in -is. Clichés are clichés because they work.
+- 300-700 years old.
