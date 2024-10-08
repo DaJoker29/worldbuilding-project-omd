@@ -30,3 +30,6 @@
 **Divine Magic**
 - There need to be options for relics/temples for characters to connect with their gods.
 - Power comes in but prayers can't go out.
+
+**Krithyx**
+
