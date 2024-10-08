@@ -33,4 +33,4 @@
 **Krithyx / Krythix**
 
 **Collabris**
-- World names always end in -is. Cliches are cliches because they work.
+- World names always end in -is. Clichés are clichés because they work.
