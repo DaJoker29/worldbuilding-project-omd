@@ -9,4 +9,7 @@
 - The Islands of Aquanos move around the Southwest Sea. Some move through water while others move through air. They maintain the same relative positioning. ==There are rumors of the "Lost Island".==
 
 - The night before we have embarked. Brad's character and I are acquintances.
-- There is a 3rd in our part
+- There is a 3rd in our party. He thinks he's hot shit.
+
+**Zane**
+- 3rd member of our party. He thinks he's hot shit.
