@@ -51,15 +51,16 @@ Another scream. Garbled, desperate. Pitiful.
 
 Zee gets afraid.
 
-Zane is dying.
+Zane is dies. Zee steals his flag.
 
 Used *Psionic Reflexes*.
 Used *Emotional Shield*.
 
 Gari uses a Thunderclap.
 
-Teeth Monster
+Teeth Monster attacks us.
 
 **Initiative**
 Gari - 15
 Zee - 10
+

@@ -42,9 +42,10 @@
 - A magnifying glass
 - Evidence from a past case *(A lantern with a black candle that never runs out and that burns with green flame)*
 - a set of common clothes
-- Rapier
-- Shortbow
-- Quiver of 20x arrows
+- Rapier (+6)
+- Shortbow (+6)
+- x20 Arrows
+- Quiver
 - Explorer's Pack
 	- a [backpack](https://roll20.net/compendium/dnd5e/Items:backpack?expansion=0#content)
 	- a [bedroll](https://roll20.net/compendium/dnd5e/Items:bedroll?expansion=0#content)
