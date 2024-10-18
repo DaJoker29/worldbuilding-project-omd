@@ -24,7 +24,7 @@
 
 **AC**: 15 (11 + 4)
 **HP**: 34 @ Level 3
-- 8 + 6 + 8 + (3 * CON[+4] )
+- 8 + 6 + 8 + ( 3 * CON[+4] )
 
 **Armor (Proficiency)**: Light Armor
 **Weapon (Proficiency)**:
