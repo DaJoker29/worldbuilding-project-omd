@@ -57,6 +57,7 @@
 - Leather armor
 - 2x daggers
 - thieves' tools
+- Zane's flag
 - 10gp
 
 ---

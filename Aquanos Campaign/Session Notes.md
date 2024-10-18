@@ -56,4 +56,10 @@ Zane is dying.
 Used *Psionic Reflexes*.
 Used *Emotional Shield*.
 
-Gari uses a Thundercap
+Gari uses a Thunderclap.
+
+Teeth Monster
+
+**Initiative**
+Gari - 15
+Zee - 10
