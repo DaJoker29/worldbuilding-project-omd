@@ -38,3 +38,4 @@ Island on the horizon.
 - No docks. We find a beach though to make landfall.
 
 **Gari (Wade's Character)**
+- Skeleton with a guitar who likes to play practical jokes.
