@@ -7,10 +7,10 @@
 **Class**: Rogue
 **Stats**: 12 / 13 / 14 / 14 / 17 / 17
 
-**Proficiency (Variant)**: ???
-**Proficiency (Rogue)**: Stealth ???, ???, ???
+**Proficiency (Variant)**: History
+**Proficiency (Rogue)**: Stealth, Sleight of Hand, Insight, Acrobatic
 **Proficiency (Investigator)**: Investigation, Perception
-**Proficiency (Plane Thief)**: Arcana, ???, ???
+**Proficiency (Plane Thief)**: Arcana, Nature, Religion
 **Languages**: Common
 
 **3rd Level**: Choose 2 Tool Proficiencies or Languages. Gain Proficiency with Arcana.
