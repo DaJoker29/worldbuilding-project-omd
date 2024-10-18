@@ -14,6 +14,7 @@
 
 **Zane**
 - 3rd member of our party. He thinks he's hot shit.
+- Doesn't have a microtopus.
 
 **Drumals (Brad's Character)**
 - Druid
@@ -27,5 +28,6 @@ Johannatha Elowitt
 - Elementra Arcana
 - Blue dreadlocks
 - Regal looking sorceress (water-themed Storm)
+- Creates a tide to get us going toward the mainland.
 
 We ship out early in the morning.
