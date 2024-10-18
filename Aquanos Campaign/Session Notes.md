@@ -10,7 +10,7 @@
 
 - The night before we have embarked. Brad's character and I are acquaintances.
 - Big celebration thrown by the town.
-	- Uncle Vesishon
+	- Uncle Vezishon
 
 **Zane**
 - 3rd member of our party. He thinks he's hot shit.
@@ -22,3 +22,8 @@
 - Wants to find the Lost Island.
 
 ***TO THE WANDERING...***
+
+Johanna Elowitt
+- Elementra Arcana
+
+We ship out early in the morning.
