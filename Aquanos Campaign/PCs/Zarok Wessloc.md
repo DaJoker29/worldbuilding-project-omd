@@ -1,8 +1,6 @@
 **Race**: Human
 **Background**: Investigator
-- Trinket: A lantern with a black candle that never runs out and that burns with green flame
 - Mystery: You were wrongfully accused and convicted of a crime. You managed to escape and seek to help others avoid the experience you suffered, even while still being pursued by the law.
-- Official Inquiry: You're experienced at gaining access to people and places to get the information you need. Through a combination of fast-talking, determination, and official-looking documentation, you can gain access to a place or an individual related to a crime you're investigating. Those who aren't involved in your investigation avoid impeding you or pass along your requests. Additionally, local law enforcement has firm opinions about you, viewing you as either a nuisance or one of their own.
 **Class**: Rogue (Plane Thief)
 **Stats**:
 - **Str**: 12
@@ -26,7 +24,10 @@
 
 **Armor (Proficiency)**: Light Armor
 **Weapon (Proficiency)**: Simple weapons, hand crossbows, longswords, rapiers, shortswords
-**Tool Proficiency**: Poisoner's Kit (Plane Thief), Disguise Tools (Investigator), Thieves Tools (Investigator)
+**Tool Proficiency**:
+- Poisoner's Kit (Plane Thief)
+- Disguise Tools (Investigator)
+- Thieves Tools (Investigator)
 
 **Equipment**:
 - A magnifying glass
@@ -67,3 +68,6 @@ You are an expert at slinking through shadows. You gain the following benefits:
 - You can try to hide when you are lightly obscured from the creature from which you are hiding.
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 - Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
+
+## Official Inquiry
+You're experienced at gaining access to people and places to get the information you need. Through a combination of fast-talking, determination, and official-looking documentation, you can gain access to a place or an individual related to a crime you're investigating. Those who aren't involved in your investigation avoid impeding you or pass along your requests. Additionally, local law enforcement has firm opinions about you, viewing you as either a nuisance or one of their own.
