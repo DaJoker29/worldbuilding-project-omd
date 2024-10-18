@@ -71,6 +71,7 @@
 	- For every year we are bound, we age half as fast.
 	- 1/long rest: Advantage against charmed, fear, or other mind-altering effects.
 	- 1/long rest: Swim speed equals walking speed. Can breathe underwater for 1 hour.
+
 ---
 ## Expertise
 **Chosen**: Thieves' Tools, Investigation
@@ -91,7 +92,6 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the **Dash**, **Disengage**, or **Hide** action.
 ## Steady Aim (Optional)
 At 3rd level, as a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
-
 ## Skulker (Variant Human)
 _Prerequisite: Dexterity 13 or higher_
 
@@ -99,6 +99,5 @@ You are an expert at slinking through shadows. You gain the following benefits:
 - You can try to hide when you are lightly obscured from the creature from which you are hiding.
 - When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
 - Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.
-
 ## Official Inquiry
 You're experienced at gaining access to people and places to get the information you need. Through a combination of fast-talking, determination, and official-looking documentation, you can gain access to a place or an individual related to a crime you're investigating. Those who aren't involved in your investigation avoid impeding you or pass along your requests. Additionally, local law enforcement has firm opinions about you, viewing you as either a nuisance or one of their own.
