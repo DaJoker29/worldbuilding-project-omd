@@ -30,7 +30,7 @@
 
 **Equipment**:
 - A magnifying glass
-- Evidence from a past case (A lantern with a black candle that never runs out and that burns with green flame)
+- Evidence from a past case *(A lantern with a black candle that never runs out and that burns with green flame)*
 - a set of common clothes
 - Rapier
 - Shortbow
@@ -51,7 +51,7 @@
 
 ---
 ## Wyst
-*Microtopus Companion*
+*Psionically-bound Microtopus Companion*
 - Can communicate telepathically up to 60 ft.
 - 1/long rest: Detect Thoughts OR Message
 - *Shared Senses*: 
