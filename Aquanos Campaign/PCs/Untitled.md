@@ -16,3 +16,8 @@
 **Proficiency (Variant)**: ???
 **Proficiency (Rogue)**: 
 **Proficiency (Investigator)**: Investigation, Perception
+
+**3rd Level**: Choose 2 Tool Proficiencies or Languages. Gain Proficiency with Arcana.
+
+**Shard Stealer**: Connection with the Dying God allows you to siphon power. When you deal Sneak Attack, one of the following attacks:
+- Elemental Surge: Sneak attack deal an additional 1d6 damage of your choice.
