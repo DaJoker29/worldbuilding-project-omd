@@ -6,3 +6,6 @@
 	- Death of these octopuses is looked down upon.
 - We each have our own octopus. We are psionically bound. 
 
+- The Islands of Aquanos move around the Southwest Sea. Some move through water while others move through air. They maintain the same relative positioning. ==There are rumors of the "Lost Island".==
+
+- The night before we have embarked.
