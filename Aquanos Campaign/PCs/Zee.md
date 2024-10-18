@@ -2,12 +2,12 @@
 **Background**: Investigator
 **Class**: Rogue (Plane Thief)
 **Stats**:
-- **Str**: 12
-- **Dex**: 17 (+1)
-- **Con**: 17 (+1)
-- **Int**: 14
-- **Wis**: 14
-- **Cha**: 13
+- **Str**: 12 (1)
+- **Dex**: 17 + 1 [Variant] (4)
+- **Con**: 17 + 1 [Variant] (4)
+- **Int**: 14 (2)
+- **Wis**: 14 (2)
+- **Cha**: 13 (1)
 
 **Saving Throws**: Dexterity, Intelligence
 **Skill Proficiencies**:

@@ -47,3 +47,5 @@ A girlie scream. We go into the woods to save Zane. "Everybody gets one."
 
 Creepy fog extends and surrounds us. Darkening.
 Another scream. Garbled, desperate. Pitiful.
+
+Zee gets afeared.
