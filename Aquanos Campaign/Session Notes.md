@@ -15,4 +15,9 @@
 **Zane**
 - 3rd member of our party. He thinks he's hot shit.
 
-**Drumals**
+**Drumals (Brad's Character)**
+- Druid
+- Big family
+- Acq
+
+***TO THE WANDERING...***
