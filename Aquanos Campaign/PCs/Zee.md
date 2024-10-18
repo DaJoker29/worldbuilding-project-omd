@@ -10,14 +10,19 @@
 - **Cha**: 13
 
 **Saving Throws**: Dexterity, Intelligence
-**Proficiency (Variant)**: History
-**Proficiency (Rogue)**: Stealth, Sleight of Hand, Insight, Acrobatic
-**Proficiency (Investigator)**: Investigation, Perception
-**Skill Proficiency (Plane Thief)**: Arcana
+**Skill Proficiencies**:
+- History (Variant)
+- Stealth (Rogue)
+- Sleight of Hand
+- Insight
+- Acrobatic
+- Investigation (Investigator)
+- Perception
+- Arcana (Plane Thief)
 **Languages**: Common, Thieves' Cant, Aquan (Plane Thief)
 **Proficiency Bonus**: +2
 
-**HP**: 34
+**HP**: 34 @ Level 3
 - 8 + 6 + 8
 - 3 * CON mod (+4) = 12
 
