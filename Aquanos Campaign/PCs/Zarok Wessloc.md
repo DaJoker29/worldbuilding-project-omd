@@ -1,5 +1,4 @@
 **Race**: Human
-- 
 **Background**: Investigator
 - Trinket: A lantern with a black candle that never runs out and that burns with green flame
 - Mystery: You were wrongfully accused and convicted of a crime. You managed to escape and seek to help others avoid the experience you suffered, even while still being pursued by the law.
@@ -16,12 +15,16 @@
 **Proficiency (Variant)**: History
 **Proficiency (Rogue)**: Stealth, Sleight of Hand, Insight, Acrobatic
 **Proficiency (Investigator)**: Investigation, Perception
-**Proficiency (Plane Thief)**: Arcana
-**Tool Proficiency**: Poisoner's Kit
-**Languages**: Common, Aquan
+**Skill Proficiency (Plane Thief)**: Arcana
+**Tool Proficiency**: Poisoner's Kit (Plane Thief), Disguise Tools (Investiga)
+**Languages**: Common, Aquan (Plane Thief)
 **Feat**: Skulker
 
 **HP**: 34
 - 8 + 6 + 8
-- 3 * CON mod = 12
+- 3 * CON mod (+4) = 12
 
+**Armor (Proficiency)**: Light Armor
+**Weapon (Proficiency)**: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**Equipment**:
+- 
