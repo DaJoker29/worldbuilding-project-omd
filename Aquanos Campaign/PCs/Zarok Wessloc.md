@@ -12,12 +12,16 @@
 - **Wis**: 14
 - **Cha**: 13
 
+**Saving Throws**: Dexterity, Intelligence
 **Proficiency (Variant)**: History
 **Proficiency (Rogue)**: Stealth, Sleight of Hand, Insight, Acrobatic
 **Proficiency (Investigator)**: Investigation, Perception
 **Skill Proficiency (Plane Thief)**: Arcana
-**Languages**: Common, Aquan (Plane Thief)
+**Languages**: Common, Thieves' Cant, Aquan (Plane Thief)
 **Feat**: Skulker
+**Expertise**: Thieves' Tools, Investigation
+**Sneak Attack**: 2d6
+**Proficiency Bonus**: +2
 
 **HP**: 34
 - 8 + 6 + 8
@@ -39,3 +43,5 @@
 - 2x daggers
 - thieves' tools
 - 10gp.
+
+---
