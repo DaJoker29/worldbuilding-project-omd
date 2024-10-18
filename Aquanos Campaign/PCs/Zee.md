@@ -43,7 +43,8 @@
 - Evidence from a past case *(A lantern with a black candle that never runs out and that burns with green flame)*
 - a set of common clothes
 - Rapier (+6 / 1d8+4)
-- Shortbow (+6 / )
+- 2x daggers (+6 / 1d4+4, range 20/60)
+- Shortbow (+6 / 1d6+4, range 80/320)
 - x20 Arrows
 - Quiver
 - Explorer's Pack
@@ -56,7 +57,6 @@
 	- a [waterskin](https://roll20.net/compendium/dnd5e/Items:waterskin?expansion=0#content)
 	- 50 feet of [hempen rope](https://roll20.net/compendium/dnd5e/Items:hempen%20rope?expansion=0#content)
 - Leather armor
-- 2x daggers
 - thieves' tools
 - Zane's flag
 - 10gp

@@ -62,5 +62,7 @@ Teeth Monster attacks us.
 
 **Initiative**
 Gari - 15
+(Enemy) - 15
 Zee - 10
 
+**Bardic\*\*
