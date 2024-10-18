@@ -1,6 +1,5 @@
 **Race**: Human
 **Background**: Investigator
-- Mystery: You were wrongfully accused and convicted of a crime. You managed to escape and seek to help others avoid the experience you suffered, even while still being pursued by the law.
 **Class**: Rogue (Plane Thief)
 **Stats**:
 - **Str**: 12
@@ -50,6 +49,16 @@
 - thieves' tools
 - 10gp.
 
+---
+## Wyst
+*Microtopus Companion*
+- Can communicate telepathically up to 60 ft.
+- 1/long rest: Detect Thoughts OR Message
+- *Shared Senses*: 
+	- A small degree of Darkvision
+	- For every year we are bound, we age half as fast.
+	- 1/long rest: Advantage against charmed, fear, or other mind-altering effects.
+	- 1/long rest: Swim speed equals walking speed. Can breathe underwater for 1 hour.
 ---
 ## Expertise
 **Chosen**: Thieves' Tools, Investigation

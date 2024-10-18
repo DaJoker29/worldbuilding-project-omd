@@ -11,4 +11,4 @@
 	- A small degree of Darkvision
 	- For every year we are bound, we age half as fast.
 	- 1/long rest: Advantage against charmed, fear, or other mind-altering effects.
-	- 1/long rest: Swim speed equals 
+	- 1/long rest: Swim speed equals walking speed. Can breathe underwater for 1 hour.
