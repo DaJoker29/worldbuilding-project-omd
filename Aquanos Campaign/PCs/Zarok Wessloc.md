@@ -21,5 +21,7 @@
 **Languages**: Common, Aquan
 **Feat**: Skulker
 
-**HP**:
+**HP**: 34
+- 8 + 6 + 8
+- 3 * CON mod = 12
 
