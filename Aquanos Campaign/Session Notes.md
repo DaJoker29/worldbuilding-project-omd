@@ -50,3 +50,10 @@ Creepy fog extends and surrounds us. Darkening.
 Another scream. Garbled, desperate. Pitiful.
 
 Zee gets afraid.
+
+Zane is dying.
+
+Used *Psionic Reflexes*.
+Used *Emotional Shield*.
+
+Gari uses a Thundercap
