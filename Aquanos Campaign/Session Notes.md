@@ -19,5 +19,6 @@
 - Druid
 - Big family
 - Acquaintance
+- Wants to find the Lost Island.
 
 ***TO THE WANDERING...***
