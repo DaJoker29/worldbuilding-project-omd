@@ -59,7 +59,7 @@
 - 10gp.
 
 ---
-## Wyst
+## Wystix
 *Psionically-bound Microtopus Companion*
 - Can communicate telepathically up to 60 ft.
 - 1/long rest: Detect Thoughts OR Message
