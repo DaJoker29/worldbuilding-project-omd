@@ -8,7 +8,7 @@
 
 - The Islands of Aquanos move around the Southwest Sea. Some move through water while others move through air. They maintain the same relative positioning. ==There are rumors of the "Lost Island".==
 
-- The night before we have embarked. Brad's character and I are acquintances.
+- The night before we have embarked. Brad's character and I are acquaintances.
 - Big celebration thrown by the town.
 	- Uncle Vesishon
 
