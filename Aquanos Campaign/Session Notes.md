@@ -67,6 +67,8 @@ Zee - 10
 
 ~~\*\*Bardic\*\*~~
 
--9HP / Hide Action / Sneak Attack
+-9HP / Hide Action / Sneak Attack / -1 arrow
 
-Creatu
+Used *Shard Stealer (added 1d6 lightning to sneak attack)*
+
+Creatures head looks like the roots of a tooth.

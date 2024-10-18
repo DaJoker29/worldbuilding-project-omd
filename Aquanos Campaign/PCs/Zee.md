@@ -45,7 +45,7 @@
 - Rapier (+6 / 1d8+4)
 - 2x daggers (+6 / 1d4+4, range 20/60)
 - Shortbow (+6 / 1d6+4, range 80/320)
-- x20 Arrows
+- x19 Arrows
 - Quiver
 - Explorer's Pack
 	- a [backpack](https://roll20.net/compendium/dnd5e/Items:backpack?expansion=0#content)
