@@ -19,5 +19,7 @@
 **Proficiency (Plane Thief)**: Arcana
 **Tool Proficiency**: Poisoner's Kit
 **Languages**: Common, Aquan
-**Feat**: 
+**Feat**: Skulker
+
+**HP**:
 
