@@ -39,3 +39,6 @@ Island on the horizon.
 
 **Gari (Wade's Character)**
 - Skeleton with a guitar who likes to play practical jokes.
+- 
+
+**Current Year**: 431
