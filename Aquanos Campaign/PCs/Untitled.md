@@ -12,3 +12,7 @@
 - 14
 - 17
 - 17
+
+**Proficiency (Variant)**: ???
+**Proficiency (Rogue)**: 
+**Proficiency (Investigator)**: Investigation, Perception
