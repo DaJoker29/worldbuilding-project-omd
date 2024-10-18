@@ -42,8 +42,8 @@
 - A magnifying glass
 - Evidence from a past case *(A lantern with a black candle that never runs out and that burns with green flame)*
 - a set of common clothes
-- Rapier (+6)
-- Shortbow (+6)
+- Rapier (+6 / 1d8+4)
+- Shortbow (+6 / )
 - x20 Arrows
 - Quiver
 - Explorer's Pack
