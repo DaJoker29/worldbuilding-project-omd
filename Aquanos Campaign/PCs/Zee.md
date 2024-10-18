@@ -23,11 +23,15 @@
 **Proficiency Bonus**: +2
 
 **HP**: 34 @ Level 3
-- 8 + 6 + 8
-- 3 * CON mod (+4) = 12
+- 8 + 6 + 8 + (3 * CON(+4) )
 
 **Armor (Proficiency)**: Light Armor
-**Weapon (Proficiency)**: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**Weapon (Proficiency)**:
+- Simple weapons
+- hand crossbows
+- longswords
+- rapiers
+- shortswords
 **Tool Proficiency**:
 - Poisoner's Kit (Plane Thief)
 - Disguise Tools (Investigator)
