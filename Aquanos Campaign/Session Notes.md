@@ -31,3 +31,9 @@ Johannatha Elowitt
 - Creates a tide to get us going toward the mainland.
 
 We ship out early in the morning.
+- Little compass points back to the main island.
+
+Island on the horizon.
+- Cold and foggy
+- No docks. We find a beach though to make landfall.
+- 
