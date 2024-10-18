@@ -56,7 +56,7 @@
 - Leather armor
 - 2x daggers
 - thieves' tools
-- 10gp.
+- 10gp
 
 ---
 ## Wystix
