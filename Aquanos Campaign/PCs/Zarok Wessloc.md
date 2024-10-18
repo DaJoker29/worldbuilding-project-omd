@@ -16,7 +16,6 @@
 **Proficiency (Rogue)**: Stealth, Sleight of Hand, Insight, Acrobatic
 **Proficiency (Investigator)**: Investigation, Perception
 **Skill Proficiency (Plane Thief)**: Arcana
-**Tool Proficiency**: Poisoner's Kit (Plane Thief), Disguise Tools (Investiga)
 **Languages**: Common, Aquan (Plane Thief)
 **Feat**: Skulker
 
@@ -26,5 +25,17 @@
 
 **Armor (Proficiency)**: Light Armor
 **Weapon (Proficiency)**: Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**Tool Proficiency**: Poisoner's Kit (Plane Thief), Disguise Tools (Investigator), Thieves Tools (Investigator)
+
 **Equipment**:
-- 
+- A magnifying glass
+- Evidence from a past case (A lantern with a black candle that never runs out and that burns with green flame)
+- a set of common clothes
+- Rapier
+- Shortbow
+- Quiver of 20x arrows
+- An Explorer's Back
+- Leather armor
+- 2x daggers
+- thieves' tools
+- 10gp.
