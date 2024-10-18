@@ -22,6 +22,7 @@
 **Languages**: Common, Thieves' Cant, Aquan (Plane Thief)
 **Proficiency Bonus**: +2
 
+**AC**: 15 (11 + 4)
 **HP**: 34 @ Level 3
 - 8 + 6 + 8 + (3 * CON[+4] )
 

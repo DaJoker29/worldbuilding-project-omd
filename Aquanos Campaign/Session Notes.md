@@ -36,4 +36,5 @@ We ship out early in the morning.
 Island on the horizon.
 - Cold and foggy
 - No docks. We find a beach though to make landfall.
-- 
+
+**Gari (Wade's Character)**
