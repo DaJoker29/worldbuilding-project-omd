@@ -67,4 +67,6 @@ Zee - 10
 
 ~~\*\*Bardic\*\*~~
 
--9HP / Hide Action / 
+-9HP / Hide Action / Sneak Attack
+
+Creatu
