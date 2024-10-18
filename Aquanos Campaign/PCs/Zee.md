@@ -87,6 +87,8 @@ During your rogue training you learned thieves' cant, a secret mix of dialect, j
 In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 ## Cunning Action
 Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the **Dash**, **Disengage**, or **Hide** action.
+## Steady Aim (Optional)
+At 3rd level, as a bonus action, you give yourself advantage on your next attack roll on the current turn. You can use this bonus action only if you haven't moved during this turn, and after you use the bonus action, your speed is 0 until the end of the current turn.
 
 ## Skulker (Variant Human)
 _Prerequisite: Dexterity 13 or higher_

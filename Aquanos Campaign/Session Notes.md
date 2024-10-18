@@ -42,3 +42,5 @@ Island on the horizon.
 - Left in the year 411
 
 **Current Year**: 431
+
+A girlie scream. We go into the woods to save Zane. "Everybody gets one."
