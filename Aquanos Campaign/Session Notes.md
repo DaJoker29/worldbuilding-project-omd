@@ -23,7 +23,9 @@
 
 ***TO THE WANDERING...***
 
-Johanna Elowitt
+Johannatha Elowitt
 - Elementra Arcana
+- Blue dreadlocks
+- Regal looking sorceress (water-themed Storm)
 
 We ship out early in the morning.
