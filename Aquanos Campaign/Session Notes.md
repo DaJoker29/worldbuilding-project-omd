@@ -65,4 +65,6 @@ Gari - 15
 (Enemy) - 15
 Zee - 10
 
-\*\*Bardic\*\*
+~~\*\*Bardic\*\*~~
+
+-9HP / Hide Action / 
