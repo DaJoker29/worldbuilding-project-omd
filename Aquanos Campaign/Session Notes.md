@@ -72,3 +72,7 @@ Zee - 10
 Used *Shard Stealer (added 1d6 lightning to sneak attack)*
 
 Creatures head looks like the roots of a tooth.
+Gari took out one of his teeth and they chased after one.
+
+All of Zane's teeth were removed by these teeth fairies.
+
