@@ -5,6 +5,10 @@
 **AC**: 12 (15 w/Mage Armor)
 **Silvery Barbs and Misty Step used.**
 
+**Attuned Items**:
+- Arcane Grimoire
+- Scarf of Sh
+
 Toad frozen solid. We solved a puzzle box last session.
 
 - `Wand of Enemy Detection`
