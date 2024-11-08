@@ -14,3 +14,5 @@ Toad frozen solid. We solved a puzzle box last session.
 Flat marshy lakefront. Old tower, decrepit. Collapsing scaffold. Large gash. Covered in moss. Parked near the base within sight of the entrance. A single mud-covered wagon.
 
 Nobu gave us some goodberries.
+
+Fresh coat of purple paint. Steel padlock. Cheap wooden sign. "Keep out!"
