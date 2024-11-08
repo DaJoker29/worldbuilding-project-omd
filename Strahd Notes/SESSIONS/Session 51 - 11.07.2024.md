@@ -7,4 +7,5 @@
 
 Toad frozen solid. We solved a puzzle box last session.
 
-- `The Wand has Divination magic on it.`
+- `Wand of Enemy Detection`
+- `Puzzle Box` — Kinda like a pokeball. Activated by a ritual (saving throw) and then that thing becomes trapped inside.
