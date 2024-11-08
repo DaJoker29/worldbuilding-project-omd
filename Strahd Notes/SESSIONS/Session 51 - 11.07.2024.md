@@ -9,3 +9,8 @@ Toad frozen solid. We solved a puzzle box last session.
 
 - `Wand of Enemy Detection`
 - `Puzzle Box Pokeball` — Kinda like a pokeball. Activated by a ritual (saving throw) and then that thing becomes trapped inside.
+
+**Rictavio's Hideout**
+Flat marshy lakefront. Old tower, decrepit. Collapsing scaffold. Large gash. Covered in moss. Parked near the base within sight of the entrance. A single mud-covered wagon.
+
+Nobu gave us some goodberries.
