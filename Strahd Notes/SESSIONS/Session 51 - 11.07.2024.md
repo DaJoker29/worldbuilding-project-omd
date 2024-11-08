@@ -26,4 +26,4 @@ Rin and Friend search Rictavio's tower. They find a decapitated head.
 
 Adi throws a dagger at the side of the wagon. Friend and Rin break open lock. Wagon blows up.
 
-We start a long rest.
+We start a long rest. In the middle of the night, a pack of werewolves surround the tiny hut.
