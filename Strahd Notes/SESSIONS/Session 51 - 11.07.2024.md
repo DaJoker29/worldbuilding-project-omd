@@ -21,3 +21,7 @@ Flat marshy lakefront. Old tower, decrepit. Collapsing scaffold. Large gash. Cov
 Nobu gave us some goodberries.
 
 Fresh coat of purple paint. Steel padlock. Cheap wooden sign. "Keep out!"
+
+Rin and Friend search Rictavio's tower. They find a decapitated head.
+
+Adi throws a dagger at the side of the wagon.
