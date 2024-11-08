@@ -6,8 +6,9 @@
 **Silvery Barbs and Misty Step used.**
 
 **Attuned Items**:
-- Arcane Grimoire
-- Scarf of Sh
+- Illusive Grimoire
+- Scarf of Shielding
+- 
 
 Toad frozen solid. We solved a puzzle box last session.
 
