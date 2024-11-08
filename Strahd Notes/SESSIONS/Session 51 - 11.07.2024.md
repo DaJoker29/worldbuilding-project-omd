@@ -24,4 +24,6 @@ Fresh coat of purple paint. Steel padlock. Cheap wooden sign. "Keep out!"
 
 Rin and Friend search Rictavio's tower. They find a decapitated head.
 
-Adi throws a dagger at the side of the wagon.
+Adi throws a dagger at the side of the wagon. Friend and Rin break open lock. Wagon blows up.
+
+We start a long rest.
