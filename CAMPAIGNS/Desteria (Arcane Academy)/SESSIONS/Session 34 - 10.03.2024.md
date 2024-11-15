@@ -26,15 +26,8 @@
 - DJ Error on the Track. We play Meow Meow (Billie Eilish).
 - Linnaeus and Bo see something in the distance to the left.
 - Elondor is a wizard in an invisible house. He proofreads contracts. Offers to teleport us back to Desteria. We trade a ruby for some stuff.
-	- Living Hands
-		- Thieves Tools
-		- An individual artisan's tools
-		- A musical instrument
-		- Gives Expertise in a skill if not already present.
-		- Requires attunement.
-	- Skold Rune
-		- Requires attunement
-		- Makes you more difficult to hit
-		- Allows a bond between you and another.
+	- Living Gloves
+	- Ingot of Skold Rune
 	- Hellhound Cloak
 	- Hat of Wizardry
+	- Hag's Eye
