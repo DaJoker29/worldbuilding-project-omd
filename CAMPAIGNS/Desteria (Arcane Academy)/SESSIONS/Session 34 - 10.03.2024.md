@@ -37,4 +37,4 @@
 		- Makes you more difficult to hit
 		- Allows a bond between you and another.
 	- Hellhound Cloak
-	- 
+	- Hat of Wizardry
