@@ -19,3 +19,4 @@
 	- The means to acquire the information they are looking for. To further the goals of allies or companions to the DILFES.
 - Linnaeus asked for assistance in locating individuals related to our members.
 - *We took a break and talked about Tony's magical weapon. We also talked about Patrick's belly button.*
+- Tessa is riding a mirage worm. 
