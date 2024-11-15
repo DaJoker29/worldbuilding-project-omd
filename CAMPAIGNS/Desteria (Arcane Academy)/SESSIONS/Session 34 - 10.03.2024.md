@@ -32,7 +32,9 @@
 		- A musical instrument
 		- Gives Expertise in a skill if not already present.
 		- Requires attunement.
-	- ???
+	- Skold Rune
 		- Requires attunement
 		- Makes you more difficult to hit
 		- Allows a bond between you and another.
+	- Hellhound Cloak
+	- 
