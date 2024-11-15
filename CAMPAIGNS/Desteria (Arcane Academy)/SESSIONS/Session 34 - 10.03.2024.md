@@ -12,3 +12,4 @@
 
 **Session Notes**:
 - Axis is unable to make a contract as he has a deal with another entity (genie).
+- We exit through fountains
