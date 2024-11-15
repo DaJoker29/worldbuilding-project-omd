@@ -21,3 +21,4 @@
 - *We took a break and talked about Tony's magical weapon. We also talked about Patrick's belly button.*
 - Tessa is riding a mirage worm.
 - Linnaeus and Bo want to return to school to avenge their friends.
+- Linnaeus has a limit on how many words per day he wants to hear Simp speak. Simp has to make himself invisible to avoid incurring his wrath.
