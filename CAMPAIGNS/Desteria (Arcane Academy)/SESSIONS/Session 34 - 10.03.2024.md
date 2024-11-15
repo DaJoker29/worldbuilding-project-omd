@@ -25,4 +25,4 @@
 - We start heading North (Back to Desteria)
 - DJ Error on the Track. We play Meow Meow (Billie Eilish).
 - Linnaeus and Bo see something in the distance to the left.
-- 
+- Elondor
