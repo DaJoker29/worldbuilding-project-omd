@@ -17,4 +17,4 @@
 	- He also has a business enterprise in the hells with a group called the Sharks.
 - Niccolo asked for information to get himself established in Desteria.
 	- The means to acquire the information they are looking for. To further the goals of allies or companions to the DILFES.
-- Linnaeus asked for assistance in locating individuals 
+- Linnaeus asked for assistance in locating individuals related to our members.
