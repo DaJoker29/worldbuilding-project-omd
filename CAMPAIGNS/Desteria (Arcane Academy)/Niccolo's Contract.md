@@ -1,4 +1,5 @@
 **Request**: Complete dossiers on the entire VerPlanck family and associates, including Linneaus, his siblings, his mother, and his fathers (both presumptive and biological).
+
 - History and Relationships
 - Ties to any real estate or other property
 - Business interests, both public and secret
