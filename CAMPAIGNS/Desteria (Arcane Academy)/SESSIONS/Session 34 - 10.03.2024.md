@@ -25,7 +25,7 @@
 - We start heading North (Back to Desteria)
 - DJ Error on the Track. We play Meow Meow (Billie Eilish).
 - Linnaeus and Bo see something in the distance to the left.
-- Elondor is a wizard in an invisible house. He proofreads contracts. Offers to teleport us back to Desteria. We trade a ruby for some stuff.
+- Elondor is a wizard in an invisible house. He proofreads contracts. Offers to teleport us back to Desteria. Bo trades a ruby and a ring of waterwalking for the following items:
 	- Living Gloves
 	- Ingot of Skold Rune
 	- Hellhound Cloak
