@@ -13,3 +13,9 @@
 **Session Notes**:
 - Axis is unable to make a contract as he has a deal with another entity (genie).
 - We exit through fountains
+- Simp asked for help establishing a towel company. The Dryer, the Wetter. All the towels come pre-damped.
+	- He also has a business enterprise in the hells with a group called the Sharks.
+- Niccolo asked for information to get himself established in Desteria.
+	- The means to acquire the information they are looking for. To further the goals of allies or companions to the DILFES.
+- Linnaeus asked for assistance with "something"
+- 
