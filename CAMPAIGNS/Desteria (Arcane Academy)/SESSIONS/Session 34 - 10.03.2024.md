@@ -4,3 +4,8 @@
 **Invisibility**: `[x]`
 **Hexblade**: `[ ]`
 
+**Party**:
+- Linneaus
+- Niccolo
+- Bo
+- Axis (and Simp)
