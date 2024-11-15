@@ -5,10 +5,10 @@
 **Hexblade**: `[ ]`
 
 **Party**:
-- Linneaus — Find his father
+- Linneaus — Father's criminal empire. Protecting his family.
 - Niccolo
-- Bo
-- Axis (and Simp)
+- Bo — Brother is being hunted.
+- Axis (and Simp) — Father is missing or dead?
 
 **Session Notes**:
 - Axis is unable to make a contract as he has a deal with another entity (genie).
