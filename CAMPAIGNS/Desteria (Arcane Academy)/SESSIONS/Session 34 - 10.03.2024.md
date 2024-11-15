@@ -23,4 +23,6 @@
 - Linnaeus and Bo want to return to school to avenge their friends.
 - Linnaeus has a limit on how many words per day he wants to hear Simp speak. Simp has to make himself invisible to avoid incurring his wrath.
 - We start heading North (Back to Desteria)
-- DJ Error on the Track
+- DJ Error on the Track. We play Meow Meow (Billie Eilish).
+- Linnaeus and Bo see something in the distance to the left.
+- 
