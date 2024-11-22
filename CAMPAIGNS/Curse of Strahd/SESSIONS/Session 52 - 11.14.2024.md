@@ -9,3 +9,4 @@
 - Illusive Grimoire
 - Scarf of Shielding
 
+Werewolf accelerates Bonks transformation.
