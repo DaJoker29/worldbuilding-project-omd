@@ -9,4 +9,5 @@
 - Illusive Grimoire
 - Scarf of Shielding
 
-Werewolf accelerates Bonks transformation.
+- Werewolf accelerates Bonks transformation.
+- Bonk bites Adi. 
