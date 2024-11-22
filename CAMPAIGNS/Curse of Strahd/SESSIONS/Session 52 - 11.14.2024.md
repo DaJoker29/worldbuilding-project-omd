@@ -8,6 +8,7 @@
 **Attuned Items**:
 - Illusive Grimoire
 - Scarf of Shielding
+- Wand of Enemy Detection
 
 - Werewolf accelerates Bonks transformation.
 - Bonk bites Adi. 

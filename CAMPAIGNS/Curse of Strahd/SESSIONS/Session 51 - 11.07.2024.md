@@ -8,7 +8,7 @@
 **Attuned Items**:
 - Illusive Grimoire
 - Scarf of Shielding
-- 
+- Wand of Enemy Detection
 
 Toad frozen solid. We solved a puzzle box last session.
 
