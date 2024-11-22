@@ -14,3 +14,4 @@
 - Bonk bites Adi. Adi silvery barbs to fail the save and contract lycanthropy.
 - Big ass fight.
 - Everybody is dumbasses. People are down/dying. Bonk is stabilized. Adi steals Bonk's spoon and begins digging a hole beside him.
+- 
