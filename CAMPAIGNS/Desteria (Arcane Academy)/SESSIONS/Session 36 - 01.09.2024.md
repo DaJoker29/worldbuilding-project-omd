@@ -22,3 +22,5 @@
 *Flashback @ the Verplanck Manor*
 - Two voices. Chuck and Linneaus's dad (Abraham). A new venture. Chuck speaking proper (uncharacteristically). Papa doesn't do business with people he hasn't met face-to-face. Daughter has just been born (Abigail).
 - Linneaus slept with a girl at the brothel and then they killed her in front of him.
+
+- Niccolo swallow the Hag's Eye
