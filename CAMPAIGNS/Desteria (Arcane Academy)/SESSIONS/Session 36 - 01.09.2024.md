@@ -8,7 +8,7 @@
 
 **Party**:
 - Linneaus — Father's criminal empire. Protecting his family.
-- Niccolo
+- Niccolo — Looking to start his own empire.
 - Bo — Brother is being hunted.
 - Axis (and Simp) — Father is missing or dead?
 
@@ -20,5 +20,5 @@
 - Previous business with Linneaus's father.
 
 *Flashback @ the Verplanck Manor*
-- Two voices. Chuck and Linneaus's dad. A new venture. Chuck speaking proper (uncharacteristically). Papa doesn't do business with people he hasn't met face-to-face. Daughter has just been born (Abigail).
+- Two voices. Chuck and Linneaus's dad (Abraham). A new venture. Chuck speaking proper (uncharacteristically). Papa doesn't do business with people he hasn't met face-to-face. Daughter has just been born (Abigail).
 - 
