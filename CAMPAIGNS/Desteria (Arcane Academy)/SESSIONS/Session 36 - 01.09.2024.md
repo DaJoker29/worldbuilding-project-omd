@@ -14,4 +14,4 @@
 **Session Notes**:
 
 - We are in the office of a pimp named Slickback. Niccolo is invisible. The pimp knows Linneaus.
-- 
+- Lenny's Old Pal, Chuck! They've had run-ins in the past (Linneaus's father).
