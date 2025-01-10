@@ -4,6 +4,7 @@
 **Invisibility**: `[x]`
 **Hexblade's Curse**: `[x]`
 **Echo Blade**: `[x]`
+**Hell Hound Cloak**: `[ ]`
 
 **Party**:
 - Linneaus — Father's criminal empire. Protecting his family.
@@ -19,4 +20,5 @@
 - Previous business with Linneaus's father.
 
 *Flashback @ the Verplanck Manor*
-- Two voices. Chuck and Linneaus's . A new venture. Chuck speaking proper (uncharacteristically). 
+- Two voices. Chuck and Linneaus's dad. A new venture. Chuck speaking proper (uncharacteristically). Papa doesn't do business with people he hasn't met face-to-face. Daughter has just been born (Abigail).
+- 
