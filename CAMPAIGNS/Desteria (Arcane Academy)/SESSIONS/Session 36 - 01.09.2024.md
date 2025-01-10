@@ -1,8 +1,9 @@
-**Bardic (d6)**: `[x][x][ ][ ][ ]`
+**Bardic (d6)**: `[x][x][x][ ][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
 **Invisibility**: `[x]`
-**Hexblade's Curse**: `[ ]`
+**Hexblade's Curse**: `[x]`
+**Echo Blade**: `[x]`
 
 **Party**:
 - Linneaus — Father's criminal empire. Protecting his family.
@@ -11,3 +12,5 @@
 - Axis (and Simp) — Father is missing or dead?
 
 **Session Notes**:
+
+- We are in the office of a pimp named Slickback. And Niccolo is invis
