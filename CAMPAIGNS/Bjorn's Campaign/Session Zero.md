@@ -6,6 +6,7 @@
 - Aloof, emo character. Has compassion and empathy.
 #### Chungus Bungus (Me)
 Dwarf Barbarian
+[ 14, 9, 8, 14, 15, 12 ]
 
 We're starting on a ferry together heading to a monastery built into the cliffside.
 
