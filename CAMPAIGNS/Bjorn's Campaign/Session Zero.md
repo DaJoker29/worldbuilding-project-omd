@@ -32,14 +32,16 @@ We're starting on a ferry together heading to a monastery built into the cliffsi
 - Heading to Stormwreck Isle.
 	- Temple that helps people center themselves and rehabilitate.
 
-Captain missing a leg
-
-Long staircase up the mountain.
-
-3 watery drowned come out of the water.
+- Human captain. Peg leg.
+- Long staircase up the mountain.
+- 3 watery drowned come out of the water and attack
 
 **Initiative**:
 Chug - 12
 Eclipse - 11
-Zombie -
+Zombie - 
 Feyre - 10
+
+- Feyre does a backflip for no reason. Tries to justify it as putting distance between the enemies.
+- Eclipse does cool magic but Chug prefers old fashioned violence.
+- Chug shows off for the ladies.
