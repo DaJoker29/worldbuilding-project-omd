@@ -12,7 +12,7 @@
 #### "Chug" Gungus (Me)
 **Dwarf Barbarian**
 [ 14, 9, 8, 14, 15, 12 ]
-- Battle-scarred warrior. 
+- Battle-scarred warrior.
 - Parents died in a tragic drow attack. Raised at his uncle's brewery.
 - Drunk half the time.
 
@@ -22,3 +22,9 @@ We're starting on a ferry together heading to a monastery built into the cliffsi
 
 **What We Already Know**
 - People come to center and find inner peace. Especially those who are battle-weary.
+
+**The Nebuccanezzer**
+- Heading to Stormwreck Isle.
+	- Temple that helps people center themselves and rehabilitate.
+
+Captain missing a 
