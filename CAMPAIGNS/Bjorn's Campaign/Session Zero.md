@@ -45,3 +45,7 @@ Feyre - 10
 - Feyre does a backflip for no reason. Tries to justify it as putting distance between the enemies.
 - Eclipse does cool magic but Chug prefers old fashioned violence.
 - Chug shows off for the ladies.
+
+**Brunara**
+- Elderly woman. Hazel eyes.
+
