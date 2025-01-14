@@ -1,7 +1,10 @@
-Aasimar Ranger
-Drow Warlock
+## Roster
+#### **Aasimar Ranger**
+#### Drow Warlock
 - Aloof, emo character. Has compassion and empathy.
-Dwarf Barbarian — Chungus Bungus
+
+#### Chungus Bungus (Me)
+Dwarf Barbarian
 
 We're starting on a ferry together heading to a monastery built into the cliffside.
 
