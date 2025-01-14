@@ -48,4 +48,14 @@ Feyre - 10
 
 **Brunara**
 - Elderly woman. Hazel eyes.
+- Temple does not worship any particular deity. Just a place of solitude. Help those who lives have been shaped by violence.
 
+- Garden along the path. 5 doors. 
+	- 1st door
+
+- Human man, dark skin, freckles. Unrecognizable gourd.
+- "I'm not stupid enough to walk into a trap." —Eclipse
+	- Chug's old platoon was ambushed and slaughtered. He blames himself for walking into a trap.
+
+- Lots of kobolds. Main residents at this monastery (Dragon's Rest).
+- 
