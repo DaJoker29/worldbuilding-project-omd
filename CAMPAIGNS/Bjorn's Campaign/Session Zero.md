@@ -2,11 +2,13 @@
 #### Feyre (Kenzie)
 **Aasimar Ranger**
 - Divine blooded. Kicked from the heavens to prove herself.
-- Altruistic?
+- Noble background. Distant from family.
 #### Eclipse (Julia)
 **Drow Warlock**
 - Aloof, emo character. Has compassion and empathy.
 - Accidentally killed her family.
+
+![[Image - Chug Gungus.png|250]]
 #### "Chug" Gungus (Me)
 **Dwarf Barbarian**
 [ 14, 9, 8, 14, 15, 12 ]
