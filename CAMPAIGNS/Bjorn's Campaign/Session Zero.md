@@ -37,3 +37,6 @@ Captain missing a leg
 Long staircase up the mountain.
 
 3 watery drowned come out of the water.
+
+**Initiative**:
+Chug - 12
