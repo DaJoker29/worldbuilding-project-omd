@@ -1,6 +1,7 @@
 ## Roster
 #### ??? (Kenzie)
 **Aasimar Ranger**
+- Divine blooded. Kicked from the heavens to prove herself.
 #### Eclipse (Julia)
 **Drow Warlock**
 - Aloof, emo character. Has compassion and empathy.
