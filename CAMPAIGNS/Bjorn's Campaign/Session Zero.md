@@ -5,6 +5,7 @@
 #### Eclipse (Julia)
 **Drow Warlock**
 - Aloof, emo character. Has compassion and empathy.
+- Accidentally killed her family.
 #### Chungus Bungus (Me)
 Dwarf Barbarian
 [ 14, 9, 8, 14, 15, 12 ]
