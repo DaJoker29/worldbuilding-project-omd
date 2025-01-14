@@ -14,6 +14,7 @@
 [ 14, 9, 8, 14, 15, 12 ]
 - Battle-scarred warrior. 
 - Parents died in a tragic drow attack. Raised at his uncle's brewery.
+- Drunk half the time.
 
 ***
 #### Start Here
