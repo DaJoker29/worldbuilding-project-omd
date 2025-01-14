@@ -40,3 +40,6 @@ Long staircase up the mountain.
 
 **Initiative**:
 Chug - 12
+Eclipse - 11
+Zombie
+Feyre - 10
