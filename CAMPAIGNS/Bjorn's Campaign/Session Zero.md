@@ -1,8 +1,9 @@
 ## Roster
-#### **Aasimar Ranger**
-#### Drow Warlock
+#### ??? (Kenzie)
+**Aasimar Ranger**
+#### Eclipse (Julia)
+**Drow Warlock**
 - Aloof, emo character. Has compassion and empathy.
-
 #### Chungus Bungus (Me)
 Dwarf Barbarian
 
