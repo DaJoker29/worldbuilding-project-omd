@@ -3,10 +3,15 @@
 **Aasimar Ranger**
 - Divine blooded. Kicked from the heavens to prove herself.
 - Noble background. Distant from family.
+- Red, long wave hair — Golden Scale Armor
+
 #### Eclipse (Julia)
 **Drow Warlock**
 - Aloof, emo character. Has compassion and empathy.
 - Accidentally killed her family.
+- Pale, light eyes. Black, blue braids.
+- Flowing shirts, flowy pants. Belt around her with an axe.
+
 
 ![[Image - Chug Gungus.png|250]]
 #### "Chug" Gungus (Me)
@@ -27,4 +32,8 @@ We're starting on a ferry together heading to a monastery built into the cliffsi
 - Heading to Stormwreck Isle.
 	- Temple that helps people center themselves and rehabilitate.
 
-Captain missing a 
+Captain missing a leg
+
+Long staircase up the mountain.
+
+3 watery drowned come out of the water.
