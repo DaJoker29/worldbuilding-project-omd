@@ -12,4 +12,5 @@
 - Scarf of Shielding
 - Wand of Enemy Detection
 # Start Here
-- Nobu falls off of the boat. We press on.
+- Nobu falls off of the boat. We press on and get lost. We see a tiny toy gallows on the shore.
+- 
