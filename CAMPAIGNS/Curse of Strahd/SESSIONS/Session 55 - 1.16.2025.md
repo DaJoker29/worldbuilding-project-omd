@@ -27,4 +27,4 @@
 - Rin falls off the boat and walks ashore.
 - Adi burns the boat to get everyone off the boat.
 - Delban leaves the party and tries to fly away.
-- Illusion magic surrounds the town.
+- Illusion magic surrounds the town. Adi and Rin go into town. Adi picks up a toy and takes psychic damage.
