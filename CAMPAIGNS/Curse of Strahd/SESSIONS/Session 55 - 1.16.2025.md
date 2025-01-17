@@ -13,4 +13,4 @@
 - Wand of Enemy Detection
 # Start Here
 - Nobu falls off of the boat. We press on and get lost. We see a tiny toy gallows on the shore.
-- 
+- Music coming from the mist. "Come to shore, find what you seek."
