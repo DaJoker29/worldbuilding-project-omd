@@ -17,3 +17,10 @@
 	- Haughty woman abusing a Beautiful woman
 	- Crowd watching the scuffle. They pick up the rich woman to a house and the poor woman lifts up the kid and gives him a hug.
 - Skeletons appears on the boat.
+	- **Initiative**
+		- Bonk
+		- Nobu
+		- Adi
+		- Friend
+		- Rin
+		- Delban
