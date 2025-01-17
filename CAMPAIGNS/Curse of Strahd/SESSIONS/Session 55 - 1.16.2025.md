@@ -5,7 +5,6 @@
 
 **HP**: 56/56
 **AC**: 12 (15 w/Mage Armor)
-**Silvery Barbs and Misty Step Used**
 
 **Attuned Items**:
 - Illusive Grimoire
@@ -16,4 +15,5 @@
 - Music coming from the mist. "Come to shore, find what you seek."
 - A town appears along the shore. 3 people + a child are in a scuffle.
 	- Haughty woman abusing a Beautiful woman
-	- 
+	- Crowd watching the scuffle. They pick up the rich woman to a house and the poor woman lifts up the kid and gives him a hug.
+- Skeletons appears on the boat.
