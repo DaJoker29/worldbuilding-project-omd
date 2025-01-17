@@ -24,3 +24,6 @@
 		- Friend
 		- Rin
 		- Delban
+- Rin falls off the boat and walks ashore.
+- Adi burns the boat to get everyone off the boat.
+- Delban leaves the party and tries to fly away.
