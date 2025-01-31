@@ -17,3 +17,4 @@
 - Pidlwick and Friend come across a wetnurse. She asks Friend in Infernal what he is doing in her swamp. She introduces her son, the future Lord of Barovia, Strahd.
 - She asks Friend to stop Delban. Friend casts Darkness, she casts Spell and he bleeds from his mouth.
 - She casts spells on us. We try to leave. She ensorcels Bonk with crown of madness. Rin casts Calm Emotions to suppress it.
+- She takes Nobu's name and he asks us to call us by Veyllis (Friend's real name). 
