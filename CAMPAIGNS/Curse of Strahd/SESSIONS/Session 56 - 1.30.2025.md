@@ -11,3 +11,5 @@
 - Scarf of Shielding
 - Wand of Enemy Detection
 # Start Here
+- We talked about speedsters and time travel.
+- 
