@@ -12,4 +12,5 @@
 - Wand of Enemy Detection
 # Start Here
 - We talked about speedsters and time travel.
+- **We can consume multiples Goodberries in a single day.**
 - 
