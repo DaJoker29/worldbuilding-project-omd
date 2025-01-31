@@ -13,4 +13,5 @@
 # Start Here
 - We talked about speedsters and time travel.
 - **We can consume multiples Goodberries in a single day.**
-- 
+- Adi uses an incantation to locate Nobu's holy symbol and find their way back through the illusory town.
+- Pidlwick and Friend come across a wetnurse.
