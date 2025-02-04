@@ -5,3 +5,6 @@
 - Are there devils? Is Collabris connected to the Hells?
 - No way out?
 	- Spells like Plane Shift will require special components based on the planet/god itself.
+- Chunks of the outer planes are pulled into Collabris. To travel to those plane shifts
+	- What if gateways exist to different planes but each gate is protected by a powerful entity like a pit fiend or whatever.
+- Encourage DMs to incorporate whatever universe they want to.
