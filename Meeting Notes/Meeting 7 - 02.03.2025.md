@@ -8,3 +8,4 @@
 - Chunks of the outer planes are pulled into Collabris. To travel to those plane shifts
 	- What if gateways exist to different planes but each gate is protected by a powerful entity like a pit fiend or whatever.
 - Encourage DMs to incorporate whatever universe they want to.
+- Blipiversary: Celebrate the anniversary of when you arrived in Collabris.
