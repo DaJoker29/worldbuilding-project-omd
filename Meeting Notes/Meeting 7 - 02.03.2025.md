@@ -1,1 +1,7 @@
 - Broaden!
+- Other nation Ideas?
+	- Amazon-inspired corporation
+	- Underwater stoners?
+- Are there devils? Is Collabris connected to the Hells?
+- No way out?
+	- Spells like Plane Shift will require special components based on the planet/god itself.
