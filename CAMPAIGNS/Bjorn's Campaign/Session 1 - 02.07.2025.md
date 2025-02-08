@@ -20,4 +20,6 @@ Eclipse (Julia)
 - General Varnoff, Az? Wardens
 	- Dressed casually.
 	- Battlescars.
-	- 
+
+- We boat down and decide to go in at Low Tide.
+- Bioluminescence.
