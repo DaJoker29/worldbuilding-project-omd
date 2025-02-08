@@ -30,3 +30,4 @@ Eclipse (Julia)
 
 - Chug chastises Eclipse for falling in battle. "We're only as strong as our weakest link."
 - Eclipse: "I know, I know." Walks away.
+- Chug feels bad for being too harsh.
