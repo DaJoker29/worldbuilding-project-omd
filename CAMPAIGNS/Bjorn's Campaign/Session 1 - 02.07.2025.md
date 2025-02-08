@@ -10,4 +10,6 @@ Eclipse (Julia)
 - New Feature: Whenever Chug gets intoxicated, you lose -2 Strength and -2 Intelligence but gain undead fortitude feat temporarily.
 
 - Eclipse has a nightmare.
-- Chug has a dream. People dancing. They do a cheers to their captain. He turns it back on them.
+- Chug has a dream. People dancing. They do a cheers to their captain. He turns it back on them. Fire breaks out and a red dragon lunges towards. Ends up breaking down the door to the girl's room. Falls asleep on their bed.
+
+- Feyre and Eclipse go to the temple. Feyre feels lost. They meet Brunara.
