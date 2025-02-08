@@ -23,3 +23,10 @@ Eclipse (Julia)
 
 - We boat down and decide to go in at Low Tide.
 - Bioluminescence.
+- Octopus thing attacks.
+- Eclipse goes down from tentacle attack.
+- Chug gets angry (rage).
+- Feyre gets killing blow.
+
+- Chug chastises Eclipse for falling in battle. "We're only as strong as our weakest link."
+- Eclipse: "I know, I know." Walks away.
