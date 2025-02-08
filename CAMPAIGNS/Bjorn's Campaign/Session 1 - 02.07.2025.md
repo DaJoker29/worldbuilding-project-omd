@@ -16,3 +16,8 @@ Eclipse (Julia)
 - Chug has a dream. People dancing. They do a cheers to their captain. He turns it back on them. Fire breaks out and a red dragon lunges towards. Ends up breaking down the door to the girl's room. Falls asleep on their bed.
 
 - Feyre and Eclipse go to the temple. Feyre feels lost. They meet Brunara.
+
+- General Varnoff, Az? Wardens
+	- Dressed casually.
+	- Battlescars.
+	- 
