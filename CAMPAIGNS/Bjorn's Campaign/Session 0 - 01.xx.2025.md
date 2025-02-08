@@ -52,7 +52,7 @@ Feyre - 10
 - Garden along the path. 6 doors. 
 	- 1st door — Go here if we need to rest.
 
-- Human man, dark skin, freckles. Unrecognizable gourd.
+- Human man, dark skin, freckles. Unrecognizable gourd. Tattoos
 - "I'm not stupid enough to walk into a trap." —Eclipse
 	- Chug's old platoon was ambushed and slaughtered. He blames himself for walking into a trap.
 
