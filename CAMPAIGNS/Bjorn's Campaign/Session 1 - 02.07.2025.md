@@ -7,4 +7,7 @@ Eclipse (Julia)
 
 - Inventor kobold with broken wings. Building a gun that shoots firebolt. Gives it to Feyre.
 
-Whenever Chug gets intoxicated, you lose -2 Strength and -2 Intelligence but gain undead fortitude feat temporarily.
+- New Feature: Whenever Chug gets intoxicated, you lose -2 Strength and -2 Intelligence but gain undead fortitude feat temporarily.
+
+- Eclipse has a nightmare.
+- Chug has a dream. People dancing. They do a cheers to their captain. He turns it back on them.

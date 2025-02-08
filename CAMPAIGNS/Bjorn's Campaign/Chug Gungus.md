@@ -5,3 +5,5 @@ The Knucklebreakers — Chug's old platoon.
 - Baldrick
 - Yon
 - Faraji
+- Mandrake
+- 
