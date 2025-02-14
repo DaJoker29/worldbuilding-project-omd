@@ -22,3 +22,5 @@
 Clearish morning. Looming mountains. We don't know where Virion is. Just a general direction.
 
 - Cursed Pokeball is primed. He can use it to trap something maybe.
+
+We walk towards the mountains. 
