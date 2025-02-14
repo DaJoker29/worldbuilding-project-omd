@@ -1,5 +1,5 @@
 **Portent**: `[x][9]`
-**Hero Point**: `[ ]`
+**Hero Point**: `[x]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 
@@ -29,3 +29,4 @@ Clearish morning. Looming mountains. We don't know where Virion is. Just a gener
 	- Virion threatens Adi about casting fire magic.
 - Adi still surprised people consider Delban a god.
 - We cross the bridge and a mysterious stranger appears. Friend wants to go fight them. We argue with him (even though Kyle isn't here).
+- We enter a snowstorm. ***Adi casts Mage Armor.***
