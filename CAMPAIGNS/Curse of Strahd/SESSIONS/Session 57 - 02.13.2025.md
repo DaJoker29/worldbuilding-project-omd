@@ -23,4 +23,5 @@ Clearish morning. Looming mountains. We don't know where Virion is. Just a gener
 
 - Cursed Pokeball is primed. He can use it to trap something maybe.
 
-We walk towards the mountains. 
+We walk towards the mountains. Delban sends an ice flare to guide us.
+Nobu removes Adi's curse
