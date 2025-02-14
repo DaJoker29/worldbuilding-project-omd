@@ -25,4 +25,5 @@ Clearish morning. Looming mountains. We don't know where Virion is. Just a gener
 
 - We walk towards the mountains. Delban sends an ice flare to guide us.
 - Nobu removes Adi's curse.
-- We find Virion near a cliffside.
+- We find Virion near a cliffside. He flies Adi and Friend up the mountain.
+	- Virion threatens Adi about casting fire magic.
