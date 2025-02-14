@@ -30,5 +30,8 @@ Clearish morning. Looming mountains. We don't know where Virion is. Just a gener
 - Adi still surprised people consider Delban a god.
 - We cross the bridge and a mysterious stranger appears. Friend wants to go fight them. We argue with him (even though Kyle isn't here).
 - We enter a snowstorm. ***Adi casts Mage Armor.***
-- Nobu slips, falls, almost dies. Saved by Delban
+- Nobu slips, falls, almost dies. Saved by Delban (for some reason).
 - Some people get exhaustion.
+- Adi hears an avalanche as we reach the crossroads.
+
+**Suggestion**: Ask Friend to cast *Burning Hands*.
