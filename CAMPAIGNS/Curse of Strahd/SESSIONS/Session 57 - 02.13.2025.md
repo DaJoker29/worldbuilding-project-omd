@@ -27,3 +27,4 @@ Clearish morning. Looming mountains. We don't know where Virion is. Just a gener
 - Nobu removes Adi's curse.
 - We find Virion near a cliffside. He flies Adi and Friend up the mountain.
 	- Virion threatens Adi about casting fire magic.
+- Adi still surprised people consider Delban a god.
