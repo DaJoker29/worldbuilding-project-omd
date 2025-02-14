@@ -11,4 +11,5 @@
 - Scarf of Shielding
 - Wand of Enemy Detection
 # Start Here
-- 
+- We joke about leveling up. We talk about mustard.
+- Do we taking a long rest?
