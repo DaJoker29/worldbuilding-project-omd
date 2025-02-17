@@ -12,3 +12,6 @@ They inhale some spores. They experience each other minds.
 - Chug: Switching to your secondary weapon is always quicker than reloading. Training a young archer.
 - Feyre: Her people and her goddess are laughing at her.
 
+**Deeper into the Caves**
+- Eclipse and Feyre suspect Tarroch screwed them over.
+- 
