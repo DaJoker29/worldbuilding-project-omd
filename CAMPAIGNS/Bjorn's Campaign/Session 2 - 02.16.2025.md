@@ -14,4 +14,5 @@ They inhale some spores. They experience each other minds.
 
 **Deeper into the Caves**
 - Eclipse and Feyre suspect Tarroch screwed them over.
+- Nest of Stirges — incredibly territorial
 - 
