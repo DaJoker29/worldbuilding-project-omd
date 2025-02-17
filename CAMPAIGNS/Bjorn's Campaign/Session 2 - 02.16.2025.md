@@ -20,4 +20,6 @@ They inhale some spores. They experience each other minds.
 
 **LONG REST** (Level up)
 - Boat is missing.
-- A violin is playing a lullaby of Feyre's people.
+- A violin is playing a lullaby of Eclipse's people.
+- Feast is set up.
+- Mysterious person appears and says he is Eclipse's patron.
