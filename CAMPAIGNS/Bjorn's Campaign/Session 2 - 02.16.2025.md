@@ -23,3 +23,4 @@ They inhale some spores. They experience each other minds.
 - A violin is playing a lullaby of Eclipse's people.
 - Feast is set up.
 - Mysterious person appears and says he is Eclipse's patron.
+- We beat him in tug-of-war. He gives Eclipse a special sword.
