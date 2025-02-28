@@ -11,4 +11,5 @@
 - Adi ties himself to Delban. Delban casts Fly. Delban carries Adi. Bonk carries Pidlwick and Veyllis. Friend thundersteps with Rin and then Rin flies with Friend.
 - Bless on Bonk, Friend, Veyllis, and Rin.
 - Trevor showed up.
-- Fork in
+- Fork in the road: Moaning to the east, blood trail to the south, nothing to the west.
+- We go towards moaning and find a pile of bones.
