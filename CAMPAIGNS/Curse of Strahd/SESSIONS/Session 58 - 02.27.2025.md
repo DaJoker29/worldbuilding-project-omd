@@ -15,5 +15,7 @@
 - We go towards moaning and find a pile of bones. Adi beguns animating skeletons while others move ahead.
 - They get ambushed by a creepy looking undead thing. Another one crept up behind Pidlwick.
 
+**Next Session**: Maybe try using the Pokeball next session. Delban is down and on death's door. Nobu turned the monster nearest Delban. He'll run far away on his turn.
+
 **Note**: A human skeleton weighs about 10.5lbs. If I carry a sack with two skeletons, it'll weigh about 21lbs.
 - When not exploring, Adi's skeletons collapse into piles of bones and he stores them in sacks. 
