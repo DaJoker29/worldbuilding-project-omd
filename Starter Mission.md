@@ -1,2 +1,0 @@
-- Level 2 - Starter Quest
-- Players will end up running a bar.
