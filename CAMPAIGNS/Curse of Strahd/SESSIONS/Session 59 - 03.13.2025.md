@@ -17,4 +17,5 @@
 	- Skeletal Couture
 	- Left arm, right leg, left leg are skeletal and misshapen.
 	- Spine mace (Abomination), femur dagger (Kletus)
-- We head into a
+- We head into the chimney room and find a glowing red pendant.
+- Adi begins to cast identify. Part way through, his eyes go blank.
