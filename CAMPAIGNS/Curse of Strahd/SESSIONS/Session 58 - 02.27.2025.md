@@ -12,7 +12,7 @@
 - Bless on Bonk, Friend, Veyllis, and Rin.
 - Trevor showed up.
 - Fork in the road: Moaning to the east, blood trail to the south, nothing to the west.
-- We go towards moaning and find a pile of bones. Adi beguns animating skeletons while others move ahead.
+- We go towards moaning and find a pile of bones. Adi beguns animating skeletons while others move ahead. Stops casting to go into the other room.
 - They get ambushed by a creepy looking undead thing. Another one crept up behind Pidlwick.
 
 **Next Session**: Nobu turned the monster nearest Delban. He'll run far away on his turn. Delban just got healed.
