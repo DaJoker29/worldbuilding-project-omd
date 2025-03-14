@@ -17,3 +17,4 @@
 	- Skeletal Couture
 	- Left arm, right leg, left leg are skeletal and misshapen.
 	- Spine mace (Abomination), femur dagger (Kletus)
+- We head into a
