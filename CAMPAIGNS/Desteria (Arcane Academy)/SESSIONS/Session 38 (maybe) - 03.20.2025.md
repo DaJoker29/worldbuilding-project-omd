@@ -13,3 +13,6 @@
 - Axis (and Simp) — Father is missing or dead?
 
 **START HERE**: 
+
+> **Niccolo's Room at Monther's**
+> Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. 
