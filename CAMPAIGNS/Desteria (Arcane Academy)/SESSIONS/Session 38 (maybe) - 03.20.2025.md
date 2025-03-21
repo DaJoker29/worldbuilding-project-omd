@@ -47,4 +47,6 @@
 - Nipsey
 - Clitsey
 - Chanel
+- Cinnamon
+- Moxie
 - Brian
