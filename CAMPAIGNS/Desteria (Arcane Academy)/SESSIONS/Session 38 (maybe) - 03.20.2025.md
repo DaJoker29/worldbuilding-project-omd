@@ -2,8 +2,8 @@
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
 **Invisibility**: `[x]`
-**Hexblade's Curse**: `[x]`
-**Echo Blade**: `[x]`
+**Hexblade's Curse**: `[ ]`
+**Echo Blade**: `[ ]`
 **Hell Hound Cloak**: `[ ]`
 
 **Party**:
@@ -37,7 +37,14 @@
 - Poison (disguised as soap)
 
 **Requests for Room**
-- An gilded birdcage.
-- An armoire for Niccolo's growing wardrobe.
-- A stove for boiling water and making tea.
-- Two custom-sized mirrors to mount above and behind the bed.
+- An dented, iron birdcage (to symbolize his origins).
+- An armoire (for Niccolo's growing wardrobe).
+- A stove and kettle (for boiling bathwater and making tea).
+- Two custom-sized mirrors (to mount above and behind the bed).
+
+**Coworkers**
+- Trixie
+- Nipsey
+- Clitsey
+- Chanel
+- Brian
