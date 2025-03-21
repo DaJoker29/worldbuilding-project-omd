@@ -14,12 +14,19 @@
 
 **START HERE**: 
 
+> **Niccolo's Room at Monther's (Room 11)**
+> Incense smoke fills the room, lavender scent fills the air. A filled tub with a handful of multicolored flower petals. Purple sheer doublet hanging from a privacy screen. A simple easel and folding chair are propped in the corner.
+
 - Phantom Motomo-o returns Simp to Axis.
 - Hell Hound of Desteria (of Monther's) (of the Red Light)
 - Monther will take over management duties of the new brothel.
 - Niccolo has a client.
 	- Inscribe a safe word to alert Monther.
 	- Safe Word: marzipan
+
+*Short Rest*
+> *Put weapons away in the weapons room.*
+
 - There is an provocative, erotic performance.
 - Moto invites us all to talk. He has tracked down an individual (Mark) who is responsible for destroying his home world. He needs help working a lead in this district.
 	- Mark and Moto used to be friends/allies. He believes he can be redeemed. Mark was driven by the loss of his family.
@@ -27,13 +34,11 @@
 - Mark and Zadas left their planet along with the god with it. They took the book along with it.
 - Linneaus said Horus was his first real friend. He noticed a strange look upon Axis's face. **Utilize this to build tension between these two.**
 
-*Short Rest*
+**Long Rest**
 
-*Put weapons away in the weapons room.*
+- Someone connected to Marc is supposed to be meeting on the Capital Road in this districted. We should find them and get information about Mark.
 
-> **Niccolo's Room at Monther's (Room 11)**
-> Incense smoke fills the room, lavender scent fills the air. A filled tub with a handful of multicolored flower petals. Purple sheer doublet hanging from a privacy screen. A simple easel and folding chair are propped in the corner.
-
+~~~
 **Requests for Bo**
 - Soap
 - Perfume
@@ -54,3 +59,5 @@
 - Cinnamon
 - Moxie
 - Brian
+~~~
+
