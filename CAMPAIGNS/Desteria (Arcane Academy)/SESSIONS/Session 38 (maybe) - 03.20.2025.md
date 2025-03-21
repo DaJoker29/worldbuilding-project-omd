@@ -17,8 +17,15 @@
 - Phantom Motomo-o returns Simp to Axis.
 - Hell Hound of Desteria (of Monther's) (of the Red Light)
 - Monther will take over management duties of the new brothel.
+- Niccolo has a client.
+	- Inscribe a safe word to alert Monther.
 
 > **Niccolo's Room at Monther's (Room 11)**
 > Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. An empty birdcage (to symbolize his imprisonment).
 
 *Short Rest*
+
+- Acid (disguised as acid)
+- Soap
+- Perfume
+- Soap (Poison
