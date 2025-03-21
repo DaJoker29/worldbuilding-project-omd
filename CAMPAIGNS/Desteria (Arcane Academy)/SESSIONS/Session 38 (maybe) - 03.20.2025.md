@@ -30,4 +30,4 @@
 - Perfume
 - Poison (disguised as soap)
 
-Bartender, 
+*Put weapons away in the weapons room.*
