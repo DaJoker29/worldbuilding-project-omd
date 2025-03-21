@@ -25,7 +25,9 @@
 
 *Short Rest*
 
-- Acid (disguised as acid)
-- Soap
+- Acid (disguised as soap)
+- Regular Soap
 - Perfume
-- Soap (Poison
+- Poison (disguised as soap)
+
+Bartender, 
