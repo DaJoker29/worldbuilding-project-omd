@@ -14,5 +14,9 @@
 
 **START HERE**: 
 
-> **Niccolo's Room at Monther's**
-> Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. 
+- Phantom Motomo-o returns Simp to Axis.
+- Hell Hound of Desteria (of Monther's) (of the Red Light)
+- Monther will take over management duties of the new brothel.
+
+> **Niccolo's Room at Monther's (Room 11)**
+> Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. An empty birdcage (to symbolize his imprisonment).
