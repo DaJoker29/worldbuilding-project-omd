@@ -19,13 +19,16 @@
 - Monther will take over management duties of the new brothel.
 - Niccolo has a client.
 	- Inscribe a safe word to alert Monther.
+	- Safe Word: marzipan
+- There is an provocative, erotic performance.
+- 
 
 *Short Rest*
 
 *Put weapons away in the weapons room.*
 
 > **Niccolo's Room at Monther's (Room 11)**
-> Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. An empty birdcage (to symbolize his imprisonment).
+> Incense smoke fills the room, lavender scent fills the air. A filled tub with a handful of multicolored flower petals. Purple sheer doublet hanging from a privacy screen. A simple easel and folding chair are propped in the corner.
 
 **Requests for Bo**
 - Acid (disguised as soap)
@@ -35,3 +38,6 @@
 
 **Requests for Room**
 - An gilded birdcage.
+- An armoire for Niccolo's growing wardrobe.
+- A stove for boiling water and making tea.
+- Two custom-sized mirrors to mount above and behind the bed.
