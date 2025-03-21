@@ -23,6 +23,8 @@
 - There is an provocative, erotic performance.
 - Moto invites us all to talk. He has tracked down an individual (Mark) who is responsible for destroying his home world. He needs help working a lead in this district.
 	- Mark and Moto used to be friends/allies. He believes he can be redeemed. Mark was driven by the loss of his family.
+- Moto pulls out a fancy notebook which has a picture of the book Zadas pulled out of Horus.
+- Mark and Zadas left their planet along with the god with it. They took the book along with it.
 
 *Short Rest*
 
@@ -32,10 +34,10 @@
 > Incense smoke fills the room, lavender scent fills the air. A filled tub with a handful of multicolored flower petals. Purple sheer doublet hanging from a privacy screen. A simple easel and folding chair are propped in the corner.
 
 **Requests for Bo**
-- Acid (disguised as soap)
-- Regular Soap
+- Soap
 - Perfume
-- Poison (disguised as soap)
+- Acid (disguised as soap) - 25gp cost
+- Poison (disguised as perfume) - 100gp cost
 
 **Requests for Room**
 - An dented, iron birdcage (to symbolize his origins).
