@@ -21,7 +21,7 @@
 	- Inscribe a safe word to alert Monther.
 	- Safe Word: marzipan
 - There is an provocative, erotic performance.
-- 
+- Moto invites us all to talk. He has tracked down an individual (Mark) who is responsible for destroying his home world. He needs help working a lead in this district.
 
 *Short Rest*
 
