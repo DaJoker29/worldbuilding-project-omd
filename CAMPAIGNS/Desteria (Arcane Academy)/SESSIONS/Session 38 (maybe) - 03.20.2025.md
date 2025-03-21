@@ -20,3 +20,5 @@
 
 > **Niccolo's Room at Monther's (Room 11)**
 > Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. An empty birdcage (to symbolize his imprisonment).
+
+*Short Rest*
