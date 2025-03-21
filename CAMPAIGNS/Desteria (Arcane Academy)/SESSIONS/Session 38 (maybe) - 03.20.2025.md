@@ -22,6 +22,7 @@
 	- Safe Word: marzipan
 - There is an provocative, erotic performance.
 - Moto invites us all to talk. He has tracked down an individual (Mark) who is responsible for destroying his home world. He needs help working a lead in this district.
+	- Mark and Moto used to be friends/allies. He believes he can be redeemed. Mark was driven by the loss of his family.
 
 *Short Rest*
 
