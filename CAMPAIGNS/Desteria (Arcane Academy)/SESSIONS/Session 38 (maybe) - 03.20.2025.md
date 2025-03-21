@@ -20,14 +20,18 @@
 - Niccolo has a client.
 	- Inscribe a safe word to alert Monther.
 
+*Short Rest*
+
+*Put weapons away in the weapons room.*
+
 > **Niccolo's Room at Monther's (Room 11)**
 > Stale lavender scented incense smoke. Purple sheer doublet hanging from a privacy screen. Green and red chaise longue with a simple easel and chair in front of it. An empty birdcage (to symbolize his imprisonment).
 
-*Short Rest*
-
+**Requests for Bo**
 - Acid (disguised as soap)
 - Regular Soap
 - Perfume
 - Poison (disguised as soap)
 
-*Put weapons away in the weapons room.*
+**Requests for Room**
+- An gilded birdcage.
