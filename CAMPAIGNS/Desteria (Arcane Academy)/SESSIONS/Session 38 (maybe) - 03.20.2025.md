@@ -25,6 +25,7 @@
 	- Mark and Moto used to be friends/allies. He believes he can be redeemed. Mark was driven by the loss of his family.
 - Moto pulls out a fancy notebook which has a picture of the book Zadas pulled out of Horus.
 - Mark and Zadas left their planet along with the god with it. They took the book along with it.
+- Linneaus said Horus was his first real friend. He noticed a strange look upon Axis's face. **Utilize this to build tension between these two.**
 
 *Short Rest*
 
