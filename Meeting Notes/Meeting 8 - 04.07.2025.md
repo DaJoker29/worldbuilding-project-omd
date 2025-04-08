@@ -8,3 +8,6 @@ Compliment from Joe about "starting with the map"
 	- Noble advisor who scammed himself into leadership of the Remnant.
 - Druid Subclass of Chaos.
 - Cumlake & cumpool.
+- Coachella
+- All names of my characters will be anagrams of penis or penis-related words.
+- Aelius
