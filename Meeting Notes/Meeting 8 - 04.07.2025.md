@@ -7,3 +7,4 @@ Compliment from Joe about "starting with the map"
 - Gilded Remnant: Displaced royals looking to hold on to their privilege and decorum.
 	- Noble advisor who scammed himself into leadership of the Remnant.
 - Druid Subclass of Chaos
+- Cumlake & cumpool.
