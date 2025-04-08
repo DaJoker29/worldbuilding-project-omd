@@ -11,3 +11,5 @@ Compliment from Joe about "starting with the map"
 - Coachella
 - All names of my characters will be anagrams of penis or penis-related words.
 - Aelius
+
+![[Kala_Desert.jpg]]
