@@ -6,5 +6,5 @@ Compliment from Joe about "starting with the map"
 - Joe - Mountains are pulled from thousands of different mountain ranges.
 - Gilded Remnant: Displaced royals looking to hold on to their privilege and decorum.
 	- Noble advisor who scammed himself into leadership of the Remnant.
-- Druid Subclass of Chaos
+- Druid Subclass of Chaos.
 - Cumlake & cumpool.
