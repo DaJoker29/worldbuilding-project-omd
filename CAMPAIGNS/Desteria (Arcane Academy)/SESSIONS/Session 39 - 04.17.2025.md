@@ -16,3 +16,6 @@
 
 - Evening time. Next night.
 - Silva, the bartender.
+- We are the proprietors of **Monther's South**.
+
+"The Hell Hound of Red Candle"
