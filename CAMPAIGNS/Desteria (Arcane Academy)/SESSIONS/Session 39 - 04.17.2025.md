@@ -4,7 +4,7 @@
 **Invisibility**: `[ ]`
 **Hexblade's Curse**: `[ ]`
 **Echo Blade**: `[ ]`
-**Hell Hound Cloak**: `[ ]`
+**Hell Hound Cloak**: `[ 1 / 6 ]`
 
 **Gained Beast Speech**
 **Gained Gaze of Two Minds**
@@ -14,4 +14,5 @@
 
 **START HERE**
 
-- Evening time. Next night. We're going to meet up with 
+- Evening time. Next night.
+- Silva, the bartender.
