@@ -17,5 +17,7 @@
 - Evening time. Next night.
 - Silva, the bartender.
 - We are the proprietors of **Monther's South**.
+- Elena and Kendra
+	- Kendra used to keep the girl's safe when Chuck was being a shithead.
 
 "The Hell Hound of Red Candle"
