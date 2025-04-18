@@ -1,7 +1,7 @@
 **Bardic (d6)**: `[ ][ ][ ][ ][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
-**Invisibility**: `[ ]`
+**Invisibility**: `[x]`
 **Hexblade's Curse**: `[ ]`
 **Echo Blade**: `[ ]`
 **Hell Hound Cloak**: `[ 1 / 6 ]`
