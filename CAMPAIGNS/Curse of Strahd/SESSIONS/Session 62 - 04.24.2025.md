@@ -6,4 +6,4 @@
 *Mage Armor*
 
 **Start Here**
-- 
+- We finally cross the ice chamber of death.
