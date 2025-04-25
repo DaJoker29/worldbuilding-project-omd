@@ -31,8 +31,18 @@ Symbol on the Door — *Order of the Silver Dragon*
 **Spellcasting Changes**
 - New Cantrip — Spare the Dying (keep prepared)
 - New Spell: Cure Wounds (1/day, always prepared)
+- Cantrips Known: 4
 - Spell Prepared: 13
 - Always Prepared:
-	- Mage Hand
-	- Spare the Dying
-	- 
+	- Cantrips
+		- Mage Hand
+		- Spare the Dying
+	- Spells
+		- Detect Magic
+		- Cure Wounds
+		- Misty Step
+		- Silvery Barbs
+		- Shield
+- Prepared Spells
+	- Cantrips
+		- 
