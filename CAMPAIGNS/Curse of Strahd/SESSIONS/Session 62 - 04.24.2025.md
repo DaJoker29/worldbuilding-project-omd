@@ -30,7 +30,8 @@ Symbol on the Door — *Order of the Silver Dragon*
 
 **Spellcasting Changes**
 - New Cantrip — Spare the Dying (keep prepared)
-- New Spell: Cure Wounds (1/day, always prepared)
+- New Spell: Cure Wounds (1/day, always prepared), Tiny Servant, Hypnotic Pattern
+- New Tool Proficiency: 
 - Cantrips Known: 4
 - Spell Prepared: 13
 - Always Prepared:
@@ -43,6 +44,3 @@ Symbol on the Door — *Order of the Silver Dragon*
 		- Misty Step
 		- Silvery Barbs
 		- Shield
-- Prepared Spells
-	- Cantrips
-		- 

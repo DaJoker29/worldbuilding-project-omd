@@ -19,7 +19,7 @@ Class Skills: History, Medicine
 Feat: Telekinetic (+1 INT)
 Second Feat: Fey-Touched (+1 Int, Spell: Silvery Barbs)
 Third Feat (Level 4): Eldritch Adept (Eldritch Sight)
-Fourth Feat (Level 8): Cartomancer
+Fourth Feat (Level 8): Artificer Initiate (Spare the Dying, Cure Wounds, ??kit??)
 Equipment
 Dagger
 Component Pouch
