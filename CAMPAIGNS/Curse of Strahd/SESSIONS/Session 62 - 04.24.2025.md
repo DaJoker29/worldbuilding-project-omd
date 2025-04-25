@@ -20,3 +20,5 @@
 **Misty Step**: `[ ]`
 
 Symbol on the Door — *Order of the Silver Dragon*
+
+**LEVEL UP to 8**
