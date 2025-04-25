@@ -11,3 +11,4 @@
 	- 60' entrance
 	- Faceless statues
 	- 20' tall archway, leading down.
+- Nobu doesn't have blood.
