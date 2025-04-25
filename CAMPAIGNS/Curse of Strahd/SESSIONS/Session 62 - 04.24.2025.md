@@ -22,3 +22,7 @@
 Symbol on the Door — *Order of the Silver Dragon*
 
 **LEVEL UP to 8**
+**HP Increase**: 6 (+4)
+**Feat**: Artificer Initiate
+**Cantrip**: Spare the Dying
+**Spell**: 
