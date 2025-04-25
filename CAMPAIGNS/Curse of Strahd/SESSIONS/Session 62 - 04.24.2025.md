@@ -19,9 +19,12 @@
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 
-Symbol on the Door — *Order of the Silver Dragon*
-**NOTE**: Adi's necklace is pulling him northward—towards the other door.
+**NOTES FOR NEXT SESSION**
+- Symbol on the Door — *Order of the Silver Dragon*
+- Adi's necklace is pulling him northward—towards the other door.
+- Cast Tiny Servant on the skull in his bag. Have it chatter its teeth if it senses a creature around us.
 
+---
 **LEVEL UP to 8**
 **HP Increase**: 6 (+4)
 **Feat**: Artificer Initiate
