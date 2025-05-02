@@ -17,4 +17,4 @@
 Hellhound HP: 23/45
 
 - We return and we are fighting. Umbrella Academy Season 4 has dropped. It's only 6 episodes.
-- 
+- Double H of RC
