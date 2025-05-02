@@ -24,4 +24,3 @@
 "The Hell Hound of Red Candle"
 
 - Linneas: Mechanically spider legs. Nansi has been repurposed into a grappling hook.
-- 
