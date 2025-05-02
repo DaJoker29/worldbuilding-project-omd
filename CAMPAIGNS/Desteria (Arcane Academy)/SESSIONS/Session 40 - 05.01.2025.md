@@ -1,9 +1,9 @@
-**Bardic (d6)**: `[ ][ ][ ][ ][ ]`
+**Bardic (d6)**: `[x][x][ ][ ][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
 **Invisibility**: `[x]`
 **Hexblade's Curse**: `[ ]`
-**Echo Blade**: `[ ]`
+**Echo Blade**: `[x]`
 **Hell Hound Cloak**: `[ 1 / 6 ]`
 
 **Gained Beast Speech**
@@ -13,8 +13,6 @@
 **Gained Armor of Agathys**
 
 **START HERE**
-
-Hellhound HP: 23/45
 
 - We return and we are fighting. Umbrella Academy Season 4 has dropped. It's only 6 episodes.
 - Double H of RC
