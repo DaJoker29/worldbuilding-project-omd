@@ -17,5 +17,5 @@
 - We return and we are fighting. Umbrella Academy Season 4 has dropped. It's only 6 episodes.
 - Double H of RC
 - Mage chick dies after plane shifting.
-- Hooded guy still alive. Butt-naked, bound, gagged, and blindfolded.
 - Blade died and got set on fire.
+- Hooded guy still alive. Niccolo wants him butt-naked, bound, gagged, and blindfolded.
