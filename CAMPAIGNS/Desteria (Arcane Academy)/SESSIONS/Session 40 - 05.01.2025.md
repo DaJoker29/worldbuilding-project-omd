@@ -14,3 +14,5 @@
 
 **START HERE**
 
+- We return and we are fighting. Umbrella Academy Season 4 has dropped. It's only 6 episodes.
+- 
