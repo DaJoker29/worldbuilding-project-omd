@@ -1,7 +1,8 @@
-**Portent**: `[x][x]`
-**Hero Point**: `[x]`
-**Silvery Barbs**: `[x]`
-**Misty Step**: `[x]`
+**Portent**: `[2][5]`
+**Hero Point**: `[ ]`
+**Silvery Barbs**: `[ ]`
+**Misty Step**: `[ ]`
+**Cure Wounds**: `[ ]`
 
 *Mage Armor*
 
