@@ -27,3 +27,6 @@
 **Start Here**
 - Nobu gives us an inspiring speech (Motivation Speech). Nobu and Rin cast Aid on the whole party.
 - Meda, Corelus, Diana
+- Attacked by Flameskull
+- Giant statue of the Founder (Xhantharykk Quelzorladar)
+- 
