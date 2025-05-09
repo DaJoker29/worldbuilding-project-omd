@@ -15,6 +15,14 @@
 **Yorick** — Tiny Servant (skull)
 ![[Statblock - Yorick.png]]
 
+**Initiative**
+- Bonk
+- Adi
+- Veyllis
+- Friend
+- Rin
+- Delban
+
 **Start Here**
 - Nobu gives us an inspiring speech (Motivation Speech). Nobu and Rin cast Aid on the whole party.
 - Meda, Corelus, Diana
