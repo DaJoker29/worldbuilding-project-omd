@@ -29,7 +29,7 @@
 **HP Increase**: 6 (+4)
 **Feat**: Artificer Initiate
 **Cantrip**: Spare the Dying
-**Spell**: Cure Wounds
+**Spell (Artificer)**: Cure Wounds
 
 **Spellcasting Changes**
 - New Cantrip — Spare the Dying (keep prepared)
