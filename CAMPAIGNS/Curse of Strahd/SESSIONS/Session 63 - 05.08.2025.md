@@ -35,4 +35,5 @@
 **Cast Mage Armor**
 **Cast Cure Wounds**
 **Use Arcane Recovery (5 slots)**
-**Regain HP**
+**Regain 18 HP (Hit Dice)**
+**Regain 4 HP (Goodberry)**
