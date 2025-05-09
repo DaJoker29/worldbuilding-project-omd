@@ -4,7 +4,8 @@
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
 
-*Mage Armor*
+*Aid*
+*Motivational Speech*
 
 **Notes from Last Session**
 - Order of the Silver Dragon — *symbol on the door*
@@ -16,3 +17,4 @@
 
 **Start Here**
 - Nobu gives us an inspiring speech (Motivation Speech). Nobu and Rin cast Aid on the whole party.
+- Meda, Corelus, Diana
