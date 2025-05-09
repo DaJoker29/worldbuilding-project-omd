@@ -29,4 +29,10 @@
 - Meda, Corelus, Diana
 - Attacked by Flameskull
 - Giant statue of the Founder (Xhantharykk Quelzorladar)
-- 
+- Adi grabs a magical pitcher. Gets attacked by 7 specters.
+
+*Short Rest*
+**Cast Mage Armor**
+**Cast Cure Wounds**
+**Use Arcane Recovery (5 slots)**
+**Regain HP**
