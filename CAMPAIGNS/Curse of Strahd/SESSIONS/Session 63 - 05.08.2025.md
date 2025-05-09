@@ -37,3 +37,4 @@
 **Use Arcane Recovery (5 slots)**
 **Regain 18 HP (Hit Dice)**
 **Regain 4 HP (Goodberry)**
+**Regain 11 HP (Cure Wounds)**
