@@ -18,8 +18,9 @@
 **Initiative**
 - Bonk
 - Adi
-- Veyllis
 - Friend
+- Veyllis
+- Pidlwick
 - Rin
 - Delban
 
