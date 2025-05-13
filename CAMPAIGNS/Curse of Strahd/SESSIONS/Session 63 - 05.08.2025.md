@@ -38,3 +38,5 @@
 **Regain 18 HP (Hit Dice)**
 **Regain 4 HP (Goodberry)**
 **Regain 11 HP (Cure Wounds)**
+
+**Note**: This temple is for sealing really ancient evils. Things were starting to leak and no one has returned. Delban might have been one of the things sealed away. He might be trying to unleash something here.
