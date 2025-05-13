@@ -1,0 +1,3 @@
+- Nexus doesn't produce much. They are primarily shipping and services.
+- Aquanos tries to protect their society from outside cultures. They allow trade but keep outsiders are an arm's reach.
+- 
