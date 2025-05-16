@@ -4,7 +4,7 @@
 **Invisibility**: `[x]`
 **Hexblade's Curse**: `[ ]`
 **Echo Blade**: `[x]`
-**Hell Hound Cloak**: `[ 1 / 6 ]`
+**Hell Hound Cloak**: `[ 2 / 6 ]`
 
 **Gained Beast Speech**
 **Gained Gaze of Two Minds**
@@ -13,3 +13,6 @@
 **Gained Armor of Agathys**
 
 **START HERE**
+
+- "Tessa knows who Bonhart is! Tessa knows who Bonhart is." — Linneaus, over message.
+- 
