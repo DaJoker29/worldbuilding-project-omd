@@ -16,7 +16,7 @@
 **START HERE**
 
 - "Tessa knows who Bonhart is! Tessa knows who Bonhart is." — Linneaus, over message.
-- Tessa is looking for Bonhart!
+- Tessa is looking for Bonhart. Tessa knows Bonhart is going after Abraham.
 - We make it back to Monther's and rest.
 
 ***Long REST***
