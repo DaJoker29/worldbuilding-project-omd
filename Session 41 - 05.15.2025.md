@@ -32,3 +32,6 @@
 
 - Niccolo commands the captured rogue to confess his party's motivations and organization to one of the guards.
 - Piano Player at Monther's: Morrie.
+- Namon and USinlin might be a thing.
+- Horus's remains have been brought back to Desteria along with Arcadia.
+- 
