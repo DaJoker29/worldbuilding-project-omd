@@ -37,3 +37,4 @@
 - Tessa is from a different world. Seeking vengeance against a creature.
 - Bonhart moving on Abraham VerPlanck to prevent him from seeking vengeance against him. We have TWO WEEKS to find the floating island. It will be returning to where it came from. Some kind of tower on the opposite side of Desteria from here (District 3).
 - Tessa is seeking a "would-be king" from another world.
+- Ship flying over us.
