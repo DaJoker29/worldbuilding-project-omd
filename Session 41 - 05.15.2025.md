@@ -40,4 +40,4 @@
 - Ship flying over us. It's the Ferry Fairies looking to take back their fleet.
 
  **Niccolo's Dream**
- Niccolo is going to convince the world they he is Abraham VerPlanck's bastard son and then k. Abigail and Maria must believe that Niccolo is also Abraham's son. He needs to kill Abraham and Linneaus's brothers. Linneaus is an illegitimate son so he wouldn't be the rightful heir.
+ Niccolo is going to convince the world they he is Abraham VerPlanck's bastard son and then kill Abraham and Linneaus's two older brothers, inheriting their empire. Abigail and Maria must believe that Niccolo is also Abraham's son. Linneaus is an illegitimate son so he wouldn't be the rightful heir.
