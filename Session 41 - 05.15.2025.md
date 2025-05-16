@@ -11,8 +11,8 @@
 
 **Gained Witch Bolt**
 **Gained Armor of Agathys**
+**Swapped Enhance Ability with Suggestion**
 
 **START HERE**
 
 - "Tessa knows who Bonhart is! Tessa knows who Bonhart is." — Linneaus, over message.
-- 
