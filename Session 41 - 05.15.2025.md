@@ -17,6 +17,7 @@
 
 - "Tessa knows who Bonhart is! Tessa knows who Bonhart is." — Linneaus, over message.
 - Tessa is looking for Bonhart. Tessa knows Bonhart is going after Abraham.
+	- Linneaus Bo Heime
 - We make it back to Monther's and rest.
 
 ***Long REST***
@@ -28,4 +29,3 @@
 **Hexblade's Curse**: `[ ]`
 **Echo Blade**: `[ ]`
 **Hell Hound Cloak**: `[ 2 / 6 ]`
-
