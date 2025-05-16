@@ -31,3 +31,4 @@
 **Hell Hound Cloak**: `[ 2 / 6 ]`
 
 - Niccolo commands the captured rogue to confess his party's motivations and organization to one of the guards.
+- Piano Player at Monther's: Morrie.
