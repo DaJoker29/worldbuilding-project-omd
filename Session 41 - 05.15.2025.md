@@ -38,4 +38,6 @@
 - Bonhart moving on Abraham VerPlanck to prevent him from seeking vengeance against him. We have TWO WEEKS to find the floating island. It will be returning to where it came from. Some kind of tower on the opposite side of Desteria from here (District 3).
 - Tessa is seeking a "would-be king" from another world.
 - Ship flying over us. It's the Ferry Fairies looking to take back their fleet.
-	- Abigail and Maria must believe that Niccolo is also Abraham's son.
+
+ **Niccolo's Dream**
+ Niccolo is going to convince the world they he is Abraham VerPlanck's bastard son and then k. Abigail and Maria must believe that Niccolo is also Abraham's son. He needs to kill Abraham and Linneaus's brothers. Linneaus is an illegitimate son so he wouldn't be the rightful heir.
