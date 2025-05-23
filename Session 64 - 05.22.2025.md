@@ -32,3 +32,5 @@
 	- False bottom: large tome with thick leather binding, depiction of a wizened looking man with a gem in his forehead.
 - We head downstairs.
 - Rahadin standing in the hallway, looking at the statue.
+- Adi finds the Vampir. He refuses his offer for immortality.
+- Pidlwick opens another room. Giant frog thing appears and we fight it again.
