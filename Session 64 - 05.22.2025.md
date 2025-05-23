@@ -9,6 +9,7 @@
 *Mage Armor*
 
 **Initiative**
+
 - Bonk
 - Adi
 - Friend
@@ -16,5 +17,6 @@
 - Pidlwick
 - Rin
 - Delban
+- Meda, Corelus, Diana
 
 **Start Here**
