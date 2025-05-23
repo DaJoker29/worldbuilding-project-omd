@@ -20,3 +20,6 @@
 - Adi
 
 **Start Here**
+
+- They head back into the hallway. 
+- Divination
