@@ -30,4 +30,5 @@
 - We find a secret doorway.
 - Other room:
 	- False bottom: large tome with thick leather binding, depiction of a wizened looking man with a gem in his forehead.
-- We hge
+- We head downstairs.
+- Rahadin standing in the hallway, looking at the statue.
