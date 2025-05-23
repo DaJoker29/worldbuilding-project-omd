@@ -28,3 +28,5 @@
 	- Friend's potions — fire related, other smells like fresh lime.
 	- Bonk grabs 5, Rin grabs 10 random potions.
 - We find a secret doorway.
+- Other room:
+	- False bottom: large tome with thick leather binding, depiction of a wizened looking man with a gem in his forehead.
