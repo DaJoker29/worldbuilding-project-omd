@@ -34,3 +34,5 @@
 - Rahadin standing in the hallway, looking at the statue.
 - Adi finds the Vampir. He refuses his offer for immortality.
 - Pidlwick opens another room. Giant frog thing appears and we fight it again.
+
+**How great would thiis group be if we built trust and worked as a team?**
