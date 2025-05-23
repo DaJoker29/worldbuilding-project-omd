@@ -10,13 +10,13 @@
 
 **Initiative**
 
-- Bonk
-- Adi
-- Friend
-- Veyllis
 - Pidlwick
+- Veyllis
+- Bonk
+- Friend
 - Rin
 - Delban
 - Meda, Corelus, Diana
+- Adi
 
 **Start Here**
