@@ -27,3 +27,4 @@
 	- Adi grabs one with a divination magic.
 	- Friend's potions — fire related, other smells like fresh lime.
 	- Bonk grabs 5, Rin grabs 10 random potions.
+- We find a secret doorway.
