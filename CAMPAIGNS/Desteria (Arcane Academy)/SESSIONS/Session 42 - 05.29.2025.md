@@ -10,7 +10,7 @@
 
 - Attacked by the Ferry Fairies.
 - Linneaus turns and shoots the fairies. Niccolo taunts him and dives off to capture the pirate's ship.
-- Niccolo declares himself "Niccolo VerPlanck, bastard son of Abraham VerPlanck" and called 
+- Niccolo declares himself "Niccolo VerPlanck, bastard son of Abraham VerPlanck" and called Linneaus his "inept little brother".
 - We take down the fairies (viciously) and then the captain—Pickles—emerges from below decks.
 - Wrathful Smite — Suggestion breaks when he says that.
 
