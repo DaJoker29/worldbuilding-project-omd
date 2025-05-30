@@ -1,4 +1,4 @@
-**Bardic (d6)**: `[x][ ][ ][ ][ ]`
+**Bardic (d6)**: `[x][x][ ][ ][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
 **Invisibility**: `[ ]`
