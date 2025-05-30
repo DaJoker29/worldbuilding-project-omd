@@ -1,4 +1,4 @@
-**Bardic (d6)**: `[ ][ ][ ][ ][ ]`
+**Bardic (d6)**: `[x][ ][ ][ ][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
 **Invisibility**: `[ ]`
@@ -9,4 +9,4 @@
 **START HERE**
 
 - Attacked by the Ferry Fairies.
-- Linneaus turns and shoots the fairies.
+- Linneaus turns and shoots the fairies. Niccolo taunts him and dives off to capture the pirate's ship.
