@@ -36,3 +36,5 @@
 - Pidlwick opens another room. Giant frog thing appears and we fight it again.
 
 **How great would thiis group be if we built trust and worked as a team?**
+
+**Next Session**: Ask everyone when the last time they shit themselves.
