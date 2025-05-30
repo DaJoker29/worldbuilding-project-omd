@@ -7,3 +7,6 @@
 **Hell Hound Cloak**: `[ 2 / 6 ]`
 
 **START HERE**
+
+- Attacked by the Ferry Fairies.
+- 
