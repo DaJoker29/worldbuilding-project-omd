@@ -20,3 +20,5 @@
 - Adi
 
 **Start Here**
+
+- Veyllis casts Bless on Friend, Bonk, and Adi.
