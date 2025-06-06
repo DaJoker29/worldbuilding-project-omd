@@ -1,4 +1,4 @@
-**Portent**: `[2][5]`
+**Portent**: `[x][5]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
@@ -23,3 +23,4 @@
 **Start Here**
 
 - Veyllis casts Bless on Friend, Bonk, and Adi.
+- Adi dives into Delban's mind around the ritual.
