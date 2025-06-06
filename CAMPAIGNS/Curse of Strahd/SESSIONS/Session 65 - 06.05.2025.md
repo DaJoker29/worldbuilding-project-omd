@@ -7,6 +7,7 @@
 *Aid*
 *Motivational Speech*
 *Mage Armor*
+*Bless*
 
 **Initiative**
 
