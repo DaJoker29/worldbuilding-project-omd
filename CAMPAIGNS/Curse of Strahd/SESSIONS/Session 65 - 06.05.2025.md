@@ -10,7 +10,6 @@
 *Bless*
 
 **Initiative**
-
 - Meda, Corelus, Diana
 - Pidlwick
 - Veyllis
@@ -21,7 +20,6 @@
 - Adi
 
 **Start Here**
-
 - Veyllis casts Bless on Friend, Bonk, and Adi.
 - Adi dives into Delban's mind around the ritual.
 
