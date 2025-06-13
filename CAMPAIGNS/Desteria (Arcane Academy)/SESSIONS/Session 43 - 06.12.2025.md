@@ -20,3 +20,5 @@
 - Fraying the lines with his dagger
 - Removing the seal on gunpowder barrels
 - Stealing small belongings from the crew and placing them in other people's bags.
+
+**Note**: Linneaus has way better sleight of hand.
