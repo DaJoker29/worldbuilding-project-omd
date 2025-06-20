@@ -25,4 +25,7 @@
 - Adi's face scratched up by Bonk.
 - Single 4th level slot.
 - Portent 5 used.
-- 
+- Delban casts Cone of Cold on Adi but he counterspells it.
+- The ritual succeeds. Delban escapes but Virion is brought back with no soul.
+- Rin sacrifices his soul to his god, Myrkul, bring back Virion's soul.
+- Virion breaks down, doesn't want this. Rin can't be brought back.
