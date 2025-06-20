@@ -29,3 +29,5 @@
 - The ritual succeeds. Delban escapes but Virion is brought back with no soul.
 - Rin sacrifices his soul to his god, Myrkul, bring back Virion's soul.
 - Virion breaks down, doesn't want this. Rin can't be brought back.
+- Virion had to watch all that happened while 
+- What happened to diamonds and pearls?
