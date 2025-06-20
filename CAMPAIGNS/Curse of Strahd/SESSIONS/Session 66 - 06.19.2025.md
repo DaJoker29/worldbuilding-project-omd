@@ -1,4 +1,4 @@
-**Portent**: `[x][5]`
+**Portent**: `[x][x]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
