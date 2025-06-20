@@ -31,3 +31,10 @@
 - Virion breaks down, doesn't want this. Rin can't be brought back.
 - Virion had to watch all that happened while 
 - What happened to diamonds and pearls?
+
+**Adi scratched up by Bonk**
+**What happened to diamonds and pearls?**
+**Wants Rin's body for something special? Special Revenant statblock or something. Maybe change to Necromancer subclass.**
+
+**No Joe next time.**
+**Next Session**: July 17th, 2025
