@@ -20,3 +20,6 @@
 - Adi
 
 **Start Here**
+- Skill challenge / 10 rounds / Same skill can't be rolled more than twice
+- Stone and wand being floating around.
+- 
