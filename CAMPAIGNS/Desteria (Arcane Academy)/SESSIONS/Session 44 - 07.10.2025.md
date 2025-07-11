@@ -7,3 +7,4 @@
 **Hell Hound Cloak**: `[ 2 / 6 ]`
 
 **START HERE**
+- The Fairy's Wing — Name of the ship.
