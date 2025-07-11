@@ -1,9 +1,9 @@
 **Bardic (d6)**: `[x][x][x][x][ ]`
 **Terror**: `[ ]`
 **Disguise**: `[ ]`
-**Invisibility**: `[ ]`
+**Invisibility**: `[x]`
 **Hexblade's Curse**: `[ ]`
-**Echo Blade**: `[ ]`
+**Echo Blade**: `[x]`
 **Hell Hound Cloak**: `[ 2 / 6 ]`
 
 **START HERE**
