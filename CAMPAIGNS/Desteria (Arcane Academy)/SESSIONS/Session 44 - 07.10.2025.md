@@ -8,3 +8,4 @@
 
 **START HERE**
 - The Fairy's Wing — Name of the ship.
+	- Neera and Farra are the fairies. One is abdicating her role as captain.
