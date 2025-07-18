@@ -37,3 +37,4 @@
 - Adi uses the spider corpses to rebuild the corpses and reanimates them into zombies. (Coreolanis / Metta)
 - Nobu ritual casts waterwalk so we can walk on snow.
 - As we leave, we take a shortcut. We see a short goblin member.
+	- Testacles, Son of Boffadees — A mine goblin
