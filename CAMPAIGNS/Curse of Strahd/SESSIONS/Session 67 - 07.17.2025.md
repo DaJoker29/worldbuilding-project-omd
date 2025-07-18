@@ -3,6 +3,7 @@
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
+**Scarf (Shield)**: `[ ]`
 
 *Aid*
 *Motivational Speech*
@@ -30,3 +31,4 @@
 ***Long Rest***
 - Delban, a great evil, has been released. Virion is concerned about how powerful.
 - Virion and Adi are going to think about the Delban problem in the background while the others 
+- Step outside and Diana has been turned into a giant spider.
