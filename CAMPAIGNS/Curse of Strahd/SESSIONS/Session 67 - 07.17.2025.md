@@ -21,3 +21,4 @@
 
 **Start Here** (Craig starts recording)
 - Pigeon is a new insult.
+- Adi grabs Rin's skull necklace and colorshifting shirt.
