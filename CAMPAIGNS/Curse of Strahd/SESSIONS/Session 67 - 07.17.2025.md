@@ -28,4 +28,5 @@
 - Sounds of many small feet throughout the night.
 
 ***Long Rest***
-- Delban has been released. 
+- Delban, a great evil, has been released. Virion is concerned about how powerful.
+- Virion and Adi are going to think about the Delban problem in the background while the others 
