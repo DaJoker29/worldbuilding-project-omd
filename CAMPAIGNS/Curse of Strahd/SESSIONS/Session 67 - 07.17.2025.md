@@ -19,4 +19,5 @@
 - Rin
 - Adi
 
-**Start Here**
+**Start Here** (Craig starts recording)
+- Pigeon is a new insult.
