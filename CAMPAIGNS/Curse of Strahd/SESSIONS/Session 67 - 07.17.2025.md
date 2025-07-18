@@ -1,9 +1,9 @@
 **Portent**: `[3][11]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
-**Misty Step**: `[ ]`
+**Misty Step**: `[x]`
 **Cure Wounds**: `[ ]`
-**Scarf (Shield)**: `[ ]`
+**Scarf (Shield)**: `[x]`
 
 *Aid*
 *Motivational Speech*
