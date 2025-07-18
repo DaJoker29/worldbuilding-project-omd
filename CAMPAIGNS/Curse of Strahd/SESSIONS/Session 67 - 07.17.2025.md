@@ -34,3 +34,6 @@
 - Step outside and Diana has been turned into a giant spider. Meta and Coreolus appear dead and covered in webs.
 	- Spiders pop out of the body.
 - Virion still seems afraid of fire.
+- Adi uses the spider corpses to rebuild the corpses and reanimates them into zombies. (Coreolanis / Metta)
+- Nobu ritual casts waterwalk so we can walk on snow.
+- As we leave, we take a shortcut. We see a short goblin member.
