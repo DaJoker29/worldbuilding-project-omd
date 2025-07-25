@@ -21,3 +21,6 @@
 **Hexblade's Curse**: `[ ]`
 **Echo Blade**: `[ ]`
 **Hell Hound Cloak**: `[ 2 / 6 ]`
+
+- We arrive at the Verplanck Estate.
+- Hilda has been building a giant hole.
