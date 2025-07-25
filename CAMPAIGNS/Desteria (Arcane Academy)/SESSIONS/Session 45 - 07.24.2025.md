@@ -27,3 +27,5 @@
 - Christophel, Jacomentie, Gerardius, Abigail, Linneaus
 
 **Level up**
+- Rolled 8 + 11 (New HP total 62)
+- Thinking Warlock and gaine
