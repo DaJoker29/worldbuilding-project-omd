@@ -36,4 +36,4 @@
 - Bard
 	- Cantrip: Message
 	- Spell: Silence
-	- Feat/ASI: 
+	- Feat/ASI: Eldritch Adept
