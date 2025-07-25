@@ -6,7 +6,8 @@
 **Echo Blade**: `[x]`
 **Hell Hound Cloak**: `[ 2 / 6 ]`
 
+**Goals**:
+- Be seen publicly as "Niccolo VerPlanck, the bastard son of Abraham VerPlanck"
+
 **START HERE**
-- The Fairy's Wing — Name of the ship.
-	- Neera and Farra are the fairies. One is abdicating her role as captain.
-- We fight a marid (water genie). 
+- 
