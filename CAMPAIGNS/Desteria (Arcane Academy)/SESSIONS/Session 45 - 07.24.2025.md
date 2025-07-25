@@ -28,4 +28,12 @@
 
 **Level up**
 - Rolled 8 + 11 (New HP total 62)
-- Thinking Warlock and gaine
+- Warlock
+	- Spell: Spider Climb
+	- Pact Boon: Talisman
+- Rogue
+	- Cunning Action
+- Bard
+	- Cantrip: Message
+	- Spell: Silence
+	- Feat/ASI: 
