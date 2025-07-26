@@ -11,6 +11,7 @@
 
 **START HERE**
 - The Nelson Mandela Effect
+- Bjorn joined us.
 
 *Long Rest*
 
@@ -36,4 +37,6 @@
 - Bard
 	- Cantrip: Message
 	- Spell: Silence
-	- Feat/ASI: Eldritch Adept
+	- Replaced Cantrip:
+	- Replaced Expertise: 
+	- Feat/ASI: Eldritch Adept - Mask of Many Faces
