@@ -1,6 +1,6 @@
 **Portent**: `[17][18]`
 **Hero Point**: `[ ]`
-**Silvery Barbs**: `[ ]`
+**Silvery Barbs**: `[x]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[ ]`
