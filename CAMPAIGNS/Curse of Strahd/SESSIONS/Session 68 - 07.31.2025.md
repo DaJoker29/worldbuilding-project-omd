@@ -3,7 +3,7 @@
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
-**Scarf (Shield)**: `[x]`
+**Scarf (Shield)**: `[ ]`
 
 *Coriolanius and Metta with spider heads (two zombies)*
 
@@ -13,6 +13,7 @@
 - Mount Gaykiss.
 - Adi promises Bonk won't die.
 - Veyllis cast Remove curse on Adi, Friend, and Bonk
+- The party appoints Adi their leader.
 - We sleep after a day of travel.
 	- Bird, rotted and decayed away. Brings a parchment.
 	- Come play with me instead.
@@ -20,3 +21,4 @@
 
 ***Long Rest***
 - Veyllis needs to careful when casting Turn Undead.
+- 
