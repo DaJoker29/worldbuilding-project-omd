@@ -5,7 +5,9 @@
 **Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[x]`
 
+*Coriolanius and Metta (two zombies)*
+
 **Initiative**
 
 **Start Here**
-- 
+- Mount Gaykiss. 
