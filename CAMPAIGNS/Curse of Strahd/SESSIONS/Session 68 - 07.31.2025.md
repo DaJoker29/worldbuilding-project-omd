@@ -21,4 +21,3 @@
 
 ***Long Rest***
 - Veyllis needs to careful when casting Turn Undead.
-- 
