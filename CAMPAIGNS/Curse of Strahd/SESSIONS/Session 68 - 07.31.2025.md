@@ -1,7 +1,7 @@
-**Portent**: `[3][11]`
+**Portent**: `[17][18]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
-**Misty Step**: `[x]`
+**Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[x]`
 
@@ -11,8 +11,12 @@
 
 **Start Here**
 - Mount Gaykiss.
-- Veyllis cast Remove curse on Adi
+- Adi promises Bonk won't die.
+- Veyllis cast Remove curse on Adi, Friend, and Bonk
 - We sleep after a day of travel.
 	- Bird, rotted and decayed away. Brings a parchment.
 	- Come play with me instead.
 	- "Naughty, naughty. Have you checked in with Irina lately?"
+
+***Long Rest***
+- Veyllis needs to careful when casting Turn Undead.
