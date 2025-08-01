@@ -10,7 +10,8 @@
 **Initiative**
 
 **Start Here**
-- Mount Gaykiss. 
+- Mount Gaykiss.
+- Veyllis cast Remove curse on Adi
 - We sleep after a day of travel.
 	- Bird, rotted and decayed away. Brings a parchment.
 	- Come play with me instead.
