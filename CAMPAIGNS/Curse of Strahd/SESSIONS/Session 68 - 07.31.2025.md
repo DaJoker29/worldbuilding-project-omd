@@ -5,7 +5,7 @@
 **Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[x]`
 
-*Coriolanius and Metta (two zombies)*
+*Coriolanius and Metta with spider heads (two zombies)*
 
 **Initiative**
 
