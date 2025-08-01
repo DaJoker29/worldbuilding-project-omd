@@ -6,6 +6,7 @@
 **Scarf (Shield)**: `[ ]`
 
 *Coriolanius and Metta with spider heads (two zombies)*
+*Bless from Veyllis*
 
 **Initiative**
 
@@ -21,3 +22,4 @@
 
 ***Long Rest***
 - Veyllis needs to careful when casting Turn Undead.
+- Adi says whoever cuts off the head of the witch lady gets to name the zombies.
