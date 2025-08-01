@@ -23,3 +23,4 @@
 ***Long Rest***
 - Veyllis needs to careful when casting Turn Undead.
 - Adi says whoever cuts off the head of the witch lady gets to name the zombies.
+- A giant roc targets Friend. We fight it off from the Bridge. Adi disguises himself as Friend.
