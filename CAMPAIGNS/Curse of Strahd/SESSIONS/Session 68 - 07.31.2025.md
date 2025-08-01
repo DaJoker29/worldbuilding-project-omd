@@ -11,3 +11,7 @@
 
 **Start Here**
 - Mount Gaykiss. 
+- We sleep after a day of travel.
+	- Bird, rotted and decayed away. Brings a parchment.
+	- Come play with me instead.
+	- "Naughty, naughty. Have you checked in with Irina lately?"
