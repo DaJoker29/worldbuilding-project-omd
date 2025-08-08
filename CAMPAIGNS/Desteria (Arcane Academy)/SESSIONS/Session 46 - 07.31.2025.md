@@ -10,6 +10,11 @@
 - Be seen publicly as "Niccolo VerPlanck, the bastard son of Abraham VerPlanck"
 
 **Last Session**
-- Leveled up 
+- Leveled up (Bard)
+	- Cantrip: Message
+	- Spell: Silence
+	- Replaced Cantrip: N/A
+	- Replaced Expertise: Investigation -> Sleight of Hand
+	- Feat/ASI: Eldritch Adept - Mask of Many Faces
 
 **START HERE**
