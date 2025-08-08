@@ -1,10 +1,12 @@
-**Bardic (d6)**: `[ ][ ][ ][ ][ ]`
+**Bardic (d8)**: `[ ][ ][ ][ ][ ]`
+**Echo Blade**: `[ ]`
 **Terror**: `[ ]`
-**Disguise**: `[ ]`
 **Invisibility**: `[ ]`
 **Hexblade's Curse**: `[ ]`
-**Echo Blade**: `[ ]`
 **Hell Hound Cloak**: `[ 2 / 6 ]`
+**Disguise**: `At will`
+**Speak with Animals**: `At will`
+**Gaze of Two Minds**: `At will`
 
 **Goals**:
 - Be seen publicly as "Niccolo VerPlanck, the bastard son of Abraham VerPlanck"
