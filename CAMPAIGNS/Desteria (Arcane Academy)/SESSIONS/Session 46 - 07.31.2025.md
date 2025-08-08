@@ -18,3 +18,16 @@
 	- Feat/ASI: Eldritch Adept - Mask of Many Faces
 
 **START HERE**
+- A big crate appears at the door.
+- Brad must only speak to his patron as raps. And we all level up.
+
+**Level Up**
+- HP:
+- Warlock Choice:
+	- Pact Boon: Blade
+		- Echo Blade can be summoned in and out of existance.
+	- Spell: Spider Climb
+- Rogue
+	- Cunning Action
+- Bard
+	- Bardic die increased to d8
