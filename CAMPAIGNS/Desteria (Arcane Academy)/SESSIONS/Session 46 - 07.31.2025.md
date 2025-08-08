@@ -23,6 +23,8 @@
 - A big crate appears at the door.
 - Brad must only speak to his patron as raps. And we all level up.
 - Level up (Bard)
+- We open the crate and mirror with cryptic threat to Linneaus's mom. Niccolo shatters the mirror.
+- Mirror creature appears and mirrors Linneaus.
 
 **Level Up**
 - HP:
@@ -38,3 +40,4 @@
 	- 2 3rd level spell slots gained
 	- Cantrip Gained: Mending
 	- Spell Gained: Speak with Dead
+	- Replaced Spell: Healing Word -> Sending
