@@ -31,3 +31,7 @@
 	- Cunning Action
 - Bard
 	- Bardic die increased to d8
+	- Bardics restored on short or long rest
+	- 2 3rd level spell slots gained
+	- Cantrip Gained: Mending
+	- Spell Gained: Speak with Dead
