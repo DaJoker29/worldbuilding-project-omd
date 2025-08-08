@@ -25,6 +25,7 @@
 - Level up (Bard)
 - We open the crate and mirror with cryptic threat to Linneaus's mom. Niccolo shatters the mirror.
 - Mirror creature appears and mirrors Linneaus.
+- Mirrorling duplicates Niccolo's face and the Echo Blade.
 
 **Level Up**
 - HP:
