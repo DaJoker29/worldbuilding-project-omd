@@ -37,6 +37,6 @@
 - Bard
 	- Cantrip: Message
 	- Spell: Silence
-	- Replaced Cantrip:
+	- Replaced Cantrip: Minor Illusion -> Mending
 	- Replaced Expertise: 
 	- Feat/ASI: Eldritch Adept - Mask of Many Faces
