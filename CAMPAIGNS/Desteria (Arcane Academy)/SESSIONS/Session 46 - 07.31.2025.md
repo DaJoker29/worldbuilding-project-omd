@@ -20,6 +20,7 @@
 **START HERE**
 - A big crate appears at the door.
 - Brad must only speak to his patron as raps. And we all level up.
+- Level up (Bard)
 
 **Level Up**
 - HP:
