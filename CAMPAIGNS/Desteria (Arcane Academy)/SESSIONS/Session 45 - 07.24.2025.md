@@ -25,7 +25,9 @@
 
 - We arrive at the Verplanck Estate.
 - Hilda has been building a giant hole.
-- Christophel, Jacomentie, Gerardius, Abigail, Linneaus
+- Christophel, Jacomentie, Gerarddust, Abigail, Linneaus
+- Maria De La Vigne (Linneaus's mom)
+
 
 **Level up**
 - Rolled 8 + 11 (New HP total 62)
