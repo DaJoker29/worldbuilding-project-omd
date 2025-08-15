@@ -14,3 +14,8 @@
 - Virion flies Adi and Friend.
 - Zombies roll down. Only enough survive to build one more. They have legs instead of arms.
 - Giant frozen bird bobsled.
+- Adi and Testikleez sail ahead on frozen roc sled.
+- Friend and Pidlwick stay behind.
+
+***Long Rest***
+
