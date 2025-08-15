@@ -6,7 +6,7 @@
 **Scarf (Shield)**: `[ ]`
 
 *Coriolanius and Metta with spider heads (two zombies)*
-*Bless from Veyllis*
+*Aid from Veyllis*
 
 **Initiative**
 
@@ -21,4 +21,6 @@
 
 - Adi and Veyllis push Testicleez out of the dome after he refuses to go find Friend. Virion goes to find Friend. Testicleez continues up the river.
 - Friend and Virion meet a strange mushroom guy. He's chill.
-- We gather up 
+- We gather up and go to Strahd's Mom
+- Nobu casts Aid and Locate Creature
+- Adi spots a patch of abjuration magic.
