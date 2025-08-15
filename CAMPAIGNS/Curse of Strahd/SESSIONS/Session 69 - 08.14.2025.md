@@ -25,4 +25,4 @@
 - We gather up and go to Strahd's Mom
 - Nobu casts Aid and Locate Creature
 - Adi spots a patch of abjuration magic.
-- Friend's truesight lets him see t
+- Friend's truesight lets him see through the illusions.
