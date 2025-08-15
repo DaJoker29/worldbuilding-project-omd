@@ -1,6 +1,6 @@
-**Portent**: `[17][18]`
+**Portent**: `[15][4]`
 **Hero Point**: `[ ]`
-**Silvery Barbs**: `[x]`
+**Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[ ]`
@@ -19,3 +19,6 @@
 
 ***Long Rest***
 
+- Adi and Veyllis push Testicleez out of the dome after he refuses to go find Friend. Virion goes to find Friend
+
+- Friend and Virion meet a strange mushroom guy. He's chill.
