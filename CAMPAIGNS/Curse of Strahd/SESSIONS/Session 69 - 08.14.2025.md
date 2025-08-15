@@ -19,6 +19,5 @@
 
 ***Long Rest***
 
-- Adi and Veyllis push Testicleez out of the dome after he refuses to go find Friend. Virion goes to find Friend
-
+- Adi and Veyllis push Testicleez out of the dome after he refuses to go find Friend. Virion goes to find Friend. Testicleez continues up the river.
 - Friend and Virion meet a strange mushroom guy. He's chill.
