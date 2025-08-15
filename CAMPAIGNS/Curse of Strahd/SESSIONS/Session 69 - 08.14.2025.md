@@ -6,7 +6,8 @@
 **Scarf (Shield)**: `[ ]`
 
 *Coriolanius and Metta with spider heads (two zombies)*
-*Aid from Veyllis*
+*Aid from Veyllis* — Increased Max HP
+*Motivational Speech* — Temp HP & Advantage on Wisdom Saves
 
 **Initiative**
 
@@ -24,3 +25,4 @@
 - We gather up and go to Strahd's Mom
 - Nobu casts Aid and Locate Creature
 - Adi spots a patch of abjuration magic.
+- Friend's tru
