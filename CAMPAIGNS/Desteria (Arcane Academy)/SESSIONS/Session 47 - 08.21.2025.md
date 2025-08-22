@@ -20,3 +20,6 @@
 
 **START HERE**
 - JA gives a weird monologue. Sounds like something Japanese.
+
+
+**Note for Future**: Niccolo will put glass in people's lungs to torture them.
