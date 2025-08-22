@@ -21,5 +21,8 @@
 **START HERE**
 - JA gives a weird monologue. Sounds like something Japanese.
 
+From the desk of Linneaus Verplank, information about Bonhart, information to attack floating island held by my father contact soon for more details.
 
-**Note for Future**: Niccolo will put glass in people's lungs to torture them.
+Why does it sound like you are writing this? I've never heard this spell this way. Your father has an island too? Where and when? I?
+
+**Note for Future**: Niccolo will put glass in people's lungs to torture them. Also, he will hide the fact that he has Sending spell. He plans to kill Abraham and Linneaus, the two figures who can dispute his claim.
