@@ -17,4 +17,5 @@
 - Hag witch bitch materializes and the illusionary facade drops. We stand in a swamp, baby. The people are scarecrows.
 
 **Roll Initiative**
-- 
+- The swamp is filled with fog. Heavily obscured.
+- Locate Object
