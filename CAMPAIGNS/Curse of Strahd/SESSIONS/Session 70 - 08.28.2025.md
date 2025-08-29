@@ -1,4 +1,4 @@
-**Portent**: `[15][4]`
+**Portent**: `[15][x]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
@@ -22,3 +22,6 @@
 - She turns Virion fugly.
 - She is hidden from divination.
 - Nobu Turns Undead but the scarecrows are constructs.
+- She summons bone wall and her house baby wakes up
+- Virion tries to bind her. Legendary Resistance used.
+- Friend sends another fireball. Adi counterspells her counterspell. Fries most of the goats and scarecrows.
