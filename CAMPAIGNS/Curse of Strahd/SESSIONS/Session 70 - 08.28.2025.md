@@ -30,3 +30,5 @@
 - Veyllis goes down but comes back up and heals a lot of folks.
 - Virion gets sent to another plane of existence.
 - The house dies and screams. A giant dragon skull appears and flies her around.
+- Friends knocks her out of her skull. She casts a tornado to kick Adi and Bonk out. Veyllis yanks her out again.
+- Acid arrows knocks out Adi. She got angry at his counterspells.
