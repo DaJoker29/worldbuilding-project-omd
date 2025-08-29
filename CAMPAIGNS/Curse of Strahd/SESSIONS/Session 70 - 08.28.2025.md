@@ -34,3 +34,4 @@
 - Acid arrows knocks out Adi. She got angry at his counterspells.
 - Adi rolls a nat 20 and returns, immediately counterspelling a lightning spell.
 - She summons hentai tentacles. She's looking bad.
+- Ended at the end of Round 7.
