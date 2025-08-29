@@ -1,8 +1,8 @@
 **Portent**: `[x][x]`
-**Hero Point**: `[ ]`
-**Silvery Barbs**: `[ ]`
+**Hero Point**: `[x]`
+**Silvery Barbs**: `[x]`
 **Misty Step**: `[ ]`
-**Cure Wounds**: `[ ]`
+**Cure Wounds**: `[x]`
 **Scarf (Shield)**: `[ ]`
 
 *Coriolanius and Metta with spider heads (two zombies)*
@@ -27,3 +27,4 @@
 - Friend sends another fireball. Adi counterspells her counterspell. Fries most of the goats and scarecrows.
 - Wall of Fire. Dope as fuck.
 - She lands Prismatic Spray. It fucking sucks.
+- Virion gets sent to another plane of existance.
