@@ -15,4 +15,6 @@
 - Kyle has retired from his role as notetaker. I take over the role.
 
 - Hag witch bitch materializes and the illusionary facade drops. We stand in a swamp, baby. The people are scarecrows.
+
+**Roll Initiative**
 - 
