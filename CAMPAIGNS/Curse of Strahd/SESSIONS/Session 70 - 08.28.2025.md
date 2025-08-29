@@ -25,5 +25,5 @@
 - She summons bone wall and her house baby wakes up
 - Virion tries to bind her. Legendary Resistance used.
 - Friend sends another fireball. Adi counterspells her counterspell. Fries most of the goats and scarecrows.
-- Wall of Fire
-- Prismatic Spray
+- Wall of Fire. Dope as fuck.
+- She lands Prismatic Spray. It fucking sucks.
