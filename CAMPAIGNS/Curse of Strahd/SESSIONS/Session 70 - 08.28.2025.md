@@ -33,3 +33,4 @@
 - Friends knocks her out of her skull. She casts a tornado to kick Adi and Bonk out. Veyllis yanks her out again.
 - Acid arrows knocks out Adi. She got angry at his counterspells.
 - Adi rolls a nat 20 and returns, immediately counterspelling a lightning spell.
+- She summons hentai tentacles. She's looking bad.
