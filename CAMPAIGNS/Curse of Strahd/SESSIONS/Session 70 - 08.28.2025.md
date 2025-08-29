@@ -27,4 +27,6 @@
 - Friend sends another fireball. Adi counterspells her counterspell. Fries most of the goats and scarecrows.
 - Wall of Fire. Dope as fuck.
 - She lands Prismatic Spray. It fucking sucks.
-- Virion gets sent to another plane of existance.
+- Veyllis goes down but comes back up and heals a lot of folks.
+- Virion gets sent to another plane of existence.
+- The house dies and screams. A giant dragon skull appears and flies her around.
