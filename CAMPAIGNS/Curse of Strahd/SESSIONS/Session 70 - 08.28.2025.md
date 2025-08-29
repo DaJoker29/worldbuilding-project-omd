@@ -18,4 +18,7 @@
 
 **Roll Initiative**
 - The swamp is filled with fog. Heavily obscured.
-- Locate Object
+- Friend casts Fireball at the Goats but she counterspells it all.
+- She turns Virion fugly.
+- She is hidden from divination.
+- Nobu Turns Undead but the scarecrows are constructs.
