@@ -1,0 +1,1 @@
+- Joe has pulled ChatGPT into the living document.
