@@ -21,11 +21,26 @@ Prioritize CHA, then WIS, then DEX
 **Skill Proficiencies**: Medicine, Religion, Nature, Survival
 **Languages**: Common (Elad), [unknown] (Elad), [unknown] (WS)
 
+**Background Cantrips**: Chill Touch, Druidcraft
+**Background Spells**: Entangle
+
+**Cleric Cantrips**: Spare the Dying (Circle of Mortality)
+**Cleric Cantrips Known**: 3
+**Cleric Spells Prepared**: 6 (Wisdom modifier + Cleric level)
+**Cleric Spell Save DC**: 15
+**Cleric Spell Attack**: +7
+
+**Sorcerer Cantrips Known**: 3
+
+
 **Equipment**: 
 - a mace
 - scale mail
 - light crossbow
-- 
+- 20 bolts
+- a priest's pack
+- a shield
+- a holy symbol
 - A bottle of black ink
 - an ink pen
 - a book about plant identification
@@ -34,7 +49,6 @@ Prioritize CHA, then WIS, then DEX
 - a school uniform
 - a pouch containing 15gp
 
-*Level 1*
 - Eladrin
 	- Darkvision (60ft)
 	- Fey Ancestry
@@ -66,3 +80,4 @@ Prioritize CHA, then WIS, then DEX
 	- Circle of Mortality
 	- Eyes of the Grave
 	- Channel Divinity: Path to the Grave
+- Divine Soul Sorcerer
