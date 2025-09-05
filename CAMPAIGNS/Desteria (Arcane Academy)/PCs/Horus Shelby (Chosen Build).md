@@ -13,6 +13,27 @@ Prioritize CHA, then WIS, then DEX
 **Background**: [Witherbloom Student](https://dnd5e.wikidot.com/background:witherbloom-student) (gives [Strixhaven Initiate](http://dnd5e.wikidot.com/feat:strixhaven-initiate) feat)
 **Class**: [Grave Cleric](https://dnd5e.wikidot.com/cleric:grave) 2 / [Divine Soul Sorcerer](https://dnd5e.wikidot.com/sorcerer:divine-soul) X
 
+**Proficiencies**
+**Armor**: Light Armor, Medium Armor, Shields
+**Weapons**: All simple weapons
+**Tools**: Herbalism Kit
+**Saving Throws**: WIS, CHA
+**Skill Proficiencies**: Medicine, Religion, Nature, Survival
+**Languages**: Common (Elad), [unknown] (Elad), [unknown] (WS)
+
+**Equipment**: 
+- a mace
+- scale mail
+- light crossbow
+- 
+- A bottle of black ink
+- an ink pen
+- a book about plant identification
+- an iron pot
+- a herbalism kit
+- a school uniform
+- a pouch containing 15gp
+
 *Level 1*
 - Eladrin
 	- Darkvision (60ft)
@@ -25,7 +46,7 @@ Prioritize CHA, then WIS, then DEX
 	- Skill Proficiencies: Nature, Survival
 	- Tool Proficiencies: Herbalism Kit
 	- Languages: One of your choice
-	- Equipment: A bottle of black ink, an ink pen, a book about plant identification, an iron pot, a herbalism kit, a school uniform, a pouch containing 15gp
+	- 
 	- Witherbloom Initiate
 		- Witherbloom Spells (added to class spell lists)
 			- Cure Wounds
@@ -38,3 +59,10 @@ Prioritize CHA, then WIS, then DEX
 			- Chill Touch
 			- Druidcraft
 			- Entangle (1/long rest)
+- Grave Cleric
+	- Domain Spells
+		- Bane
+		- False Life
+	- Circle of Mortality
+	- Eyes of the Grave
+	- Channel Divinity: Path to the Grave
