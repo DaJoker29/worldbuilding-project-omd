@@ -50,3 +50,5 @@
 - They find a piece of paper with poems on them.
 - Niccolo starts casting Speak with Dead.
 - Elinif emerges from Axis's lamp.
+- "Mal and I approached your father's lab and saw your body lying there."
+- "And did you know it was him?"
