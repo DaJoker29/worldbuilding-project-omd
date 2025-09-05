@@ -19,7 +19,6 @@
 - Bo 
 
 **START HERE**
-> Drowned not in water, but in forgetting. In the stillness, something wakes that should not. Light recoils from that which walks again. Flesh remembers, even when the soul forgets. Even mercy may sour when bound in shadow. Should one rise, let them never look back.
 
 From the desk of Linneaus Verplank, information about Bonhart, information to attack floating island held by my father contact soon for more details.
 

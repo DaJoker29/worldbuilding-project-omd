@@ -54,3 +54,6 @@
 - "And did you know it was him?"
 - A piece of the sword went missing.
 - Andromeda says goodbye to Horus and leaves a sending stone.
+- We end the session just as Brad leaves.
+- Linneaus wants scroll of feather fall
+- Niccolo begins sketching every member of the family and the staff over the next few days.
