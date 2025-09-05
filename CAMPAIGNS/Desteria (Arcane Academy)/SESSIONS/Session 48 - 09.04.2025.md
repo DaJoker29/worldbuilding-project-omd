@@ -27,19 +27,20 @@
 > Even the gentlest heart may call upon darkness. 
 > So begins the unraveling.
 
-> Drowned not in water, but in forgetting.
-> In the stillness, something wakes that should not.
-> Light recoils from that which walks again.
-> Flesh remembers, even when the soul forgets.
-> Even mercy may sour when bound in shadow.
-> Should one rise, let them never look back.
-
 > Dig not into the vessel unless you crave the scream. 
 > It waited, hidden beneath sinew and spine. 
 > Long did it slumber in borrowed breath. 
 > From flesh was it pulled, birthing silence once more. 
 > Each scream unspoken was a memory lost. 
 > Stolen, it left only the hollow.
+
+> **Spoken Passage**
+> (unheard)
+> Ink recoils from hands that will not yield to its stain.
+> Lines falter, letters split, as the intruders write their own defiance.
+> From love springs a fracture — the book trembles.
+> Every page bends beneath the weight of their refusal.
+> Something within the darkness is not obeying.
 
 - Parcel was dropped off by a delivery man named Digiorno
 - They decide to go down and see a dead body.
