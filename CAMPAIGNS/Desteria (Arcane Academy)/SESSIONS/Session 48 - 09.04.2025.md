@@ -53,3 +53,4 @@
 - "Mal and I approached your father's lab and saw your body lying there."
 - "And did you know it was him?"
 - A piece of the sword went missing.
+- Andromeda says goodbye to Horus and leaves a sending stone.
