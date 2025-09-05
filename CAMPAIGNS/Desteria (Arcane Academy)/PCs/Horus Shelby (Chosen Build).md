@@ -39,6 +39,7 @@ Prioritize CHA, then WIS, then DEX
 **Sorcerer Spell Attack**: +7
 
 **Divine Magic Affinity**: Law (Bless)
+**Metamagic Options**: Twinned, Quickened
 
 **Equipment**: 
 - a mace
