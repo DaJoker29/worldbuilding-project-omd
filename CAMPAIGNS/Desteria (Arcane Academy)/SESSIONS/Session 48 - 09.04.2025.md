@@ -13,6 +13,13 @@
 **Initiative**:
 
 **START HERE**
+> Drowned not in water, but in forgetting.
+> In the stillness, something wakes that should not.
+> Light recoils from that which walks again.
+> Flesh remembers, even when the soul forgets.
+> Even mercy may sour when bound in shadow.
+> Should one rise, let them never look back.
+
 > Death is not a gate, but a leash. 
 > In love, there is power — and in power, ruin. 
 > Life was not restored; it was rewritten. 
@@ -39,3 +46,5 @@
 - Fat, ugly cat named Bartholomew. Linneaus's oldest friend.
 - Horus's sword has most of the pieces except for the tip.
 - They look over Horus's body.
+- They find a piece of paper with poems on them.
+- Niccolo starts casting Speak with Dead.
