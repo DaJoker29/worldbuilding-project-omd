@@ -21,6 +21,8 @@ Prioritize CHA, then WIS, then DEX
 **Skill Proficiencies**: Medicine, Religion, Nature, Survival
 **Languages**: Common (Elad), [unknown] (Elad), [unknown] (WS)
 
+**Feats/ASI**: Strixhaven Initiate, 
+
 **Background Cantrips**: Chill Touch, Druidcraft
 **Background Spells**: Entangle
 
@@ -30,8 +32,13 @@ Prioritize CHA, then WIS, then DEX
 **Cleric Spell Save DC**: 15
 **Cleric Spell Attack**: +7
 
-**Sorcerer Cantrips Known**: 3
+**Sorcerer Cantrips Known**: 5
+**Sorcerer Spells Known**: 7
+**Sorcery Points**: 6
+**Sorcerer Spell Save DC**: 15
+**Sorcerer Spell Attack**: +7
 
+**Divine Magic Affinity**: Law (Bless)
 
 **Equipment**: 
 - a mace
@@ -80,4 +87,11 @@ Prioritize CHA, then WIS, then DEX
 	- Circle of Mortality
 	- Eyes of the Grave
 	- Channel Divinity: Path to the Grave
+	- Channel Divinity: Turn Undead
+	- Harness Divine Power (Optional)
+	- Cantrip Versatility (Optional)
+	- Destroy Undead
 - Divine Soul Sorcerer
+	- Divine Magic (Law)
+	- Favored by the Gods
+	- Empowered Healing
