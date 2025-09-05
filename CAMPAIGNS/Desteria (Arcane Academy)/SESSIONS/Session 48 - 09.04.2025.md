@@ -18,3 +18,4 @@
 - Parcel was dropped off by a delivery man named Digiorno
 - They decide to go down and see a dead body.
 - Fat, ugly cat named Bartholomew. Linneaus's oldest friend.
+- Horus's sword has most of the pieces except for the tip.
