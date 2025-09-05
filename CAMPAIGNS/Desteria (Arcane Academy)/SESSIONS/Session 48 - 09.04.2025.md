@@ -48,3 +48,4 @@
 - They look over Horus's body.
 - They find a piece of paper with poems on them.
 - Niccolo starts casting Speak with Dead.
+- Elinif emerges from Axis's lamp.
