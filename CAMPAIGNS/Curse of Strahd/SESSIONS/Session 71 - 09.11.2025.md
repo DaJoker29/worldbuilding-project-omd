@@ -15,3 +15,4 @@
 - Testicleez appears and doesn't know which side to join. What a bitch.
 - Adi tries to Silvery Barbs to rewrite fate when she casts Fireball. It fails. Veyllis goes down.
 - Pidlwick is extra crispy.
+- Veyllis, Adi, and Friend all go down.
