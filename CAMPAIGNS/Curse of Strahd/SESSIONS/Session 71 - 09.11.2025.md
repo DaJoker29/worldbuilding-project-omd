@@ -16,3 +16,7 @@
 - Adi tries to Silvery Barbs to rewrite fate when she casts Fireball. It fails. Veyllis goes down.
 - Pidlwick is extra crispy.
 - Veyllis, Adi, and Friend all go down.
+
+Some other stuff goes down...
+
+Testacleez ddies. We all turn into goats.
