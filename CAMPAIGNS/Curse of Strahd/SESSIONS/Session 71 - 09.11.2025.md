@@ -20,3 +20,4 @@
 Some other stuff goes down...
 
 Testacleez ddies. We all turn into goats.
+Friend-goat thinks something is weird.
