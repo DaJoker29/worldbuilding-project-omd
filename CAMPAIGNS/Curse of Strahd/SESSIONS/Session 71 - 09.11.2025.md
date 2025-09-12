@@ -12,3 +12,5 @@
 **Initiative**
 
 **Start Here**
+- Testicleez appears and doesn't know which side to join. What a bitch.
+- 
