@@ -18,3 +18,4 @@
 - Ashirele, a druidic elven woman, arrives. Andromeda (Arcadia) leaves with them.
 - We take a ferry to the former location of the Veiled Tower.
 - Ferry driver wants us to send up a flare if we don't need them.
+- Old woman with brown hair. Arcane humming backpack. Hovering.
