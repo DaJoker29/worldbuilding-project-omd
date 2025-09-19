@@ -11,3 +11,4 @@
 **Initiative**
 
 **START HERE**
+- Niccolo is sketching portraits of every member of the family and staff here.
