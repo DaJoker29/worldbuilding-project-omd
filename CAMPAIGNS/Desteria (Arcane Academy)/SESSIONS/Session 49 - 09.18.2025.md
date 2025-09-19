@@ -16,3 +16,5 @@
 - Bo places a phone call to his brother.
 - Linneas calls his dad.
 - Ashirele, a druidic elven woman, arrives. Andromeda (Arcadia) leaves with them.
+- We take a ferry to the former location of the Veiled Tower.
+- 
