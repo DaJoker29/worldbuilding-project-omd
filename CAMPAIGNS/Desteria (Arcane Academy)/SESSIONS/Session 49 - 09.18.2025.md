@@ -10,6 +10,4 @@
 
 **Initiative**
 
-**Goals**
-
 **START HERE**
