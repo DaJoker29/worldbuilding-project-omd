@@ -19,6 +19,6 @@
 
 Some other stuff goes down...
 
-Testacleez ddies. We all turn into goats.
+Testacleez dies. We all turn into goats.
 Friend-goat thinks something is weird.
 AC 11 / HP 19
