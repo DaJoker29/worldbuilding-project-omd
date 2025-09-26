@@ -13,4 +13,11 @@ AC 11 / HP 19
 - Rythm pissed off Joe with the ads last week. 
 - I live when I rot, and I sing when I’m swarmed. I am eaten when I’m dead, but I still eat you when I’m alive. What am I? (Corpse)
 - Bright at birth, gasping in age. I feed on breath, and death snuffs me all the same. What am I? (Fire)
-- "Break the magic around us and I can rest."
+
+I take without teeth.
+I choke without hands.
+I hold you when you sink,
+and release you when you rot.
+What am I? (Swamp)
+
+- "Break the magic around us and I can rest." - Heron
