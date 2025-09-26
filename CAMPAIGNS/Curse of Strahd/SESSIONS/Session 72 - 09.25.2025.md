@@ -10,3 +10,4 @@
 **Start Here**
 AC 11 / HP 19
 
+- Rythm pissed off Joe with the ads last week. 
