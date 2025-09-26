@@ -21,3 +21,12 @@ and release you when you rot.
 What am I? (Swamp)
 
 - "Break the magic around us and I can rest." - Heron
+
+- Skull saying words on ribs.
+- HE returned to Barovia and all bent the knee before him.
+- I caught the babe as he slipped into the world. His first scream, mine to hear.
+- He killed his brother and death kissed him eternal
+- The Zarovich line was powerful and they called for me when the blood was thin.
+- He looked upon Tatyiana and his heart was not his own.
+- I nursed him in shadow and blood and yet the world calls me monster.
+- He became a solider and ocnquer draped in steel and fire.
