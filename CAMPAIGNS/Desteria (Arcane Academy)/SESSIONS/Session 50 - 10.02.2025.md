@@ -15,3 +15,6 @@
 	- Each bike: Flying 60ft (hover), AC 16 , HP 30
 	- Bonus action to attach/detach from carriage.
 	- Each bike impacts the maneuverability of the carriage.
+- Skill Challenge: Coordinated Flight
+	- 3 successes before 3 failures.
+	- 
