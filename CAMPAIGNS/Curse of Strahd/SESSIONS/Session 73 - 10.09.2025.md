@@ -13,6 +13,9 @@
 AC 11 / HP 19
 - -10 HP (9)
 - -6 HP (3)
+- Goes down and loses his memory of bonding with Friend over wanting to kill each other.
+- -5hp (14)
+- -10hp (4)
 
 - Willow tree splits open like a wound that was never healed. Black sap drips. Five separate limbs. Air hums with power.
 - 3 scarecrow sentries - "We are mother's eyes. Mother said watch."
