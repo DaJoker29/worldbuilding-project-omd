@@ -22,3 +22,4 @@ AC 11 / HP 19
 
 - Adi forgets his big bonding moment with Friend.
 - SMACK MY BITCH UP
+- Kiddlewick starts eating ropes connected to the seed.
