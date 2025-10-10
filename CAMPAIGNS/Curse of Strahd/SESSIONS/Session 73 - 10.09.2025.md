@@ -19,3 +19,5 @@ AC 11 / HP 19
 - Friend-Goat is eviscerated and forgets how to use thieves tools.
 - Bonk goes down also. Every time we go down we lose something.
 - Giant Scarecrow (Testikleez) enters the arena and attacks us.
+
+- Adi forgets his big bonding moment with Friend.
