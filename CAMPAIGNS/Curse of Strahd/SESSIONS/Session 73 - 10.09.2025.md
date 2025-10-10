@@ -21,3 +21,4 @@ AC 11 / HP 19
 - Giant Scarecrow (Testikleez) enters the arena and attacks us.
 
 - Adi forgets his big bonding moment with Friend.
+- SMACK MY BITCH UP
