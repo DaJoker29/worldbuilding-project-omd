@@ -18,4 +18,6 @@
 - We link up with Tessa and Quentin.
 - Quentin can defend himself apparently.
 - Tessa does fuck. She was kind of feeling Bo until he apologized.
+- Fred (Farmer 14). Daughter Mary, 11 year old tiefling.
+- Incursion into the farming district. Seeking seed stock. Under King Stillshard's benevolent rule.
 - 
