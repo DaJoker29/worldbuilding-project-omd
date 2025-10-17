@@ -8,7 +8,6 @@
 
 **Initiative**
 
-
 **Start Here**
 AC 11 / HP 19
 - -10 HP (9)
