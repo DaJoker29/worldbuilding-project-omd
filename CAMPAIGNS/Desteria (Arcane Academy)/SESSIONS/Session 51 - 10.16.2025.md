@@ -20,4 +20,5 @@
 - Tessa does fuck. She was kind of feeling Bo until he apologized.
 - Fred (Farmer 14). Daughter Mary, 11 year old tiefling.
 - Incursion into the farming district. Seeking seed stock. Under King Stillshard's benevolent rule.
-- 
+- King Seth Stillshard, the Astral Reaver and King of the Veiled Tower and all its Seas. King Stillshard in public, unless speaking a officer of captain or higher.
+- Mary agrees to guide us around town. Niccolo is shaken by this innocent, fearful child serving so obediently.
