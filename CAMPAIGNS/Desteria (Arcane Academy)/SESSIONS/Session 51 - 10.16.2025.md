@@ -16,3 +16,6 @@
 - Worst Case: Bonhart escapes and we get hurt.
 - Avoid Linneaus's brother.
 - We link up with Tessa and Quentin.
+- Quentin can defend himself apparently.
+- Tessa does fuck. She was kind of feeling Bo until he apologized.
+- 
