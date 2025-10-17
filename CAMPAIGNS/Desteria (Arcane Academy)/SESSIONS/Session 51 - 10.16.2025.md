@@ -12,4 +12,6 @@
 
 **START HERE**
 - Almost distracted John-Alan by making him hum a song that we don't know.
-- 
+- Best Case: Bonhart is captured by us.
+- Worst Case: Bonhart escapes and we get hurt.
+- Avoid Linneaus's brother.
