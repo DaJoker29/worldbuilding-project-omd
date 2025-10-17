@@ -11,3 +11,5 @@
 **Initiative**
 
 **START HERE**
+- Almost distracted John-Alan by making him hum a song that we don't know.
+- 
