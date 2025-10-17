@@ -22,3 +22,11 @@
 - Incursion into the farming district. Seeking seed stock. Under King Stillshard's benevolent rule.
 - King Seth Stillshard, the Astral Reaver and King of the Veiled Tower and all its Seas. King Stillshard in public, unless speaking a officer of captain or higher.
 - Mary agrees to guide us around town. Niccolo is shaken by this innocent, fearful child serving so obediently.
+- Quentin stays to protect the farm and Tessa is still asleep.
+
+**Into Town**
+- Fields of barren land. Tried crops. Nothing grows.
+- All roads lead to the tower.
+- Mary heads off to scout ahead in town. There are thin, hungry urchins.
+- Dirty, grungy kid. Can't tell if boy or girl. Hair cut with knife. Kill a rat and tuck it into their belt. They spots Linneaus, runs away down an alley, then screams.
+- Kids move away with Mary and scatter and hide.
