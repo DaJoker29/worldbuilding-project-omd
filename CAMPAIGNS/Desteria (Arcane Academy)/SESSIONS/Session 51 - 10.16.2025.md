@@ -30,3 +30,4 @@
 - Mary heads off to scout ahead in town. There are thin, hungry urchins.
 - Dirty, grungy kid. Can't tell if boy or girl. Hair cut with knife. Kill a rat and tuck it into their belt. They spots Linneaus, runs away down an alley, then screams.
 - Kids move away with Mary and scatter and hide.
+- The dirty child is being held by a uniformed guy. Another child lays on the ground in pain. Guy kicks the child on the ground.
