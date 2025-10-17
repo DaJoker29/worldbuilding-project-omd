@@ -3,7 +3,7 @@
 **Terror**: `[ ]`
 **Invisibility**: `[ ]`
 **Hexblade's Curse**: `[ ]`
-**Hell Hound Cloak**: `[ 2 / 6 ]`
+**Hell Hound Cloak**: `[ 3 / 6 ]`
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
 **Gaze of Two Minds**: `At will`
