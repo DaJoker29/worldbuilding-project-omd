@@ -1,5 +1,5 @@
 **Portent**: `[1][x]`
-**Hero Point**: `[ ]`
+**Hero Point**: `[x]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
