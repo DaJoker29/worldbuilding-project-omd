@@ -9,3 +9,4 @@
 **Initiative**
 
 **Start Here**
+AC 11 / HP 4 (starting: 19)
