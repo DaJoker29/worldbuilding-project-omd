@@ -1,4 +1,4 @@
-**Portent**: `[1][18]`
+**Portent**: `[1][x]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
@@ -20,4 +20,5 @@ AC 11 / HP 4 (starting: 19)
 	- Bubbling Black Water: Adi tries to throw ice and create little platforms. His boot sinks in. - FAIL
 	- Tree blights: Virion distracts with flute - CRITICAL SUCCESS
 	- Old Berez: Friend can see through illusions - Success
-	- Walking Hut: Blocks our escape. 
+	- Walking Hut: Blocks our escape. Group Survival check. - Group Success
+- Baba bursts from the treeline and blasts a beam of electric energy at Bonk. 
