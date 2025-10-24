@@ -21,4 +21,9 @@ AC 11 / HP 4 (starting: 19)
 	- Tree blights: Virion distracts with flute - CRITICAL SUCCESS
 	- Old Berez: Friend can see through illusions - Success
 	- Walking Hut: Blocks our escape. Group Survival check. - Group Success
-- Baba bursts from the treeline and blasts a beam of electric energy at Bonk. 
+- Baba bursts from the treeline and blasts a beam of electric energy at Bonk. He gets cursed by something, we don't know what. She stays behind as we leave.
+- Pidlwick now has Veyllis's voice. Veyllis can't speak.
+- We take a short rest just beyond the riverbend.
+- We are walking towards the winery with the seed.
+- We travel for hours and nothing crosses our paths. Weird AF.
+- 
