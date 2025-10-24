@@ -1,10 +1,10 @@
 **Portent**: `[1][18]`
-**Hero Point**: `[x]`
-**Silvery Barbs**: `[x]`
-**Misty Step**: `[x]`
-**Cure Wounds**: `[x]`
+**Hero Point**: `[ ]`
+**Silvery Barbs**: `[ ]`
+**Misty Step**: `[ ]`
+**Cure Wounds**: `[ ]`
 **Scarf (Shield)**: `[ ]`
-**Spark Bleat**: `[x]`
+**Spark Bleat**: `[ ]`
 
 **Initiative**
 
