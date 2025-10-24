@@ -10,3 +10,5 @@
 
 **Start Here**
 AC 11 / HP 4 (starting: 19)
+- Virion goat destroys blue strand and polymorph breaks on us.
+- 
