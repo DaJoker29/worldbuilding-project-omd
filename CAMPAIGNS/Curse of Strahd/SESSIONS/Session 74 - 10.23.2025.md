@@ -14,4 +14,7 @@ AC 11 / HP 4 (starting: 19)
 - Adi firewalls the zombies
 - Friend busts the last strand and Baba gets pissed.
 - Adi casts Haste on Friend so they can run away.
-- Skill Challenge: 
+- Skill Challenge: Trying to escape.
+	- Vines come to life and try to grab us but Pidlwick and Bonk tear 'em up. - PASS
+	- Wicker effigy (Strahd?): Virion sleet storm doesn't destroy it. It sends us in circles slowing - FAIL
+	- Bubbling Black Water
