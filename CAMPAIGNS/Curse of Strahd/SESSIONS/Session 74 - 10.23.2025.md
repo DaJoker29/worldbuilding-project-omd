@@ -17,4 +17,6 @@ AC 11 / HP 4 (starting: 19)
 - Skill Challenge: Trying to escape.
 	- Vines come to life and try to grab us but Pidlwick and Bonk tear 'em up. - PASS
 	- Wicker effigy (Strahd?): Virion sleet storm doesn't destroy it. It sends us in circles slowing - FAIL
-	- Bubbling Black Water
+	- Bubbling Black Water: Adi tries to throw ice and create little platforms. His boot sinks in. - FAIL
+	- Tree blights: Virion distracts with flute - CRITICAL SUCCESS
+	- Old Berez: 
