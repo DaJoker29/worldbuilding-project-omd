@@ -19,4 +19,5 @@ AC 11 / HP 4 (starting: 19)
 	- Wicker effigy (Strahd?): Virion sleet storm doesn't destroy it. It sends us in circles slowing - FAIL
 	- Bubbling Black Water: Adi tries to throw ice and create little platforms. His boot sinks in. - FAIL
 	- Tree blights: Virion distracts with flute - CRITICAL SUCCESS
-	- Old Berez: 
+	- Old Berez: Friend can see through illusions - Success
+	- Walking Hut: Blocks our escape. 
