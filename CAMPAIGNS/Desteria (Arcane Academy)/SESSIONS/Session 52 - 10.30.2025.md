@@ -13,4 +13,5 @@
 **START HERE**
 - Wade and Will Ferrell have the same birthday.
 - Guy holding orphan child. We roll initiative.
-- Ratbelly —
+- Niccolo turns orange and slaughters the guy. The first kid, String, is killed.
+- Ratbelly — Peli. The kid who survived. 
