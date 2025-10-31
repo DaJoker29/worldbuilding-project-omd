@@ -12,4 +12,4 @@
 
 **START HERE**
 - Wade and Will Ferrell have the same birthday.
-- Guy holding orphan child. 
+- Guy holding orphan child. We roll initiative.
