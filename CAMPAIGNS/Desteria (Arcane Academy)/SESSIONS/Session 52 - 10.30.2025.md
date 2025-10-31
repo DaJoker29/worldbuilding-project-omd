@@ -15,3 +15,5 @@
 - Guy holding orphan child. We roll initiative.
 - Niccolo turns orange and slaughters the guy. The first kid, String, is killed.
 - Ratbelly — Peli. The kid who survived. 
+- More guards spot us.
+- Kids didn't notice because String was the lookout.
