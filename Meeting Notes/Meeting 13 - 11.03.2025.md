@@ -6,3 +6,4 @@
 **Next Steps**:
 - Flesh out Dragonfire Abbey with some images (and maps).
 - Any specific creatures we might want to add.
+- Trying to figure out how the continents connect to one another.
