@@ -1,1 +1,3 @@
 - Discussing the Krithick.
+- Suggestion: Incorporate them into a trivial encounter in the campaign Joe's running.
+- 
