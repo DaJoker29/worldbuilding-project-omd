@@ -1,2 +1,1 @@
-**Next Step**: 
-- 
+- Discussing the Krithick.
