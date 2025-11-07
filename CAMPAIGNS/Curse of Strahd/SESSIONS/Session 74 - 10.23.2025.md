@@ -26,5 +26,5 @@ AC 11 / HP 4 (starting: 19)
 - We take a short rest just beyond the riverbend.
 - We are walking towards the winery with the seed.
 - We travel for hours and nothing crosses our paths. Weird AF.
-- We leave a note to the skeletons telling them we didn't forget about them.
+- We leave a note to the dragon castle skeletons telling them we didn't forget about them.
 - We might be the GOATs.
