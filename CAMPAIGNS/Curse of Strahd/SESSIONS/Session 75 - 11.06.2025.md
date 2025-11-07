@@ -14,3 +14,4 @@
 	- Virion is dumb.
 	- Veyllis can't talk.
 	- Bonk threw a javelin at us for some reason.
+- 4 fresh-faced guards greet us. Dackhead (da-keed, not dickhead)
