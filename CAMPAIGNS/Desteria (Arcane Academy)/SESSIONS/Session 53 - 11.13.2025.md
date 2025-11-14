@@ -15,3 +15,4 @@
 	- Wade prefers Dungeons and Bunions
 - Linneaus makes fun of an old lady by calling her "grandmother".
 - King Stillshart, the Asshole Eater and King of the Vibrating Tower and all its Skeet.
+- Granma Ni spits some facts about Horus's father who created the sword to maintain the island. Seth needs its power to keep it aloft.
