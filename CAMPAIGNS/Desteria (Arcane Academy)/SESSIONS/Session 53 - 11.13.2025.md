@@ -14,4 +14,4 @@
 - Bunions and Dragons
 	- Wade prefers Dungeons and Bunions
 - Linneaus makes fun of an old lady by calling her "grandmother".
-- King Stiffshit, the Asshole Eater and King of the Vibrating Tower and all its Skeet.
+- King Stillshart, the Asshole Eater and King of the Vibrating Tower and all its Skeet.
