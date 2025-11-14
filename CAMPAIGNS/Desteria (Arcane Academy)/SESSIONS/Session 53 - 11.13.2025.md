@@ -12,4 +12,5 @@
 
 **START HERE**
 - Bunions and Dragons
-	- 
+	- Wade prefers Dungeons and Bunions
+- Linneaus makes fun of an old lady by calling her "grandmother".
