@@ -68,7 +68,6 @@ Prioritize CHA, then WIS, then DEX
 	- Skill Proficiencies: Nature, Survival
 	- Tool Proficiencies: Herbalism Kit
 	- Languages: One of your choice
-	- 
 	- Witherbloom Initiate
 		- Witherbloom Spells (added to class spell lists)
 			- Cure Wounds
