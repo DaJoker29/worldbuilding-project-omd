@@ -17,5 +17,5 @@
 	- Bonk threw a javelin at us for some reason.
 - 4 fresh-faced guards greet us. Dackhead (da-keed, not dickhead)
 - We go to the Inn and Irwin chastises us.
-- 3' tall old halfling. Un Fortuna.
+- 3' tall old halfling. Un Fortuna. Son of a bitch.
 	- Post-session: Veyllis might drink from the chalice to fix his missing voice thing.

@@ -9,7 +9,8 @@
 **Initiative**
 
 **Start Here**
-
+- Drinking and testing to see if poisonous.
+- 
 
 
 ***Note***: No session on January 1st. No session on Thanksgiving. No session on Christmas.
