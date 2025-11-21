@@ -18,6 +18,9 @@
 
 *Long Rest*
 
-
+- Friend spoke for us. 
+- We told Irina that Rin was dead.
+- Vasily goes to comfort Irina.
+- Bluewater Inn may be burning down.
 
 ***Note***: No session on January 1st. No session on Thanksgiving. No session on Christmas.
