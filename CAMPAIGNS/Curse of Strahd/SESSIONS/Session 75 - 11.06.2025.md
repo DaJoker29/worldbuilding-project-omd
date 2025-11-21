@@ -9,3 +9,7 @@
 **Initiative**
 
 **Start Here**
+
+
+
+***Note***: No session on January 1st. No session on Thanksgiving. No session on Christmas.
