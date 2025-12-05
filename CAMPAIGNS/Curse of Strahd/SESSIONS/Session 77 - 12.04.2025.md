@@ -16,4 +16,4 @@
 - Virion creates sleet storm to control the flame.s Bonk rushes to save Danika. 
 - Some stuff happens with Un. (I was distracted making a notebook)
 - Vasily wants to take Irina to his family house. Veyllis uses Sending to try to determine if he is Strahd. Adi accuses Vasili of being Strahd.
-- Virion finds Irwin failing at life. Bonk comes and clears the doorway to free the kids.
+- Virion finds Irwin failing at life. Bonk comes and clears the doorway to free the kids. They discover Pidlwick is trapped. Virion flies through some inw
