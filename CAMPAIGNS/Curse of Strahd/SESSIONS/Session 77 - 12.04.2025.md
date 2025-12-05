@@ -13,3 +13,6 @@
 	- Bonk and Virion go to deal with the flaming inn.
 	- Un follows the Wachters.
 	- Friend, Adi, and Veyllis go to check on Irina.
+- Bonk saves Danika
+- Some stuff happens with Un. (I was distracted making a notebook)
+- Vasi
