@@ -13,6 +13,7 @@
 	- Bonk and Virion go to deal with the flaming inn.
 	- Un follows the Wachters.
 	- Friend, Adi, and Veyllis go to check on Irina.
-- Bonk saves Danika
+- Bonk saves Danika. 
 - Some stuff happens with Un. (I was distracted making a notebook)
-- Vasi
+- Vasily wants to take Irina to his family house. Veyllis uses Sending to try to determine if he is Strahd. Adi accuses Vasili of being Strahd.
+- Virion goes to save Irwin.
