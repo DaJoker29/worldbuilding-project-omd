@@ -17,3 +17,5 @@
 	- "Working. Making an 'honest' living."
 	- "Silence is silver but sometimes talking gets you gold." Goldie.
 	- She's going to take out his new team, one by one.
+- The group searches for Niccolo through the barracks.
+- 
