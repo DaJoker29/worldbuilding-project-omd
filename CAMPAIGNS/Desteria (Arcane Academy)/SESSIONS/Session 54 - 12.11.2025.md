@@ -12,4 +12,7 @@
 
 *Start here*
 
-- Niccolo Axis II. 
+- Captain will be questioning Niccolo soon. Axis's dad thinks Axis is dead. Dejected now.
+- Cloaked figure in other cell. We are alone. Masked and hood. Twinkle of white. 
+	- "Working. Making an 'honest' living."
+	- ""
