@@ -15,5 +15,5 @@
 - Captain will be questioning Niccolo soon. Axis's dad thinks Axis is dead. Dejected now.
 - Cloaked figure in other cell. We are alone. Masked and hood. Twinkle of white. 
 	- "Working. Making an 'honest' living."
-	- "Silence is silver but sometimes talking gets you gold."
-	- Golden locks.
+	- "Silence is silver but sometimes talking gets you gold." Goldie.
+	- She's going to take out his new team, one by one.
