@@ -12,3 +12,5 @@
 
 *Start here*
 
+- Niccolo casts Xanax (Calm Emotions) on himself.
+- Linneaus pretends to be crazy and gets taken to infirmary.
