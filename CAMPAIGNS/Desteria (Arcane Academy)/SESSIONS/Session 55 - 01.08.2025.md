@@ -1,5 +1,5 @@
-**Bardic (d8)**: `[x][ ][ ][ ][ ]`
-**Echo Blade**: `[ ]`
+**Bardic (d8)**: `[x][x][ ][ ][ ]`
+**Echo Blade**: `[x]`
 **Terror**: `[ ]`
 **Invisibility**: `[ ]`
 **Hexblade's Curse**: `[x]`
