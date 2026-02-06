@@ -13,3 +13,4 @@
 *Start here*
 
 - Linneaus escapes but like a dumbass decides to shoot as he leaves and his Niccolo. He dead now.
+- We go to the Orphan Hut, Jr. We give them coin for 
