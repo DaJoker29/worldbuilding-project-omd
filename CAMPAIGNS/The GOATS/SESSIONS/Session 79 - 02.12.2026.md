@@ -3,7 +3,7 @@
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
 **Cure Wounds**: `[ ]`
-**Scarf (Shield)**: `[ ]`
+**Scarf (Shield)**: `[x]`
 **Spark Bleat**: `[ ]`
 
 **Initiative**
