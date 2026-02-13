@@ -25,3 +25,8 @@
 - Strahd reverses gravity.
 - Rest of the party arrives.
 
+- We fight Strahd.
+- Nobu gives Irina to Strahd.
+- Adi psychic spikes Irina
+- Nobu says he will bring her back and drops dead.
+- Adi can't heal him.
