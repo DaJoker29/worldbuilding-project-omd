@@ -7,12 +7,12 @@
 **Spark Bleat**: `[ ]`
 
 **Initiative**
-- Veyllis
-- Adi - 19.15
-- Friend
-- Bonk 
 - Virion - 21.14
+- Adi - 19.15
+- Veyllis - 12
+- Bonk - 7.16
 - Strahd
+- Friend - 7.14
 
 *Veyllis* casts Bless on *Adi, Friend, and ???*
 
@@ -24,3 +24,4 @@
 - Strahd Fireballing the town.
 - Strahd reverses gravity.
 - Rest of the party arrives.
+
