@@ -18,4 +18,3 @@
 	- Darkened robe
 	- With the Wachtner Brothers
 - Virion gets emotional.
-- 
