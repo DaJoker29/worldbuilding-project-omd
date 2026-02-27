@@ -15,3 +15,5 @@
 - Friend -
 
 **Start Here**
+
+*Next week*: Figure out viscosity of cum lake to determine acceleration. Gravity, up and down, bullshit.
