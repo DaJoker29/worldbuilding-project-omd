@@ -13,3 +13,7 @@
 *Start here*
 
 LONG REST
+
+- Gareth, rides a griffon.
+	- Friends with Granny.
+	- Can help with transportation.
