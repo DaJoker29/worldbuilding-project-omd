@@ -14,7 +14,7 @@
 
 LONG REST
 
-- Gareth, rides a griffon.
+- Gareth, rides a griffon named Griffith.
 	- Friends with Granny.
 	- Can help with transportation.
 	- Dropped off a guy hunting the people hired by Abraham VerPlanck.
@@ -24,3 +24,6 @@ LONG REST
 	- Axis - Me
 	- Linneaus - Good Boy
 - We follow Gareth to guard house where he fetches uniforms.
+- We are dressed as his squires. We sneak into the inner city and get eyes on the Veiled Tower.
+
+*Note*: Horus changed his last name from Shelley to Shelby to avoid being revealed for his family connection.
