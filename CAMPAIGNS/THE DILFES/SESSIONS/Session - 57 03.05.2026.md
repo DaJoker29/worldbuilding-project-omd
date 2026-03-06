@@ -1,8 +1,8 @@
-**Bardic (d8)**: `[x][x][x][ ][ ]`
-**Echo Blade**: `[x]`
+**Bardic (d8)**: `[ ][ ][ ][ ][ ]`
+**Echo Blade**: `[ ]`
 **Terror**: `[ ]`
-**Invisibility**: `[x]`
-**Hexblade's Curse**: `[x]`
+**Invisibility**: `[ ]`
+**Hexblade's Curse**: `[ ]`
 **Hell Hound Cloak**: `[ 3 / 6 ]`
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
@@ -23,3 +23,4 @@ LONG REST
 	- Bo - Ears
 	- Axis - Me
 	- Linneaus - Good Boy
+- We follow Gareth to guard house where he fetches uniforms.
