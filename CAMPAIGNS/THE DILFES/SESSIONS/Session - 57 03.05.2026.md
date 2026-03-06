@@ -18,3 +18,8 @@ LONG REST
 	- Friends with Granny.
 	- Can help with transportation.
 	- Dropped off a guy hunting the people hired by Abraham VerPlanck.
+- Nicknames
+	- Niccolo - Demon Lord
+	- Bo - Ears
+	- Axis - Me
+	- Linneaus - Good Boy
