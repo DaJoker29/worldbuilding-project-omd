@@ -17,3 +17,4 @@ LONG REST
 - Gareth, rides a griffon.
 	- Friends with Granny.
 	- Can help with transportation.
+	- Dropped off a guy hunting the people hired by Abraham VerPlanck.
