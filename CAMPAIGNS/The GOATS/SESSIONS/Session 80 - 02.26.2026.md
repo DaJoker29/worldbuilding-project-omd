@@ -32,4 +32,5 @@
 **WE LEVEL UP to 9**
 - New spells
 	- Rary's Telepathic Bond
-	- Gravity Sinkhole
+	- ~~Gravity Sinkhole~~
+	- Steel Wind Strike
