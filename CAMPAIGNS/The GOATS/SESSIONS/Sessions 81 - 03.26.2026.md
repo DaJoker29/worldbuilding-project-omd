@@ -31,3 +31,9 @@
 - Abbot brought back Dmitri's secondborn son during funeral march.
 - Water in the back of town. Food at Dmitri's.
 - The Abbott serves Lathander and hadn't aged. 
+
+Goals: 
+- Get the seed from the werewolves.
+- Investigate the burgomaster's son. 
+- Get water.
+- Talk to the Abbott
