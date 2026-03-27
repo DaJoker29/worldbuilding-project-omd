@@ -14,6 +14,8 @@
 - Strahd -
 - Friend -
 
+**Effects**: Aid, Water Walking, Telepathic Bond
+
 **Start Here**
 
 - The seed is potent. The snow melts and the plants are lush and growing.
@@ -31,9 +33,17 @@
 - Abbot brought back Dmitri's secondborn son during funeral march.
 - Water in the back of town. Food at Dmitri's.
 - The Abbott serves Lathander and hadn't aged. 
+- Adi re-ups telepathic bond. They are all meeting up at the church in an hour.
 
 Goals: 
 - Get the seed from the werewolves.
 - Investigate the burgomaster's son. 
 - Get water.
 - Talk to the Abbott
+
+**How we ended**: 
+- Un and Virion and Irwin head to the watering hole. Gazebo and a little old lady washing her socks.
+- Veyllis and Adi heading to Burgomeister to check on son
+- Friend and Bonk are going on a dinner date.
+
+***Next Session***: April 23rd
