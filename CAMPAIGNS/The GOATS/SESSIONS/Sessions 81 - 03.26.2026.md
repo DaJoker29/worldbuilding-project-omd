@@ -24,4 +24,9 @@
 - Friend asks Adi to write his name in a book.
 - Telepathic bond
 - Frozen dire wolves on the trail to Kresk (Cone of Cold)
-- 
+- The Burgomaster lets us in. (Dmitri Kreskov and his wife)
+	- Lives in larger cabin near the gate.
+	- Garden in front of cabin.
+	- Ranch style barn.
+- Abbot brought back Dmitri's secondborn son during funeral march.
+- Water in the back of town. Food at Dmitri's.
