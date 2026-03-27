@@ -30,3 +30,4 @@
 	- Ranch style barn.
 - Abbot brought back Dmitri's secondborn son during funeral march.
 - Water in the back of town. Food at Dmitri's.
+- The Abbott serves Lathander and hadn't aged. 
