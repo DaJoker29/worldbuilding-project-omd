@@ -17,4 +17,6 @@
 **Start Here**
 
 - The seed is potent. The snow melts and the plants are lush and growing.
-- 
+
++Healing Potion (common)
++Shortsword (for 1sp)
