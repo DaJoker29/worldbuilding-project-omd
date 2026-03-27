@@ -22,3 +22,6 @@
 +Shortsword (for 1sp)
 
 - Friend asks Adi to write his name in a book.
+- Telepathic bond
+- Frozen dire wolves on the trail to Kresk (Cone of Cold)
+- 
