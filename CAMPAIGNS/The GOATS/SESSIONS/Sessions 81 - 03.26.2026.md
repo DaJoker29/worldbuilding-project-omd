@@ -20,3 +20,5 @@
 
 +Healing Potion (common)
 +Shortsword (for 1sp)
+
+- Friend asks Adi to write his name in a book.
