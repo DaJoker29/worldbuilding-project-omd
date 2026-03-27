@@ -15,3 +15,6 @@
 - Friend -
 
 **Start Here**
+
+- The seed is potent. The snow melts and the plants are lush and growing.
+- 
