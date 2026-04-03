@@ -12,4 +12,4 @@
 
 *Start here*
 - Sexy man (Kessian?) approaches. Bo tries to read pretty dude's mind.
-- 
+- Bo sticks Horus's sword into a hole and his dad's ghost comes out of it.
