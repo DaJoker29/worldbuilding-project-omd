@@ -11,3 +11,4 @@
 **Initiative**
 
 *Start here*
+- Sexy man (Kessian?) approaches. Bo tries 
