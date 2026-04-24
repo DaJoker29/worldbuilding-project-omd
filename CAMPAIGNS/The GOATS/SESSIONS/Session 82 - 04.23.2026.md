@@ -43,9 +43,13 @@ START: Aid, Water Walking, Telepathic Bond
 - St ??? Abbey - May her light cure all illness.
 - Spider wing creature.
 - UN goes inside by himself with Otto to meet Abbot.
-	- Young Woman: Black hair
+	- Vasilka: Young woman, black hair, pale skin; stitched together body parts; different sized fingers; pieced together; nice stitching
 	- Abbot: Brown Monks robes. Painted symbol of the sun. Obscenely graceful. No footsteps.
 	- Holy symbol looks slightly different.
 	- St. Markovia
+- We all follow after seeing all the freaks outside. Veyllis seems bothered.
+- Abbot eye fucks us. Offers us food and warmth.
+- "Him and his companion" — Vasilka
+- 
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
