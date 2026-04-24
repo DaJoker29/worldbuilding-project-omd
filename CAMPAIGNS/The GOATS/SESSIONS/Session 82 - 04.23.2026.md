@@ -14,8 +14,16 @@
 - Strahd -
 - Friend -
 
-**Effects**: Aid, Water Walking, Telepathic Bond
+**Effects**
+```
+START: Aid, Water Walking, Telepathic Bond
+```
+
+**Inventory**
+```
+```
 
 **Start Here**
+- 
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
