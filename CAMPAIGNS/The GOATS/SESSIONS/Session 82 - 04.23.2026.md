@@ -40,5 +40,6 @@ START: Aid, Water Walking, Telepathic Bond
 	- IRWIN's name starts with a U
 	- Thinks watery feet are deliciousness.
 	- Dimension door to the top of the abbey
+- St ??? Abbey - May her light cure all illness.
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
