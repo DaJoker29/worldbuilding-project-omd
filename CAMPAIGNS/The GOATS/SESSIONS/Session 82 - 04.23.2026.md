@@ -41,7 +41,7 @@ START: Aid, Water Walking, Telepathic Bond
 	- Thinks watery feet are deliciousness.
 	- Dimension door to the top of the abbey
 - St ??? Abbey - May her light cure all illness.
-- Spider wing creature.
+- Spider wing creature. Bat wings in the middle of her back.
 - UN goes inside by himself with Otto to meet Abbot.
 	- Vasilka: Young woman, black hair, pale skin; stitched together body parts; different sized fingers; pieced together; nice stitching
 	- Abbot: Brown Monks robes. Painted symbol of the sun. Obscenely graceful. No footsteps.
