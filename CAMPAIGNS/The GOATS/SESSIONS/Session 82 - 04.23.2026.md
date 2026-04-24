@@ -56,6 +56,7 @@ START: Aid, Water Walking, Telepathic Bond
 	- First time saw longing and a need for love.
 	- Second time saw that he needed a bride.
 - Abbot making Vasilka to give to Strahd. She needs to learn manners and be delivered.
-- The winged spider lady says they are after her brain.
+- The winged spider lady says they are after her brain. — Marzena
+- Veyllis teachs Vasilka how to dance.
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
