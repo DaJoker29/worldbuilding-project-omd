@@ -37,5 +37,6 @@ START: Aid, Water Walking, Telepathic Bond
 - UN and VIRION and IRWIN
 	- Statue.
 	- IRWIN's name starts with a U
+	- Thinks watery feet are deliciousness.
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
