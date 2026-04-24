@@ -18,4 +18,4 @@
 
 **Start Here**
 
-***Next Session***: April 23rd
+***Next Session***: May 7th (last game before pause; resume July 2)
