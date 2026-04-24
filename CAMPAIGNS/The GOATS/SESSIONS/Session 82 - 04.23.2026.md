@@ -41,5 +41,9 @@ START: Aid, Water Walking, Telepathic Bond
 	- Thinks watery feet are deliciousness.
 	- Dimension door to the top of the abbey
 - St ??? Abbey - May her light cure all illness.
+- Spider wing creature.
+- UN goes inside by himself with Otto to meet Abbot.
+	- Young Woman: Tied back hair
+	- Young Man: Brown Monks robes. Painted symbol of the sun. Obscenely graceful.
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
