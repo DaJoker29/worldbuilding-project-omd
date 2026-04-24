@@ -50,6 +50,9 @@ START: Aid, Water Walking, Telepathic Bond
 - We all follow after seeing all the freaks outside. Veyllis seems bothered.
 - Abbot eye fucks us. Offers us food and warmth.
 - "Him and his companion" — Vasilka
-- 
+- Un excuses himself to go talk to the freaky spider wing lady.
+- Abbot - Has met Strahd twice.
+	- First time saw longing and a need for love.
+	- Second time saw 
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
