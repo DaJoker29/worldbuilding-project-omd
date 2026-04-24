@@ -32,6 +32,10 @@ START: Aid, Water Walking, Telepathic Bond
 		- Guards and people tending their gardens.
 	- They go around and beg for food like some filthy beggar broke boys.
 - VEYLLIS and ADI
+	- Encounter some freaks at the gate of the abbey.
+	- Otto and Zygfrek Belview
 - UN and VIRION and IRWIN
+	- Statue.
+	- IRWIN's name starts with a U
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
