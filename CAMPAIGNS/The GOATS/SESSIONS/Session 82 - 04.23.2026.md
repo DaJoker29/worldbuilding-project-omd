@@ -34,9 +34,11 @@ START: Aid, Water Walking, Telepathic Bond
 - VEYLLIS and ADI
 	- Encounter some freaks at the gate of the abbey.
 	- Otto and Zygfrek Belview
+	- Veyllis - Prefer to be called "freks"
 - UN and VIRION and IRWIN
 	- Statue.
 	- IRWIN's name starts with a U
 	- Thinks watery feet are deliciousness.
+	- Dimension door to the top of the abbey
 
 ***Next Session***: May 7th (last game before pause; resume July 2)
