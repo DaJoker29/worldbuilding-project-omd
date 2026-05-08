@@ -15,7 +15,7 @@ START: Aid, Water Walking, Telepathic Bond
 
 **Inventory**
 ```
-+
++ Wreath for Vasilka's brother
 ```
 
 **Start Here**
