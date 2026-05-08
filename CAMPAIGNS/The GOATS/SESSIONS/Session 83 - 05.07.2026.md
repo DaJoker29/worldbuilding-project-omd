@@ -25,3 +25,10 @@ START: Aid, Water Walking, Telepathic Bond
 - Vasilka gives wreath/necklace to give to her "brother".
 - Esmerelda
 - Werewolves are starting to be able to move through the Mist.
+- Strahd's weakness or tool to use against him
+	- Innocent + Traitor
+- Will Bonk be able to heal his friend, Lann?
+	- Healer + Avenger + Broken One
+- How does Virion regain what he's lost?
+	- Charlatan + Darklord
+- 
