@@ -36,3 +36,7 @@ START: Aid, Water Walking, Telepathic Bond
 	- Executioner
 - Is the Abbey's corruption something we need to deal with?
 	- Mists + Missionary + Darklord
+- White robed woman kneeling before a winged man.
+	- Gold robed woman presents a silver statuette to a cleric kneeling.
+	- Woman raises golden mace and prayers. Statuette sits alone in a cold dark tomb beneath twisted steps in a keep.
+	- Sliver of amber surrounds that statue. Fog and corruption coming from beneath that statue. Fading into the land around it.
