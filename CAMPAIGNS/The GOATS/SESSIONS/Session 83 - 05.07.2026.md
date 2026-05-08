@@ -31,4 +31,5 @@ START: Aid, Water Walking, Telepathic Bond
 	- Healer + Avenger + Broken One
 - How does Virion regain what he's lost?
 	- Charlatan + Darklord
+	- We tell Virion about what happened to Rin.
 - 
