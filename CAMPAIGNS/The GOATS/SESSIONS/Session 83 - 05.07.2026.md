@@ -19,3 +19,4 @@ START: Aid, Water Walking, Telepathic Bond
 ```
 
 **Start Here**
+- Marzana has escaped. The abbott is pursuing.
