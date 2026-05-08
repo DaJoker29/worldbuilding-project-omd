@@ -15,10 +15,12 @@ START: Aid, Water Walking, Telepathic Bond
 
 **Inventory**
 ```
-+ Wreath for Vasilka's brother
++/- Wreath for Vasilka's brother
+
 ```
 
 **Start Here**
 - Marzana has escaped. The abbott is pursuing.
 - SCHLURP!
 - Vasilka gives wreath/necklace to give to her "brother".
+- Esmerelda
