@@ -8,6 +8,14 @@
 
 **Initiative**
 
-**Effects**: Aid, Water Walking, Telepathic Bond
+**Effects**
+```
+START: Aid, Water Walking, Telepathic Bond
+```
+
+**Inventory**
+```
++
+```
 
 **Start Here**
