@@ -30,6 +30,9 @@ START: Aid, Water Walking, Telepathic Bond
 - Will Bonk be able to heal his friend, Lann?
 	- Healer + Avenger + Broken One
 - How does Virion regain what he's lost?
-	- Charlatan + Darklord
+	- Charlatan + Darklord (reversed)
 	- We tell Virion about what happened to Rin.
-- 
+- What's going on with Izek?
+	- Executioner
+- Is the Abbey's corruption something we need to deal with?
+	- Mists + Missionary + Darklord
