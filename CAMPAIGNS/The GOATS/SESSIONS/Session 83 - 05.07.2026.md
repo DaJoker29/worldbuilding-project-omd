@@ -41,4 +41,4 @@ START: Aid, Water Walking, Telepathic Bond
 	- Woman raises golden mace and prayers. Statuette sits alone in a cold dark tomb beneath twisted steps in a keep.
 	- Sliver of amber surrounds that statue. Fog and corruption coming from beneath that statue. Fading into the land around it.
 - Confronted by the Abbot about giving the necklace to Vasilka's brother.
-- 
+- Letter arrives: Invitation to Strahd and Ireena's Wedding
