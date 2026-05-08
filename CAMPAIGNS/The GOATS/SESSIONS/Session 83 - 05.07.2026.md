@@ -24,3 +24,4 @@ START: Aid, Water Walking, Telepathic Bond
 - SCHLURP!
 - Vasilka gives wreath/necklace to give to her "brother".
 - Esmerelda
+- Werewolves are starting to be able to move through the Mist.
