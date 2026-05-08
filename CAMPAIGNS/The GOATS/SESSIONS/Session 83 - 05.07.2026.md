@@ -1,4 +1,4 @@
-**Portent**: `[8][19]`
+**Portent**: `[8][x]`
 **Hero Point**: `[ ]`
 **Silvery Barbs**: `[ ]`
 **Misty Step**: `[ ]`
@@ -40,3 +40,5 @@ START: Aid, Water Walking, Telepathic Bond
 	- Gold robed woman presents a silver statuette to a cleric kneeling.
 	- Woman raises golden mace and prayers. Statuette sits alone in a cold dark tomb beneath twisted steps in a keep.
 	- Sliver of amber surrounds that statue. Fog and corruption coming from beneath that statue. Fading into the land around it.
+- Confronted by the Abbot about giving the necklace to Vasilka's brother.
+- 
