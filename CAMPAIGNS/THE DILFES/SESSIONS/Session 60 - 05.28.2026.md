@@ -14,4 +14,6 @@
 - Linneaus goes into a room and sees his brother in a big blood circle thing.
 - Bo is going down a Willingham/Billingham rabbit hole.
 - Simp and Axis are throwing books into the void.
+- Simp fell through the void and disappeared forever.
+- Bo and Linneaus run into Bonhart
 - 
