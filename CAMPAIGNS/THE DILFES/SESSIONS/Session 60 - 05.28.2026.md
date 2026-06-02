@@ -16,4 +16,4 @@
 - Simp and Axis are throwing books into the void.
 - Simp fell through the void and disappeared forever.
 - Bo and Linneaus run into Bonhart
-- 
+- Niccolo chased someone. Didn't realize it was Abraham.
