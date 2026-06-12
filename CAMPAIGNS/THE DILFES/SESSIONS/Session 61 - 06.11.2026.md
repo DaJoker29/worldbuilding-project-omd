@@ -14,3 +14,5 @@
 
 - Bonhart locks us in the room to "audition". 
 - He tries to grab Niccolo's hand and fails. Niccolo cuts his other pinky off.
+- Bonhart continues fighting us. Nearly kills Bonk, Niccolo, and Linneaus.
+- Axis finds Simp and sees Tessa.
