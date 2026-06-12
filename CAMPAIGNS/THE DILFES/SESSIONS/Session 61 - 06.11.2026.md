@@ -1,8 +1,8 @@
-**Bardic (d8)**: `[ ][ ][ ][ ][ ]`
-**Echo Blade**: `[ ]`
+**Bardic (d8)**: `[x][ ][ ][ ][ ]`
+**Echo Blade**: `[x]`
 **Terror**: `[ ]`
 **Invisibility**: `[ ]`
-**Hexblade's Curse**: `[ ]`
+**Hexblade's Curse**: `[x]`
 **Hell Hound Cloak**: `[ 3 / 6 ]`
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
@@ -12,4 +12,5 @@
 
 *Start here*
 
-- 
+- Bonhart locks us in the room to "audition". 
+- He tries to grab Niccolo's hand and fails. Niccolo cuts his other pinky off.
