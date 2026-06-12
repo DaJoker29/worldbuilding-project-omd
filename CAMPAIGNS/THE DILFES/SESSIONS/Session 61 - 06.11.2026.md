@@ -1,4 +1,4 @@
-**Bardic (d8)**: `[x][ ][ ][ ][ ]`
+**Bardic (d8)**: `[x][x][ ][ ][ ]`
 **Echo Blade**: `[x]`
 **Terror**: `[ ]`
 **Invisibility**: `[ ]`
