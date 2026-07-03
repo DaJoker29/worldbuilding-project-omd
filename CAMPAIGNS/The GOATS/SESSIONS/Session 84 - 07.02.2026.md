@@ -20,3 +20,4 @@ START: Aid, Water Walking, Telepathic Bond
 
 **Start Here**
 - 3 days (in-game) until the start of Strahd's Wedding.
+- "We're taking the girl through rough country. Don't fret. We'll protect her. If we fail, come save her."
