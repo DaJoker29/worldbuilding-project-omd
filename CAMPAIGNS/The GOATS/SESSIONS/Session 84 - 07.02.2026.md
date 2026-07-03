@@ -19,4 +19,4 @@ START: Aid, Water Walking, Telepathic Bond
 ```
 
 **Start Here**
-- Strahd
+- 3 days (in-game) until the start of Strahd's Wedding.
