@@ -19,3 +19,4 @@ START: Aid, Water Walking, Telepathic Bond
 ```
 
 **Start Here**
+- Strahd
