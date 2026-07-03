@@ -27,3 +27,5 @@ START: Aid, Water Walking, Telepathic Bond
 - Note to Abbott: "We're taking the girl through rough country. Don't fret. We'll protect her. If we fail, come save her."
 - We approach heavily-fortified den; smells like dog.
 	- One stands out to Bonk; scarred and stapled together "werewolf", different fur patterns.
+
+**Other**: The Cum Lake is not entirely cum apparently.
