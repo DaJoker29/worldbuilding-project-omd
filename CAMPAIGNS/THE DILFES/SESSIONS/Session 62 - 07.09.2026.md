@@ -7,7 +7,6 @@
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
 
-
 **Leveling up to 9**
 - Warlock 3
 - Pact Boon: Pact of the Chain (Sprite)
@@ -24,11 +23,12 @@
 - Niccolo collects candles and records circles of blood.
 - Linneaus is suffering from extreme blood loss (talks about how he misses Horus).
 - Sword tells us to head upstairs and stab someone to get help.
+- We find **Leech**.
+- Mmm'kay.
+- We start to head upstairs and find Tessa talking to Bonhart and Bo.
 
 **Warforged named Leech**
 - Suit of armor; burgundy cape; little flower poking out from his head. Little fan turns on inside. Eyes turn whitish-grey. Shield and a mace.
 - Believes all people deserve to be healed unless they are evil.
-- Mmm'kay.
-- 
 
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
