@@ -19,4 +19,3 @@
 **Initiative**
 
 *Start here*
-
