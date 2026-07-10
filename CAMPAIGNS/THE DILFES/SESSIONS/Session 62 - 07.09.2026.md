@@ -6,7 +6,7 @@
 **Hell Hound Cloak**: `[ 3 / 6 ]`
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
-**Gaze of Two Minds**: `At will`
+
 
 **Leveling up to 9**
 - Warlock 3
@@ -24,6 +24,9 @@
 - Niccolo collects candles and records circles of blood.
 - Linneaus is suffering from extreme blood loss (talks about how he misses Horus).
 - Sword tells us to head upstairs and stab someone to get help.
-- Suit of armor; burg
+
+**Warforged named Leech**
+- Suit of armor; burgundy cape; little flower poking out from his head. Little fan turns on inside. Eyes turn whitish-grey. Shield and a mace.
+- 
 
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
