@@ -23,5 +23,6 @@
 - We argue a bit.
 - Niccolo collects candles and records circles of blood.
 - Linneaus is suffering from extreme blood loss (talks about how he misses Horus).
+- Sword tells us to head upstairs and stab someone to get help.
 
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
