@@ -22,5 +22,6 @@
 - We don't know where Bo is.
 - We argue a bit.
 - Niccolo collects candles and records circles of blood.
+- Linneaus is suffering from extreme blood loss (talks about how he misses Horus).
 
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
