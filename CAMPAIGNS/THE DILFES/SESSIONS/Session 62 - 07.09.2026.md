@@ -27,6 +27,8 @@
 
 **Warforged named Leech**
 - Suit of armor; burgundy cape; little flower poking out from his head. Little fan turns on inside. Eyes turn whitish-grey. Shield and a mace.
+- Believes all people deserve to be healed unless they are evil.
+- Mmm'kay.
 - 
 
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
