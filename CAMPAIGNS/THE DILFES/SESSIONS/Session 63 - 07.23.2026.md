@@ -23,4 +23,10 @@
 - 
 
 *Start here*
-- We persuade Axis's patron (Mirius) to give us a boon for protecting the lamp while Axis is inside.
+- We persuade Axis's patron (Mirius) to give us a boon for protecting the lamp while Axis is inside. (1 warlock level for whoever is holding the lamp.)
+- Leech asks people "what is the meaning of life?"
+	- Bob: "Beer"
+	- Mirius: "42"
+	- Niccolo: "Titties"
+	- Linneaus: Long, meandering fake-humble non-answer.
+- 
