@@ -17,10 +17,10 @@
 
 **Initiative**
 
-*Start here*
-
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
-
 
 *Sprite Names*:
 - 
+
+*Start here*
+- We persuade Axis's patron (Mirius) to give us a boon for protecting the lamp while Axis is inside.
