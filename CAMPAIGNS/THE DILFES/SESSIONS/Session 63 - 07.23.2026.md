@@ -22,4 +22,9 @@
 	- Niccolo: "Titties"
 	- Linneaus: Long, meandering fake-humble non-answer.
 - Tessa and Mirius conversating about the secret of life in private.
+
+> Observatory
+> Giant telescope looking out at other planets. 
+
 - Porcelain bowl with metal lining
+- Signs and pairs of symbols of constellations and stars. Measurements between two symbols. Something is decreasing more and more over the years.
