@@ -22,3 +22,4 @@
 	- Niccolo: "Titties"
 	- Linneaus: Long, meandering fake-humble non-answer.
 - Tessa and Mirius conversating about the secret of life in private.
+- Porcelain bowl with metal lining
