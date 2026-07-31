@@ -15,10 +15,13 @@ START: Aid, Water Walking, Telepathic Bond
 
 **Inventory**
 ```
-+/- Wreath for Vasilka's brother
++/- 
 ```
 
 **Start Here**
+
+- Updated all my spells in Roll20
+
 
 **Next Session**: August 27th
 
