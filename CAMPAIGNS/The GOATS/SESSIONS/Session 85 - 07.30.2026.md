@@ -37,6 +37,11 @@ START: Aid, Water Walking, Telepathic Bond
 - Un set a tree on fire.
 - Urwin sees a woman near a secret blood rusted crevice up above and a woman shoots magic at him.
 - We approach the main sentinel as they watch.
+	- Unbalanced. Arms bulging. Too many muscles. Howls with no sound. Cannot call anyone.
+	- Snow melts around it's hot feet
+	- Does the Goku Instant Transmission
+	- Silver thread wrapped in between the teeth like braces. Blood drips down from muzzle.
+- 
 
 **Next Session**: August 27th
 ### Birthdays
