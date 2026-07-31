@@ -22,9 +22,9 @@ START: Aid, Water Walking, Telepathic Bond
 
 **Next Session**: August 27th
 
+Trevor's Birthday: May 13th
 Wade's Birthday: July 16th
 Dewitt's Birthday: July 29th
 Kyle's Birthday: July 31st
 Ryan's Birthday: August 20th
 John-Alan's Birthday: October 17th
-Trevor's Birthday: Taurus
