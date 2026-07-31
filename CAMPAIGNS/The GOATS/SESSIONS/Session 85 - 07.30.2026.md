@@ -35,7 +35,8 @@ START: Aid, Water Walking, Telepathic Bond
 - Updated all my spells in Roll20
 - We saw a giant weird werewolf monster (stitched together).
 - Un set a tree on fire.
-- 
+- Urwin sees a woman near a secret blood rusted crevice up above and a woman shoots magic at him.
+- We approach the main sentinel as they watch.
 
 **Next Session**: August 27th
 ### Birthdays
