@@ -33,6 +33,9 @@ START: Aid, Water Walking, Telepathic Bond
 **Start Here**
 
 - Updated all my spells in Roll20
+- We saw a giant weird werewolf monster (stitched together).
+- Un set a tree on fire.
+- 
 
 **Next Session**: August 27th
 ### Birthdays
