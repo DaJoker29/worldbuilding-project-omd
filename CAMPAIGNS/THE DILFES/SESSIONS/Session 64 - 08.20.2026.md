@@ -43,5 +43,8 @@
 - We follow them up into secret room.
 - Bloody room. Sword resting on table and Jaco tosses it aside.
 - Jaco swaps Tessa's pendant and Linneaus swipes it.
+- Linneaus gives Tessa her pendant.
 
-**Joe reposted JA's TikTok story IRL.**
+**Joe retells the same joke from TikTok that JA told an hour earlier.**
+
+- 
