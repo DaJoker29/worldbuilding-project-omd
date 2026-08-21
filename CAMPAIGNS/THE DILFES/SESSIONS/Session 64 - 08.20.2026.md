@@ -1,4 +1,4 @@
-**Bardic (d8)**: `[x][x][ ][ ][ ]`
+**Bardic (d8)**: `[x][x][x][x][ ]`
 **Echo Blade**: `[x]`
 **Terror**: `[ ]`
 **Invisibility**: `[x]`
@@ -44,6 +44,7 @@
 - Bloody room. Sword resting on table and Jaco tosses it aside.
 - Jaco swaps Tessa's pendant and Linneaus swipes it.
 - Linneaus gives Tessa her pendant.
+- Jaco drops smoke bomb.
 
 **Joe retells the same joke from TikTok that JA told an hour earlier.**
 
@@ -51,3 +52,6 @@ JA: "Upwardly..."
 Joe: "Upwardly?"
 Wade: "Never called anyone an upward before."
 
+- Jaco runs upstairs. Tessa chases. Invisible helper attacks the party.
+- Leech goes down. Niccolo heals with healing potion.
+- As we stabbed the invisible assassin in the smoke, magical energy flowed into us as the magic circle surged. (Niccolo regained a 3rd level slot.)
