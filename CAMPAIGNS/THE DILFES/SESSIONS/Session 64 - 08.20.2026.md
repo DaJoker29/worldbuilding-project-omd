@@ -47,4 +47,6 @@
 
 **Joe retells the same joke from TikTok that JA told an hour earlier.**
 
-- 
+JA: "Upwardly..."
+Joe: "Upwardly?"
+Wade: "never"
