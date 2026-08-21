@@ -49,4 +49,5 @@
 
 JA: "Upwardly..."
 Joe: "Upwardly?"
-Wade: "never"
+Wade: "Never called anyone an upward before."
+
