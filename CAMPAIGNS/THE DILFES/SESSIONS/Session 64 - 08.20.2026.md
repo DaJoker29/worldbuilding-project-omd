@@ -17,6 +17,29 @@
 **Goal**: Niccolo will attempt to summon a sprite and then bind it with blood magic (like Bo).
 
 *Sprite Names*:
+- **Vessi**
+- **Morrow**
+- **Sivvet**
+- **Rill**
+- **Thimble**
+- **Vetch**
+- **Nixie**
+- **Briar**
+- **Pipkin**
+- **Midge**
+- **Tatter**
+- **Sickle**
+- **Rook**
+- **Wisp**
+- **Nettle**
+- **Cricket**
+- **Vex**
+- **Prickle**
+- **Sallow**
+- **Twitch**
 
 *Start here*
 - Tessa charges forward and Jacob refuses to give something back.
+- We follow them up into secret room.
+- Bloody room. Sword resting on table and Jaco tosses it aside.
+- 
