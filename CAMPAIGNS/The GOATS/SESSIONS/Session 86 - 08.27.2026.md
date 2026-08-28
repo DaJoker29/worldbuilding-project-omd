@@ -25,6 +25,7 @@ START: Aid, Water Walking, Telepathic Bond
 
 - Recover the seed
 - Rescue Rictavio (and get his carts) if he is here
+- Protect Bonk's Soul
 
 **Start Here**
 
