@@ -31,6 +31,8 @@ START: Aid, Water Walking, Telepathic Bond
 
 - Pitch blackness in the cave (no fires like on the map)
 - Dank light drizzle
+- We fight two more werewolves
+- Pidlwick has a crush on Vasilka
 
 
 **Next Session**: 
@@ -64,5 +66,9 @@ START: Aid, Water Walking, Telepathic Bond
 **Thought:**
 
 #### Pidlwick
+**Feeling:** 
+**Thought:**
+
+#### Vasilka
 **Feeling:** 
 **Thought:**
