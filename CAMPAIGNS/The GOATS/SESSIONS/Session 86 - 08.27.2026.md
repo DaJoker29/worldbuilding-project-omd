@@ -56,8 +56,8 @@ START: Aid, Water Walking, Telepathic Bond
 **Thought:**
 
 #### Friend
-**Feeling:** 
-**Thought:**
+**Feeling:** 3/5
+**Thought:** Kindred soul. Seen the darkness, knows the importance of keeping things light.
 
 #### Urwin
 **Feeling:** 
