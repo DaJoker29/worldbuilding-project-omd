@@ -33,6 +33,10 @@ START: Aid, Water Walking, Telepathic Bond
 - Dank light drizzle
 - We fight two more werewolves
 - Pidlwick has a crush on Vasilka
+- Elderly doll. Withered and old looking. Holding a wine bottle. Zombified Un.
+	- Tag: Is no fun, is no blinsky.
+- Abjuration, Necromancy, and Enchantment
+- Un gives everyone Bardic Inspiration.
 
 
 **Next Session**: 
