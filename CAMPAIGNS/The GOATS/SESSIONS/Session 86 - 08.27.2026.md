@@ -10,7 +10,7 @@
 
 **Effects**
 ```
-START: Aid, Water Walking, Telepathic Bond
+START: Aid, Water Walking, Telepathic Bond, Bless
 ```
 
 **Inventory**
@@ -42,6 +42,8 @@ START: Aid, Water Walking, Telepathic Bond
 - Two more big werewolves appear.
 - INITIATIVE
 - Virion summons draconic spirit (dope as shit)
+- Un transformed into a Huge Giant Crab
+- Veyllis casts Bless
 
 
 **Next Session**: 
