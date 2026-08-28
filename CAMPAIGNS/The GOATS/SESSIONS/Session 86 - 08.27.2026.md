@@ -30,6 +30,7 @@ START: Aid, Water Walking, Telepathic Bond
 **Start Here**
 
 - Pitch blackness in the cave (no fires like on the map)
+- Dank light drizzle
 
 
 **Next Session**: 
