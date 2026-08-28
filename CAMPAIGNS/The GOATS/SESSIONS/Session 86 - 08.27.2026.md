@@ -39,6 +39,9 @@ START: Aid, Water Walking, Telepathic Bond
 - Un gives everyone Bardic Inspiration.
 - We find the last werewolf. It can only be seen in the light. We shine light and ask if it is Lann. No response.
 - The wife who played with Bonk's mind appeared.
+- Two more big werewolves appear.
+- INITIATIVE
+- Virion summons draconic spirit (dope as shit)
 
 
 **Next Session**: 
