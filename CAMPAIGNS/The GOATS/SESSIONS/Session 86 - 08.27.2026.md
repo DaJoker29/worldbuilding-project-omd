@@ -37,6 +37,8 @@ START: Aid, Water Walking, Telepathic Bond
 	- Tag: Is no fun, is no blinsky.
 - Abjuration, Necromancy, and Enchantment
 - Un gives everyone Bardic Inspiration.
+- We find the last werewolf. It can only be seen in the light. We shine light and ask if it is Lann. No response.
+- The wife who played with Bonk's mind appeared.
 
 
 **Next Session**: 
