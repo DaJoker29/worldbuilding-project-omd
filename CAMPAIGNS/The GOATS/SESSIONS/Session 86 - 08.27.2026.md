@@ -38,36 +38,30 @@ START: Aid, Water Walking, Telepathic Bond
 
 *Adi's Views on Other Characters.*
 #### Bonk
-**Feeling:** 
-**Thought:**
-**Why:**
+**Feeling:** 5/5
+**Thought:** He's the only one with any shred of innocence left. It needs to be protected.
+
 
 #### Un
-**Feeling:** 
-**Thought:**
-**Why:**
+**Feeling:** 1/5
+**Thought:** Tempting fate or just arrogant. Either way, he's bad luck.
 
 #### Veyllis
 **Feeling:** 
 **Thought:**
-**Why:**
 
 #### Virion
 **Feeling:** 
 **Thought:**
-**Why:**
 
 #### Friend
 **Feeling:** 
 **Thought:**
-**Why:**
 
 #### Urwin
 **Feeling:** 
 **Thought:**
-**Why:**
 
 #### Pidlwick
 **Feeling:** 
 **Thought:**
-**Why:**
