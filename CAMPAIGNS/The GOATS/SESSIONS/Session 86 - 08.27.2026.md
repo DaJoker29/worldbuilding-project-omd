@@ -42,8 +42,9 @@ START: Aid, Water Walking, Telepathic Bond, Bless
 - Two more big werewolves appear.
 - INITIATIVE
 - Virion summons draconic spirit (dope as shit)
-- Un transformed into a Huge Giant Crab
+- Un transformed into a Huge Giant Crab. It contracts lycanthrophy.
 - Veyllis casts Bless
+- Werewolf begins to burn Bonk.
 
 
 **Next Session**: 
