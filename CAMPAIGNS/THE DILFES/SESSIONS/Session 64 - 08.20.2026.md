@@ -7,7 +7,7 @@
 **Disguise**: `At will`
 **Speak with Animals**: `At will`
 
-**Initiative**
+**Initiative**i
 - Niccolo - 24.16
 - Jacomyntje - 22
 - Linneaus - 15
