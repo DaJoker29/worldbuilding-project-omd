@@ -1,5 +1,6 @@
 Goth (Warlock)
 Ranged
+[4 / 5 Hearts]
 
 | Great | Good  | Bad  |
 | ----- | ----- | ---- |
