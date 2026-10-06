@@ -1,4 +1,5 @@
 Goth (Warlock)
+Beaumont Wesregard Antonion Philimonica IV
 Ranged
 [4 / 5 Hearts]
 
