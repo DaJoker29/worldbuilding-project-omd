@@ -3,4 +3,7 @@ Character: Bible Study Leader ([[246 Character Sheet - Bible Study Leader.pdf|pd
 
 Mr. Bell (teacher)
 Ms. Buttlicker (JA)
-- 
+- Student Body President
+
+Burnout (Trevor)
+Band Kid (Wade)
