@@ -12,3 +12,5 @@ Ms. Amy Buttlicker (JA)
 
 Burnout (Trevor)
 Garage Band Kid (Wade)
+
+Principal's Office turns into a giant office.
