@@ -6,4 +6,4 @@ Ms. Amy Buttlicker (JA)
 - Student Body President
 
 Burnout (Trevor)
-Band Kid (Wade)
+Garage Band Kid (Wade)
