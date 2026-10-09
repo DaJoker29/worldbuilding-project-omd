@@ -2,7 +2,7 @@ Character: Bible Study Leader ([[246 Character Sheet - Bible Study Leader.pdf|pd
 [Hearts 5/5]
 
 Mr. Bell (teacher)
-Ms. Buttlicker (JA)
+Ms. Amy Buttlicker (JA)
 - Student Body President
 
 Burnout (Trevor)
