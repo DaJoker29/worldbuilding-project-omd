@@ -10,7 +10,7 @@
 *Initiative*:
 
 *Start here*:
-
+- (According to Joe, we're at session 68.)
 
 
 *Next Session*: 
