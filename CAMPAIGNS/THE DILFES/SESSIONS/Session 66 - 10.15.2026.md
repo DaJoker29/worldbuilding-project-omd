@@ -11,6 +11,7 @@
 
 *Start here*:
 - (According to Joe, we're at session 68.)
+- Oryn (guy in the cage) talks to Tessa
 
 
 *Next Session*: 
