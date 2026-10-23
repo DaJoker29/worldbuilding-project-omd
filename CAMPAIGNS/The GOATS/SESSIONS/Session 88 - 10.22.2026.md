@@ -29,3 +29,4 @@ START: Aid, Water Walking, Telepathic Bond, Bless
 
 **Start Here**
 - Adi heads upstairs and sees a teleportation circle on the wall.
+- Adi teleports outside 
