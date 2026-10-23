@@ -28,3 +28,4 @@ START: Aid, Water Walking, Telepathic Bond, Bless
 - Protect Bonk's Soul
 
 **Start Here**
+- Adi heads upstairs and sees a teleportation circle on the wall.
