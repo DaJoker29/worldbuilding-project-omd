@@ -14,7 +14,5 @@
 - Oryn (guy in the cage) talks to Tessa. She says he is the son of a god. She wants to kill his mom.
 - We go up to a floating space room.
 - Two statues. One is marred and hte other unmarred. One of them keeps their eyes on Niccolo.
-- 
-
 
 *Next Session*: 
