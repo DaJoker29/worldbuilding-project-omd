@@ -14,8 +14,9 @@
 - Axis appeared out of the lamp and almost fell into the astral but started to fly.
 - Jacomynthje teleports out and Linneaus snipes him from a mile away.
 - Axis goes to fetch the body.
-- A man appears and then stabs Axis in the neck. Linneaus shoots it.
+- A man appears and then puts a collar on Axis's neck. Linneaus shoots it.
 - He flies back to us and attacks Linneaus.
+- 
 
 *Next Session*: 
 
