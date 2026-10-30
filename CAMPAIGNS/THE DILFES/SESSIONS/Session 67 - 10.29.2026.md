@@ -12,6 +12,7 @@
 *Start here*:
 - Niccolo revived Leech with a nat 20 stabilize check.
 - Axis appeared out of the lamp and almost fell into the astral but started to fly.
+- Jacomynthje teleports out and Linneaus snipes him from a mile away.
 
 *Next Session*: 
 
