@@ -19,3 +19,4 @@
 *Appendix*:
 
 - Next time we see Bob, we need to sing the Spongebob "F.U.N." song.
+- Niccolo will attempt to summon a sprite and then bind it with blood magic.
