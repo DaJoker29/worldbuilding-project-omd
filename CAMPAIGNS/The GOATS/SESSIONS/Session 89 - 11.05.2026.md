@@ -35,3 +35,4 @@ START: Aid, Water Walking, Telepathic Bond, Bless
 	- Keirel = Control
 	- Lann = Primary
 	- 18 were transferred.
+- Adi makes 4 child zombies in dark clothes. Veyllis is polishing his shield w/tears running down his face.
