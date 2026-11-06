@@ -30,3 +30,4 @@ START: Aid, Water Walking, Telepathic Bond, Bless
 **Start Here**
 - Simple little shadow holding back Delban and the others. His puppet sits on a throne. If we take care of his puppet, he will help us.
 	- Seek out very matronly entrepreneurs. We may lose a "friendly bird" in the process.
+- 
